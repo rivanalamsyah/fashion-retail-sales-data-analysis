@@ -9,5 +9,8 @@
 ### - Kepuasan Pelanggan: Rata-rata ulasan pelanggan berada di 3.39/5, menunjukkan adanya peluang untuk perbaikan.
 ### - Retention Pelanggan: Mayoritas pelanggan melakukan satu kali pembelian, yang menandakan rendahnya tingkat retensi.
 
-## 🔗 Temukan lebih banyak data:
+## 🔗 Link dataset:
 ### https://www.kaggle.com/datasets/atharvasoundankar/fashion-retail-sales/data
+
+## 🔗 Link Streamlit:
+### https://fashion-retail-sales-data-analysis.streamlit.app/
