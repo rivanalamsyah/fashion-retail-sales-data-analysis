@@ -1,16 +1,13 @@
-This report presents a comprehensive analysis of retail sales data for a fashion brand across 2022–2023. By examining customer transactions, product performance, time-based patterns, payment preferences, customer satisfaction, and segmentation, the goal is to generate data-driven insights that support better business decisions and improved customer strategies.
+## 📊 Laporan Analisis Penjualan Ritel Fashion 2022–2023
+### Laporan ini menyajikan analisis mendalam mengenai data penjualan ritel untuk sebuah merek fashion selama periode 2022 hingga 2023. Dengan mengeksplorasi transaksi pelanggan, kinerja produk, pola berbasis waktu, preferensi pembayaran, kepuasan pelanggan, dan segmentasi, kami bertujuan untuk menghasilkan wawasan berbasis data yang mendukung pengambilan keputusan bisnis yang lebih baik dan strategi pelanggan yang lebih efektif.
 
-Key insights:
+## 💡 Wawasan Kunci:
+### Total Pendapatan: Mencapai $8.1 juta – sebuah pencapaian yang signifikan!
+### Produk Terlaris: T-Shirt mendominasi sebagai item yang paling banyak dibeli.
+### Puncak Pembelian: Terjadi pada Maret 2023, menunjukkan tren musiman yang menarik.
+### Preferensi Pembayaran: Pembayaran dengan Cash sedikit lebih unggul dibandingkan Kartu Kredit.
+### Kepuasan Pelanggan: Rata-rata ulasan pelanggan berada di 3.39/5, menunjukkan adanya peluang untuk perbaikan.
+### Retention Pelanggan: Mayoritas pelanggan melakukan satu kali pembelian, yang menandakan rendahnya tingkat retensi.
 
-Total revenue reached $8.1M
-
-T-Shirts are the most purchased items
-
-Peak purchases occurred in March 2023
-
-Cash slightly outperformed Credit Card as a payment method
-
-Customer reviews averaged 3.39/5, indicating room for improvement
-
-The majority of customers made a single purchase, indicating low retention
-
+## 🔗 Temukan lebih banyak data:
+### https://www.kaggle.com/datasets/atharvasoundankar/fashion-retail-sales/data
