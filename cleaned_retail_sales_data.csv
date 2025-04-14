@@ -1,0 +1,2488 @@
+Customer Reference ID,Item Purchased,Purchase Amount (USD),Date Purchase,Review Rating,Payment Method,Year,Month,Month_Name,Day,Weekday
+4115,Tunic,2456,7/11/2023,2,Credit Card,2023,7,Jul,11,Tuesday
+4019,Tank Top,2102,3/23/2023,4.1,Cash,2023,3,Mar,23,Thursday
+4097,Leggings,3126,3/15/2023,3.2,Cash,2023,3,Mar,15,Wednesday
+3997,Wallet,3003,11/27/2022,4.7,Cash,2022,11,Nov,27,Sunday
+4080,Onesie,2914,12/11/2022,4.5,Credit Card,2022,12,Dec,11,Sunday
+4055,Jacket,2571,7/8/2023,1.3,Cash,2023,7,Jul,8,Saturday
+3973,Trousers,2419,11/10/2022,4.6,Cash,2022,11,Nov,10,Thursday
+4044,Jeans,4771,5/19/2023,4.1,Cash,2023,5,May,19,Friday
+4108,Slippers,2356,3/19/2023,4.8,Credit Card,2023,3,Mar,19,Sunday
+4067,Bowtie,4418,11/21/2022,3.4,Cash,2022,11,Nov,21,Monday
+4102,Trench Coat,2130,1/29/2023,4.8,Cash,2023,1,Jan,29,Sunday
+4044,Handbag,2122,8/1/2023,1.2,Credit Card,2023,8,Aug,1,Tuesday
+4017,Gloves,2895,7/17/2023,3.6,Credit Card,2023,7,Jul,17,Monday
+4001,Trench Coat,2952,6/13/2023,2.2,Cash,2023,6,Jun,13,Tuesday
+3976,Slippers,4069,6/18/2023,4.9,Credit Card,2023,6,Jun,18,Sunday
+3986,Gloves,4298,4/5/2023,4.2,Cash,2023,4,Apr,5,Wednesday
+4108,Jeans,2814,2/11/2023,4.4,Credit Card,2023,2,Feb,11,Saturday
+4109,Flip-Flops,4932,12/20/2022,4,Credit Card,2022,12,Dec,20,Tuesday
+4075,Tunic,4661,4/12/2023,1.2,Credit Card,2023,4,Apr,12,Wednesday
+4040,Shorts,4872,8/25/2023,3.8,Cash,2023,8,Aug,25,Friday
+4099,Blazer,4232,10/25/2022,2.7,Credit Card,2022,10,Oct,25,Tuesday
+3981,Boots,3718,9/10/2023,2.8,Credit Card,2023,9,Sep,10,Sunday
+4070,Poncho,2902,8/4/2023,4.9,Cash,2023,8,Aug,4,Friday
+4002,Belt,3839,5/26/2023,1.8,Cash,2023,5,May,26,Friday
+4035,Tunic,4413,12/23/2022,1.2,Credit Card,2022,12,Dec,23,Friday
+4060,Boots,3139,1/26/2023,3.4,Credit Card,2023,1,Jan,26,Thursday
+3974,Flip-Flops,2026,4/16/2023,4,Cash,2023,4,Apr,16,Sunday
+4110,Hoodie,2653,10/11/2022,4.2,Credit Card,2022,10,Oct,11,Tuesday
+3984,Sweater,4859,12/19/2022,5,Cash,2022,12,Dec,19,Monday
+4054,Swimsuit,3393,2/28/2023,4.3,Cash,2023,2,Feb,28,Tuesday
+4083,Cardigan,2636,4/9/2023,1.7,Cash,2023,4,Apr,9,Sunday
+3972,Pants,3378,5/6/2023,3.6,Cash,2023,5,May,6,Saturday
+3980,Pajamas,2418,5/26/2023,2.2,Credit Card,2023,5,May,26,Friday
+4012,Scarf,2379,5/29/2023,2.9,Credit Card,2023,5,May,29,Monday
+3992,Backpack,101,12/13/2022,1.3,Credit Card,2022,12,Dec,13,Tuesday
+4105,Dress,164,10/20/2022,3.2,Credit Card,2022,10,Oct,20,Thursday
+4119,Boots,21,4/3/2023,3.9,Cash,2023,4,Apr,3,Monday
+3957,Camisole,147,11/4/2022,4.7,Cash,2022,11,Nov,4,Friday
+3995,Bowtie,30,11/23/2022,4.1,Cash,2022,11,Nov,23,Wednesday
+4072,Poncho,170,10/15/2022,3.6,Credit Card,2022,10,Oct,15,Saturday
+4093,Trousers,102,5/25/2023,2.1,Cash,2023,5,May,25,Thursday
+4031,Blouse,190,1/14/2023,3,Cash,2023,1,Jan,14,Saturday
+4114,Leggings,84,6/15/2023,3.8,Cash,2023,6,Jun,15,Thursday
+4104,Backpack,69,5/27/2023,2.1,Cash,2023,5,May,27,Saturday
+4071,Tunic,107,12/3/2022,1.5,Cash,2022,12,Dec,3,Saturday
+4007,Dress,172,4/5/2023,1.9,Cash,2023,4,Apr,5,Wednesday
+4009,Flannel Shirt,51,4/16/2023,1.8,Cash,2023,4,Apr,16,Sunday
+4038,Tie,63,2/13/2023,4.3,Cash,2023,2,Feb,13,Monday
+4033,Backpack,189,8/31/2023,4.9,Cash,2023,8,Aug,31,Thursday
+4102,Cardigan,175,6/5/2023,3.6,Credit Card,2023,6,Jun,5,Monday
+4068,Jeans,146,8/26/2023,1.1,Cash,2023,8,Aug,26,Saturday
+4045,Gloves,51,1/27/2023,2.5,Credit Card,2023,1,Jan,27,Friday
+3979,Camisole,79,6/5/2023,1.3,Cash,2023,6,Jun,5,Monday
+4106,Trousers,173,9/7/2023,3.4,Credit Card,2023,9,Sep,7,Thursday
+3959,Trousers,66,11/2/2022,4.5,Cash,2022,11,Nov,2,Wednesday
+4113,Boots,24,1/20/2023,1.2,Credit Card,2023,1,Jan,20,Friday
+4087,Scarf,18,11/21/2022,1.7,Credit Card,2022,11,Nov,21,Monday
+4060,Polo Shirt,112,6/8/2023,1.2,Cash,2023,6,Jun,8,Thursday
+3989,Sweater,64,3/13/2023,3.2,Credit Card,2023,3,Mar,13,Monday
+4032,Wallet,155,3/8/2023,1.1,Credit Card,2023,3,Mar,8,Wednesday
+3972,Boots,90,1/26/2023,4.6,Credit Card,2023,1,Jan,26,Thursday
+4051,Umbrella,137,6/30/2023,4.6,Cash,2023,6,Jun,30,Friday
+4097,Tank Top,174,10/10/2022,3.4,Cash,2022,10,Oct,10,Monday
+3970,Camisole,77,1/5/2023,2.4,Cash,2023,1,Jan,5,Thursday
+4100,Loafers,147,3/2/2023,3.9,Credit Card,2023,3,Mar,2,Thursday
+4048,Pajamas,159,11/8/2022,1.2,Credit Card,2022,11,Nov,8,Tuesday
+3985,Flannel Shirt,159,3/5/2023,2.6,Cash,2023,3,Mar,5,Sunday
+4029,Leggings,66,6/16/2023,3.7,Cash,2023,6,Jun,16,Friday
+3964,Hat,45,3/17/2023,4.8,Cash,2023,3,Mar,17,Friday
+4017,Bowtie,33,9/28/2023,3.3,Credit Card,2023,9,Sep,28,Thursday
+4067,Handbag,38,5/25/2023,3.1,Cash,2023,5,May,25,Thursday
+4117,Kimono,162,4/16/2023,1.1,Cash,2023,4,Apr,16,Sunday
+4060,Sweater,151,7/17/2023,3.2,Cash,2023,7,Jul,17,Monday
+4054,Handbag,12,12/29/2022,2.6,Credit Card,2022,12,Dec,29,Thursday
+4068,Pants,39,3/21/2023,2.4,Credit Card,2023,3,Mar,21,Tuesday
+4096,Scarf,147,2/11/2023,4.1,Credit Card,2023,2,Feb,11,Saturday
+4011,Blouse,174,4/21/2023,3.4,Cash,2023,4,Apr,21,Friday
+4001,Hoodie,85,9/17/2023,3.3,Cash,2023,9,Sep,17,Sunday
+4078,Hat,126,6/29/2023,2.1,Credit Card,2023,6,Jun,29,Thursday
+4005,Sun Hat,194,12/16/2022,2.9,Credit Card,2022,12,Dec,16,Friday
+4099,Scarf,138,5/20/2023,2.9,Credit Card,2023,5,May,20,Saturday
+4055,Boots,139,1/5/2023,1.9,Credit Card,2023,1,Jan,5,Thursday
+4063,Hoodie,173,6/23/2023,2.1,Credit Card,2023,6,Jun,23,Friday
+3996,Belt,60,3/4/2023,2.3,Credit Card,2023,3,Mar,4,Saturday
+3989,Overalls,148,5/19/2023,4.1,Credit Card,2023,5,May,19,Friday
+3991,Blazer,145,5/3/2023,4.5,Credit Card,2023,5,May,3,Wednesday
+3959,Coat,163,5/9/2023,3.5,Credit Card,2023,5,May,9,Tuesday
+3975,Camisole,14,2/7/2023,3.5,Cash,2023,2,Feb,7,Tuesday
+3961,Boots,88,10/7/2022,1.2,Cash,2022,10,Oct,7,Friday
+3993,Belt,71,5/18/2023,4.4,Credit Card,2023,5,May,18,Thursday
+4081,Hat,30,9/1/2023,1.2,Credit Card,2023,9,Sep,1,Friday
+3991,Boots,27,9/16/2023,2,Credit Card,2023,9,Sep,16,Saturday
+3978,Blazer,146,1/15/2023,3.7,Credit Card,2023,1,Jan,15,Sunday
+3992,Cardigan,42,12/14/2022,2.4,Credit Card,2022,12,Dec,14,Wednesday
+4121,Sunglasses,150,6/3/2023,3.4,Credit Card,2023,6,Jun,3,Saturday
+4073,Handbag,165,9/28/2023,3,Credit Card,2023,9,Sep,28,Thursday
+4111,Socks,64,1/15/2023,2.3,Credit Card,2023,1,Jan,15,Sunday
+4065,Sneakers,196,3/24/2023,4.3,Credit Card,2023,3,Mar,24,Friday
+4116,Onesie,192,1/16/2023,3.6,Credit Card,2023,1,Jan,16,Monday
+4003,Hoodie,181,7/9/2023,1.6,Credit Card,2023,7,Jul,9,Sunday
+4073,Swimsuit,122,4/25/2023,4.2,Credit Card,2023,4,Apr,25,Tuesday
+4087,Vest,125,6/2/2023,2.6,Credit Card,2023,6,Jun,2,Friday
+4098,Coat,96,9/21/2023,3.5,Credit Card,2023,9,Sep,21,Thursday
+4055,Bowtie,160,4/3/2023,4.6,Cash,2023,4,Apr,3,Monday
+4014,Trench Coat,25,12/5/2022,4.2,Cash,2022,12,Dec,5,Monday
+4004,Flip-Flops,18,1/21/2023,4.1,Credit Card,2023,1,Jan,21,Saturday
+4065,Poncho,28,6/29/2023,3.3,Credit Card,2023,6,Jun,29,Thursday
+4111,Belt,81,5/10/2023,1.9,Credit Card,2023,5,May,10,Wednesday
+3958,Tunic,64,6/17/2023,1.1,Cash,2023,6,Jun,17,Saturday
+4104,Pants,195,6/2/2023,2.5,Cash,2023,6,Jun,2,Friday
+4084,Onesie,156,8/8/2023,1.3,Credit Card,2023,8,Aug,8,Tuesday
+4085,Tunic,114,4/28/2023,1.9,Credit Card,2023,4,Apr,28,Friday
+4096,Hoodie,118,10/17/2022,4.4,Cash,2022,10,Oct,17,Monday
+4104,Tunic,196,2/13/2023,1.2,Cash,2023,2,Feb,13,Monday
+3965,Loafers,175,6/26/2023,2.1,Cash,2023,6,Jun,26,Monday
+4102,Pants,96,7/31/2023,2,Credit Card,2023,7,Jul,31,Monday
+4080,Sun Hat,37,9/14/2023,2.4,Cash,2023,9,Sep,14,Thursday
+4051,Camisole,58,1/29/2023,4,Cash,2023,1,Jan,29,Sunday
+3985,Hat,45,12/31/2022,2,Credit Card,2022,12,Dec,31,Saturday
+4105,Sandals,81,10/31/2022,4.5,Credit Card,2022,10,Oct,31,Monday
+4080,Pajamas,29,9/22/2023,2.4,Credit Card,2023,9,Sep,22,Friday
+3977,Overalls,150,3/22/2023,4.7,Cash,2023,3,Mar,22,Wednesday
+4091,Overalls,148,1/30/2023,2.7,Cash,2023,1,Jan,30,Monday
+4028,Cardigan,33,2/11/2023,4.3,Credit Card,2023,2,Feb,11,Saturday
+4076,Pajamas,70,10/5/2022,3.2,Credit Card,2022,10,Oct,5,Wednesday
+3977,Loafers,64,10/15/2022,1.6,Cash,2022,10,Oct,15,Saturday
+4090,Onesie,25,9/18/2023,2.1,Cash,2023,9,Sep,18,Monday
+4019,Blouse,126,12/15/2022,3.5,Credit Card,2022,12,Dec,15,Thursday
+4077,Romper,188,6/1/2023,4.6,Credit Card,2023,6,Jun,1,Thursday
+4118,Onesie,152,1/12/2023,1.1,Credit Card,2023,1,Jan,12,Thursday
+3976,Socks,134,7/24/2023,2.1,Credit Card,2023,7,Jul,24,Monday
+4095,Socks,24,11/13/2022,1.5,Cash,2022,11,Nov,13,Sunday
+4113,Trench Coat,22,5/20/2023,1.5,Cash,2023,5,May,20,Saturday
+3970,Camisole,138,5/9/2023,4.7,Cash,2023,5,May,9,Tuesday
+4044,Camisole,145,2/10/2023,2.4,Cash,2023,2,Feb,10,Friday
+3959,Kimono,30,3/11/2023,1.5,Cash,2023,3,Mar,11,Saturday
+4077,Vest,27,1/8/2023,4.6,Credit Card,2023,1,Jan,8,Sunday
+4073,Tie,182,9/16/2023,3.5,Cash,2023,9,Sep,16,Saturday
+4088,Vest,113,9/2/2023,1.2,Credit Card,2023,9,Sep,2,Saturday
+4103,Swimsuit,73,4/30/2023,2.6,Cash,2023,4,Apr,30,Sunday
+4041,Pajamas,20,5/20/2023,4.3,Cash,2023,5,May,20,Saturday
+4064,Kimono,117,10/31/2022,2.9,Cash,2022,10,Oct,31,Monday
+4047,Blazer,154,6/1/2023,1.7,Cash,2023,6,Jun,1,Thursday
+4032,Backpack,76,6/15/2023,4.7,Cash,2023,6,Jun,15,Thursday
+4031,Slippers,193,8/2/2023,1.3,Credit Card,2023,8,Aug,2,Wednesday
+3999,Jacket,77,5/27/2023,3.4,Credit Card,2023,5,May,27,Saturday
+3966,Tie,181,6/14/2023,3.6,Credit Card,2023,6,Jun,14,Wednesday
+4109,Dress,127,9/30/2023,2.8,Cash,2023,9,Sep,30,Saturday
+4034,Shorts,28,3/24/2023,3.4,Cash,2023,3,Mar,24,Friday
+4023,Sunglasses,154,2/9/2023,2.4,Credit Card,2023,2,Feb,9,Thursday
+3972,Coat,28,12/22/2022,4.6,Credit Card,2022,12,Dec,22,Thursday
+4118,Socks,139,5/13/2023,4.4,Credit Card,2023,5,May,13,Saturday
+4078,Tunic,99,11/10/2022,2.3,Cash,2022,11,Nov,10,Thursday
+4105,Belt,72,7/29/2023,1.7,Credit Card,2023,7,Jul,29,Saturday
+4000,Sandals,50,9/27/2023,4.3,Cash,2023,9,Sep,27,Wednesday
+4103,Jumpsuit,149,10/16/2022,5,Cash,2022,10,Oct,16,Sunday
+3970,Tunic,166,2/2/2023,3.1,Credit Card,2023,2,Feb,2,Thursday
+4031,Camisole,177,6/28/2023,3.5,Cash,2023,6,Jun,28,Wednesday
+3963,Trench Coat,86,12/16/2022,1.5,Cash,2022,12,Dec,16,Friday
+4030,Romper,36,1/2/2023,2.8,Credit Card,2023,1,Jan,2,Monday
+4081,Kimono,44,6/3/2023,2.2,Credit Card,2023,6,Jun,3,Saturday
+3978,Handbag,37,1/17/2023,5,Cash,2023,1,Jan,17,Tuesday
+3989,Tank Top,49,4/26/2023,4.7,Credit Card,2023,4,Apr,26,Wednesday
+4086,Swimsuit,164,12/7/2022,1.6,Cash,2022,12,Dec,7,Wednesday
+3976,Tank Top,97,5/23/2023,4.4,Cash,2023,5,May,23,Tuesday
+4028,Sweater,172,1/15/2023,1.1,Credit Card,2023,1,Jan,15,Sunday
+4021,Backpack,139,1/2/2023,4.8,Cash,2023,1,Jan,2,Monday
+3990,Pajamas,23,11/1/2022,4.2,Credit Card,2022,11,Nov,1,Tuesday
+4028,Poncho,80,12/31/2022,1.1,Cash,2022,12,Dec,31,Saturday
+4022,Boots,43,8/27/2023,3.9,Cash,2023,8,Aug,27,Sunday
+3960,Onesie,77,12/16/2022,4.3,Cash,2022,12,Dec,16,Friday
+4111,Swimsuit,190,11/23/2022,4.4,Credit Card,2022,11,Nov,23,Wednesday
+4001,Handbag,12,11/25/2022,2.7,Cash,2022,11,Nov,25,Friday
+3995,Umbrella,186,5/27/2023,3.9,Cash,2023,5,May,27,Saturday
+4071,Jeans,149,4/9/2023,2.4,Cash,2023,4,Apr,9,Sunday
+4001,Wallet,151,6/9/2023,3.9,Cash,2023,6,Jun,9,Friday
+4081,Sandals,20,12/2/2022,4.1,Cash,2022,12,Dec,2,Friday
+4003,Loafers,63,6/10/2023,2.3,Credit Card,2023,6,Jun,10,Saturday
+4092,Overalls,180,11/25/2022,2.7,Cash,2022,11,Nov,25,Friday
+4044,Pants,114,12/25/2022,4.4,Credit Card,2022,12,Dec,25,Sunday
+3978,Sandals,49,10/31/2022,4.5,Cash,2022,10,Oct,31,Monday
+4109,Loafers,55,12/21/2022,1,Credit Card,2022,12,Dec,21,Wednesday
+3996,Slippers,16,8/13/2023,2.5,Credit Card,2023,8,Aug,13,Sunday
+4062,Coat,115,4/10/2023,1.6,Credit Card,2023,4,Apr,10,Monday
+4055,T-shirt,198,11/29/2022,3.9,Credit Card,2022,11,Nov,29,Tuesday
+4017,Shorts,78,2/26/2023,1.8,Credit Card,2023,2,Feb,26,Sunday
+4120,Hoodie,107,7/11/2023,4,Cash,2023,7,Jul,11,Tuesday
+4104,Pajamas,68,7/12/2023,1.8,Cash,2023,7,Jul,12,Wednesday
+4045,Vest,178,1/29/2023,2.7,Credit Card,2023,1,Jan,29,Sunday
+4121,Slippers,27,4/11/2023,3.6,Credit Card,2023,4,Apr,11,Tuesday
+4024,Hoodie,81,12/30/2022,3.6,Credit Card,2022,12,Dec,30,Friday
+3986,Flannel Shirt,140,11/24/2022,2.2,Cash,2022,11,Nov,24,Thursday
+3970,Socks,147,5/7/2023,2.2,Credit Card,2023,5,May,7,Sunday
+3999,Belt,17,7/25/2023,4.2,Credit Card,2023,7,Jul,25,Tuesday
+4059,Belt,55,1/16/2023,1.4,Cash,2023,1,Jan,16,Monday
+4078,Sandals,77,7/28/2023,4.5,Cash,2023,7,Jul,28,Friday
+4078,Blazer,98,1/5/2023,2.3,Credit Card,2023,1,Jan,5,Thursday
+4093,Trench Coat,90,10/17/2022,1.5,Cash,2022,10,Oct,17,Monday
+4016,Polo Shirt,140,1/2/2023,2.3,Cash,2023,1,Jan,2,Monday
+4056,Pajamas,58,7/20/2023,4.1,Cash,2023,7,Jul,20,Thursday
+4078,Slippers,191,7/10/2023,4.2,Credit Card,2023,7,Jul,10,Monday
+4024,Blazer,143,10/9/2022,2.6,Credit Card,2022,10,Oct,9,Sunday
+3994,Camisole,147,11/19/2022,2.2,Cash,2022,11,Nov,19,Saturday
+4092,Tie,199,2/15/2023,4.6,Cash,2023,2,Feb,15,Wednesday
+4068,Tunic,60,1/4/2023,1.2,Cash,2023,1,Jan,4,Wednesday
+3960,Camisole,27,9/14/2023,2,Credit Card,2023,9,Sep,14,Thursday
+4030,Hoodie,94,4/23/2023,2.6,Credit Card,2023,4,Apr,23,Sunday
+4071,Skirt,179,2/16/2023,2.6,Credit Card,2023,2,Feb,16,Thursday
+4054,Handbag,194,6/12/2023,2.1,Credit Card,2023,6,Jun,12,Monday
+4037,Sunglasses,139,11/10/2022,2.4,Cash,2022,11,Nov,10,Thursday
+4092,Jumpsuit,114,11/2/2022,2.2,Credit Card,2022,11,Nov,2,Wednesday
+3967,Raincoat,188,5/6/2023,3.3,Cash,2023,5,May,6,Saturday
+3981,Pants,42,7/8/2023,1.8,Credit Card,2023,7,Jul,8,Saturday
+4120,Poncho,107,11/7/2022,2.3,Cash,2022,11,Nov,7,Monday
+4047,Scarf,54,5/20/2023,1.1,Credit Card,2023,5,May,20,Saturday
+4067,Poncho,87,5/27/2023,4.2,Credit Card,2023,5,May,27,Saturday
+4026,Tank Top,63,1/20/2023,4.6,Cash,2023,1,Jan,20,Friday
+4042,Blazer,158,11/12/2022,3.2,Cash,2022,11,Nov,12,Saturday
+4026,T-shirt,92,4/24/2023,3.1,Credit Card,2023,4,Apr,24,Monday
+4025,Coat,123,1/9/2023,1.8,Cash,2023,1,Jan,9,Monday
+3982,Kimono,140,5/18/2023,3.1,Credit Card,2023,5,May,18,Thursday
+4022,T-shirt,198,10/22/2022,1.9,Cash,2022,10,Oct,22,Saturday
+4075,Jumpsuit,172,10/7/2022,4.8,Credit Card,2022,10,Oct,7,Friday
+4006,Flannel Shirt,67,7/27/2023,1.4,Cash,2023,7,Jul,27,Thursday
+4090,Tie,47,1/11/2023,2.9,Cash,2023,1,Jan,11,Wednesday
+4003,Cardigan,131,1/4/2023,4.1,Credit Card,2023,1,Jan,4,Wednesday
+4037,Camisole,28,5/1/2023,2.1,Cash,2023,5,May,1,Monday
+4097,Belt,171,5/24/2023,4.1,Cash,2023,5,May,24,Wednesday
+3959,Coat,193,1/3/2023,1.5,Credit Card,2023,1,Jan,3,Tuesday
+3959,Hat,136,2/8/2023,2.1,Credit Card,2023,2,Feb,8,Wednesday
+4062,Romper,37,7/24/2023,4,Cash,2023,7,Jul,24,Monday
+3982,Blouse,66,1/24/2023,1.1,Cash,2023,1,Jan,24,Tuesday
+3983,Kimono,142,5/15/2023,3.9,Credit Card,2023,5,May,15,Monday
+4071,Hat,152,12/22/2022,1.8,Credit Card,2022,12,Dec,22,Thursday
+4046,Trench Coat,41,7/17/2023,2.2,Credit Card,2023,7,Jul,17,Monday
+4013,Shorts,128,2/21/2023,3,Cash,2023,2,Feb,21,Tuesday
+4021,Sunglasses,123,5/11/2023,1.8,Cash,2023,5,May,11,Thursday
+4006,Scarf,194,2/2/2023,3.6,Cash,2023,2,Feb,2,Thursday
+3965,Hat,119,7/13/2023,2.2,Cash,2023,7,Jul,13,Thursday
+4115,Sweater,50,7/5/2023,3.2,Cash,2023,7,Jul,5,Wednesday
+3980,Poncho,131,1/23/2023,4.6,Credit Card,2023,1,Jan,23,Monday
+3971,Hat,73,7/17/2023,2,Credit Card,2023,7,Jul,17,Monday
+4012,Socks,143,4/23/2023,2.6,Cash,2023,4,Apr,23,Sunday
+4110,Sandals,71,3/17/2023,3.2,Cash,2023,3,Mar,17,Friday
+4120,Tie,29,2/12/2023,1.9,Credit Card,2023,2,Feb,12,Sunday
+3988,Bowtie,70,11/2/2022,2.6,Credit Card,2022,11,Nov,2,Wednesday
+3987,Handbag,91,12/21/2022,2.5,Cash,2022,12,Dec,21,Wednesday
+3979,Flip-Flops,30,3/30/2023,3.6,Cash,2023,3,Mar,30,Thursday
+3990,Handbag,187,8/11/2023,1.4,Credit Card,2023,8,Aug,11,Friday
+4122,Hoodie,116,3/17/2023,2,Cash,2023,3,Mar,17,Friday
+4101,Cardigan,148,11/26/2022,3.5,Credit Card,2022,11,Nov,26,Saturday
+4004,Hoodie,25,9/24/2023,3.9,Credit Card,2023,9,Sep,24,Sunday
+3985,Pajamas,117,8/7/2023,1.9,Cash,2023,8,Aug,7,Monday
+4004,Shorts,159,1/22/2023,2,Cash,2023,1,Jan,22,Sunday
+4021,Sneakers,15,8/7/2023,2.4,Credit Card,2023,8,Aug,7,Monday
+4032,Jacket,157,1/25/2023,2.3,Credit Card,2023,1,Jan,25,Wednesday
+4076,Trousers,11,12/6/2022,2.6,Credit Card,2022,12,Dec,6,Tuesday
+4120,Slippers,117,9/25/2023,4,Credit Card,2023,9,Sep,25,Monday
+4073,Boots,198,12/21/2022,3.2,Cash,2022,12,Dec,21,Wednesday
+4027,Onesie,164,6/11/2023,3.6,Cash,2023,6,Jun,11,Sunday
+4066,Kimono,134,1/2/2023,3.8,Credit Card,2023,1,Jan,2,Monday
+4039,Umbrella,121,7/5/2023,4.4,Cash,2023,7,Jul,5,Wednesday
+4022,Tunic,109,11/15/2022,1.3,Credit Card,2022,11,Nov,15,Tuesday
+3998,Skirt,183,12/22/2022,3.8,Credit Card,2022,12,Dec,22,Thursday
+3975,T-shirt,195,7/22/2023,4,Cash,2023,7,Jul,22,Saturday
+3972,Sneakers,42,4/18/2023,2.8,Credit Card,2023,4,Apr,18,Tuesday
+4054,Tunic,146,1/23/2023,1.2,Credit Card,2023,1,Jan,23,Monday
+4042,Wallet,154,8/31/2023,2.9,Credit Card,2023,8,Aug,31,Thursday
+3972,Slippers,31,10/26/2022,3.2,Credit Card,2022,10,Oct,26,Wednesday
+4023,Dress,44,3/3/2023,2.2,Cash,2023,3,Mar,3,Friday
+4024,Skirt,56,7/17/2023,2.2,Credit Card,2023,7,Jul,17,Monday
+4069,Flannel Shirt,64,11/1/2022,3.5,Cash,2022,11,Nov,1,Tuesday
+3974,T-shirt,96,12/5/2022,3.6,Credit Card,2022,12,Dec,5,Monday
+4082,Pajamas,107,5/10/2023,3.1,Cash,2023,5,May,10,Wednesday
+4008,Loafers,117,5/4/2023,3.5,Credit Card,2023,5,May,4,Thursday
+4113,Flannel Shirt,30,5/21/2023,3.1,Credit Card,2023,5,May,21,Sunday
+4057,Tunic,148,4/22/2023,2.9,Cash,2023,4,Apr,22,Saturday
+4122,Kimono,67,3/20/2023,4.4,Cash,2023,3,Mar,20,Monday
+4082,Onesie,176,12/28/2022,3.1,Credit Card,2022,12,Dec,28,Wednesday
+4067,Belt,71,8/27/2023,2.2,Credit Card,2023,8,Aug,27,Sunday
+4114,Swimsuit,154,4/2/2023,2.3,Credit Card,2023,4,Apr,2,Sunday
+3984,Trousers,104,7/30/2023,1.6,Cash,2023,7,Jul,30,Sunday
+4023,Boots,193,2/14/2023,3.5,Credit Card,2023,2,Feb,14,Tuesday
+3965,Wallet,89,8/18/2023,4.5,Cash,2023,8,Aug,18,Friday
+4103,Flip-Flops,183,10/13/2022,3.2,Cash,2022,10,Oct,13,Thursday
+4021,Sweater,106,5/21/2023,1.3,Cash,2023,5,May,21,Sunday
+4071,Raincoat,193,10/2/2022,3.9,Credit Card,2022,10,Oct,2,Sunday
+4084,Skirt,170,7/8/2023,4.2,Cash,2023,7,Jul,8,Saturday
+3995,T-shirt,188,5/12/2023,4.1,Cash,2023,5,May,12,Friday
+4120,Overalls,185,3/5/2023,4.1,Credit Card,2023,3,Mar,5,Sunday
+3957,Tank Top,40,10/3/2022,2.1,Cash,2022,10,Oct,3,Monday
+3966,Vest,154,5/4/2023,4.5,Cash,2023,5,May,4,Thursday
+4056,Camisole,98,6/12/2023,2.9,Credit Card,2023,6,Jun,12,Monday
+4025,Blouse,179,4/6/2023,4.1,Cash,2023,4,Apr,6,Thursday
+3995,Jeans,139,5/1/2023,1.4,Cash,2023,5,May,1,Monday
+4041,Loafers,13,10/13/2022,1.6,Cash,2022,10,Oct,13,Thursday
+4057,Shorts,135,12/27/2022,4.5,Credit Card,2022,12,Dec,27,Tuesday
+4088,Tank Top,127,10/7/2022,2.8,Credit Card,2022,10,Oct,7,Friday
+4082,Tunic,121,9/7/2023,2.3,Cash,2023,9,Sep,7,Thursday
+4068,Swimsuit,176,7/18/2023,2.5,Cash,2023,7,Jul,18,Tuesday
+4060,Bowtie,147,12/28/2022,2.9,Credit Card,2022,12,Dec,28,Wednesday
+3974,Flip-Flops,129,8/2/2023,3.1,Credit Card,2023,8,Aug,2,Wednesday
+4095,Umbrella,197,10/25/2022,4.5,Credit Card,2022,10,Oct,25,Tuesday
+4014,Wallet,92,12/25/2022,4.8,Credit Card,2022,12,Dec,25,Sunday
+3957,Onesie,32,1/5/2023,4.3,Cash,2023,1,Jan,5,Thursday
+4055,Trench Coat,125,11/10/2022,4.4,Cash,2022,11,Nov,10,Thursday
+4080,Tie,128,4/10/2023,3,Credit Card,2023,4,Apr,10,Monday
+3988,Wallet,181,3/4/2023,3.7,Credit Card,2023,3,Mar,4,Saturday
+4102,Socks,17,1/31/2023,2.7,Cash,2023,1,Jan,31,Tuesday
+4094,T-shirt,93,8/15/2023,1.1,Cash,2023,8,Aug,15,Tuesday
+4042,Leggings,76,2/22/2023,3.9,Credit Card,2023,2,Feb,22,Wednesday
+4034,Jeans,162,2/11/2023,3.2,Credit Card,2023,2,Feb,11,Saturday
+4059,Handbag,80,7/6/2023,4.8,Cash,2023,7,Jul,6,Thursday
+3971,Swimsuit,142,7/22/2023,1.7,Cash,2023,7,Jul,22,Saturday
+4118,Dress,31,10/19/2022,1,Credit Card,2022,10,Oct,19,Wednesday
+4122,Poncho,114,7/28/2023,3.1,Cash,2023,7,Jul,28,Friday
+4050,Umbrella,175,12/29/2022,1.4,Cash,2022,12,Dec,29,Thursday
+4093,Bowtie,124,12/21/2022,2,Credit Card,2022,12,Dec,21,Wednesday
+4044,Gloves,33,3/29/2023,3.4,Cash,2023,3,Mar,29,Wednesday
+4074,Kimono,88,2/5/2023,2.9,Cash,2023,2,Feb,5,Sunday
+4122,Poncho,145,12/29/2022,2,Cash,2022,12,Dec,29,Thursday
+4008,Flip-Flops,200,10/5/2022,4.9,Cash,2022,10,Oct,5,Wednesday
+4002,Hoodie,100,12/26/2022,4.5,Cash,2022,12,Dec,26,Monday
+4098,Raincoat,79,2/4/2023,5,Credit Card,2023,2,Feb,4,Saturday
+3967,Belt,69,4/3/2023,3,Cash,2023,4,Apr,3,Monday
+4118,Pajamas,133,3/20/2023,4.5,Credit Card,2023,3,Mar,20,Monday
+4048,Cardigan,160,3/27/2023,2.7,Cash,2023,3,Mar,27,Monday
+4081,Loafers,144,11/1/2022,1.2,Credit Card,2022,11,Nov,1,Tuesday
+3978,Socks,35,11/29/2022,1.2,Cash,2022,11,Nov,29,Tuesday
+4069,Pants,55,1/25/2023,4.9,Cash,2023,1,Jan,25,Wednesday
+4005,Flannel Shirt,191,3/23/2023,3.5,Cash,2023,3,Mar,23,Thursday
+3963,Dress,42,10/19/2022,3.3,Cash,2022,10,Oct,19,Wednesday
+4108,Blouse,135,1/25/2023,3.1,Cash,2023,1,Jan,25,Wednesday
+3973,Umbrella,57,7/12/2023,3,Cash,2023,7,Jul,12,Wednesday
+4095,Sun Hat,74,7/15/2023,1.3,Credit Card,2023,7,Jul,15,Saturday
+4121,Overalls,132,2/24/2023,2.1,Cash,2023,2,Feb,24,Friday
+4093,Shorts,157,8/17/2023,1,Cash,2023,8,Aug,17,Thursday
+4072,Onesie,23,1/9/2023,2.4,Cash,2023,1,Jan,9,Monday
+3966,Polo Shirt,87,1/8/2023,3.3,Cash,2023,1,Jan,8,Sunday
+4043,Scarf,165,2/5/2023,1.7,Credit Card,2023,2,Feb,5,Sunday
+3967,Coat,168,4/21/2023,4.9,Credit Card,2023,4,Apr,21,Friday
+4060,Tunic,143,12/24/2022,4.2,Credit Card,2022,12,Dec,24,Saturday
+3987,Wallet,123,8/1/2023,2.5,Credit Card,2023,8,Aug,1,Tuesday
+4090,Hoodie,88,12/8/2022,2,Cash,2022,12,Dec,8,Thursday
+4074,Skirt,25,10/5/2022,3.6,Credit Card,2022,10,Oct,5,Wednesday
+4094,Belt,199,7/4/2023,1.8,Credit Card,2023,7,Jul,4,Tuesday
+4016,Coat,179,7/17/2023,1.7,Credit Card,2023,7,Jul,17,Monday
+3966,Pajamas,151,8/28/2023,1.8,Credit Card,2023,8,Aug,28,Monday
+3961,Gloves,162,12/5/2022,3,Credit Card,2022,12,Dec,5,Monday
+4077,Camisole,18,2/16/2023,2.4,Cash,2023,2,Feb,16,Thursday
+4115,Sandals,190,2/17/2023,2.8,Cash,2023,2,Feb,17,Friday
+3968,Wallet,126,11/17/2022,4.3,Credit Card,2022,11,Nov,17,Thursday
+3990,Wallet,77,7/25/2023,2.5,Credit Card,2023,7,Jul,25,Tuesday
+3960,Shorts,170,10/31/2022,1.8,Cash,2022,10,Oct,31,Monday
+4001,Wallet,60,5/17/2023,2.4,Cash,2023,5,May,17,Wednesday
+4118,Blouse,149,3/21/2023,4.2,Cash,2023,3,Mar,21,Tuesday
+3969,Polo Shirt,48,8/4/2023,3.8,Cash,2023,8,Aug,4,Friday
+4035,Handbag,46,4/21/2023,4.3,Credit Card,2023,4,Apr,21,Friday
+4113,Hoodie,155,8/5/2023,1.1,Credit Card,2023,8,Aug,5,Saturday
+4000,Tank Top,122,8/12/2023,3.6,Cash,2023,8,Aug,12,Saturday
+3973,Gloves,189,10/30/2022,2.5,Credit Card,2022,10,Oct,30,Sunday
+3984,Sunglasses,79,12/1/2022,3.4,Cash,2022,12,Dec,1,Thursday
+4084,Loafers,163,2/3/2023,3.5,Credit Card,2023,2,Feb,3,Friday
+4114,Backpack,92,4/25/2023,2.3,Credit Card,2023,4,Apr,25,Tuesday
+4013,Trousers,16,1/11/2023,1.4,Credit Card,2023,1,Jan,11,Wednesday
+4008,Romper,157,6/5/2023,1.7,Credit Card,2023,6,Jun,5,Monday
+4043,Poncho,182,3/9/2023,2.8,Cash,2023,3,Mar,9,Thursday
+4059,Camisole,157,7/30/2023,2.7,Cash,2023,7,Jul,30,Sunday
+3987,Backpack,130,2/21/2023,2.5,Credit Card,2023,2,Feb,21,Tuesday
+4104,Backpack,123,12/22/2022,3.7,Credit Card,2022,12,Dec,22,Thursday
+4096,Sun Hat,56,11/4/2022,4.9,Cash,2022,11,Nov,4,Friday
+3992,Belt,121,10/9/2022,4.1,Credit Card,2022,10,Oct,9,Sunday
+4039,Gloves,135,4/16/2023,3,Credit Card,2023,4,Apr,16,Sunday
+4011,Gloves,130,1/3/2023,4.1,Cash,2023,1,Jan,3,Tuesday
+3968,Sandals,95,8/2/2023,2.6,Credit Card,2023,8,Aug,2,Wednesday
+4001,Cardigan,94,8/26/2023,4.7,Credit Card,2023,8,Aug,26,Saturday
+4042,Hoodie,136,11/18/2022,4.9,Credit Card,2022,11,Nov,18,Friday
+3973,Shorts,112,7/18/2023,1.8,Cash,2023,7,Jul,18,Tuesday
+3987,Hoodie,150,1/14/2023,4,Cash,2023,1,Jan,14,Saturday
+4063,Slippers,39,8/16/2023,4.1,Credit Card,2023,8,Aug,16,Wednesday
+4000,Socks,113,11/21/2022,2.8,Cash,2022,11,Nov,21,Monday
+4051,Poncho,10,7/29/2023,1,Cash,2023,7,Jul,29,Saturday
+4098,Shorts,148,12/8/2022,4.5,Credit Card,2022,12,Dec,8,Thursday
+3999,Sunglasses,23,1/2/2023,1.3,Cash,2023,1,Jan,2,Monday
+4105,Leggings,23,11/9/2022,3.7,Credit Card,2022,11,Nov,9,Wednesday
+3967,Pajamas,150,9/26/2023,2.5,Credit Card,2023,9,Sep,26,Tuesday
+3982,Poncho,188,11/22/2022,3.7,Credit Card,2022,11,Nov,22,Tuesday
+4118,T-shirt,17,6/5/2023,4.7,Cash,2023,6,Jun,5,Monday
+4113,Blazer,165,4/10/2023,4.3,Cash,2023,4,Apr,10,Monday
+4053,Sweater,191,1/28/2023,4.1,Credit Card,2023,1,Jan,28,Saturday
+3961,Polo Shirt,151,12/6/2022,4.1,Credit Card,2022,12,Dec,6,Tuesday
+4081,Socks,67,5/6/2023,4.1,Credit Card,2023,5,May,6,Saturday
+3977,Pajamas,39,2/19/2023,4.3,Credit Card,2023,2,Feb,19,Sunday
+3958,Belt,40,6/1/2023,2.7,Cash,2023,6,Jun,1,Thursday
+3958,Leggings,49,3/14/2023,1.3,Cash,2023,3,Mar,14,Tuesday
+4002,Jumpsuit,193,12/18/2022,4,Credit Card,2022,12,Dec,18,Sunday
+3979,Swimsuit,190,9/8/2023,1.9,Cash,2023,9,Sep,8,Friday
+4108,Umbrella,133,6/19/2023,4.1,Credit Card,2023,6,Jun,19,Monday
+4029,Blouse,72,8/20/2023,2.4,Credit Card,2023,8,Aug,20,Sunday
+4063,Flannel Shirt,47,4/24/2023,3.4,Credit Card,2023,4,Apr,24,Monday
+4078,Wallet,163,2/7/2023,4.7,Credit Card,2023,2,Feb,7,Tuesday
+3989,Loafers,44,4/16/2023,1.6,Cash,2023,4,Apr,16,Sunday
+4009,Slippers,80,11/23/2022,1.8,Cash,2022,11,Nov,23,Wednesday
+3993,Gloves,116,12/13/2022,2.4,Credit Card,2022,12,Dec,13,Tuesday
+4120,Skirt,139,9/26/2023,2.7,Credit Card,2023,9,Sep,26,Tuesday
+4026,Vest,10,10/15/2022,2.5,Credit Card,2022,10,Oct,15,Saturday
+4090,T-shirt,86,8/15/2023,1.1,Cash,2023,8,Aug,15,Tuesday
+4072,Polo Shirt,158,5/7/2023,2.7,Credit Card,2023,5,May,7,Sunday
+4062,Overalls,135,12/2/2022,3.7,Cash,2022,12,Dec,2,Friday
+4018,Leggings,124,5/19/2023,2.9,Credit Card,2023,5,May,19,Friday
+4113,Cardigan,149,10/15/2022,1.4,Cash,2022,10,Oct,15,Saturday
+3966,Gloves,92,10/4/2022,4.2,Credit Card,2022,10,Oct,4,Tuesday
+4003,Umbrella,108,8/1/2023,3.3,Cash,2023,8,Aug,1,Tuesday
+4084,Overalls,115,12/22/2022,2.8,Credit Card,2022,12,Dec,22,Thursday
+3979,Loafers,190,7/1/2023,4.1,Cash,2023,7,Jul,1,Saturday
+4117,Cardigan,107,2/16/2023,2,Credit Card,2023,2,Feb,16,Thursday
+4034,Pants,179,3/12/2023,3.4,Cash,2023,3,Mar,12,Sunday
+4046,Poncho,176,12/11/2022,2.8,Cash,2022,12,Dec,11,Sunday
+4064,Wallet,136,2/17/2023,2.9,Credit Card,2023,2,Feb,17,Friday
+3958,Tank Top,42,11/2/2022,3.1,Credit Card,2022,11,Nov,2,Wednesday
+4099,Dress,161,1/7/2023,4.1,Cash,2023,1,Jan,7,Saturday
+4017,Loafers,35,12/26/2022,3.1,Cash,2022,12,Dec,26,Monday
+4006,Leggings,122,9/28/2023,3.7,Credit Card,2023,9,Sep,28,Thursday
+4092,Trench Coat,13,11/3/2022,3.4,Credit Card,2022,11,Nov,3,Thursday
+3981,Tank Top,114,4/1/2023,4.3,Cash,2023,4,Apr,1,Saturday
+4115,Shorts,49,9/20/2023,2.8,Cash,2023,9,Sep,20,Wednesday
+4095,Romper,77,3/20/2023,1.5,Credit Card,2023,3,Mar,20,Monday
+4086,Sunglasses,187,4/1/2023,2.5,Cash,2023,4,Apr,1,Saturday
+4013,Onesie,30,10/7/2022,3.7,Cash,2022,10,Oct,7,Friday
+4075,Handbag,182,3/13/2023,2.3,Credit Card,2023,3,Mar,13,Monday
+4117,Scarf,107,11/19/2022,4.3,Credit Card,2022,11,Nov,19,Saturday
+4010,Kimono,170,2/17/2023,1.7,Cash,2023,2,Feb,17,Friday
+4027,Cardigan,134,1/17/2023,1.1,Cash,2023,1,Jan,17,Tuesday
+3970,Romper,19,12/12/2022,3.5,Cash,2022,12,Dec,12,Monday
+4006,Pajamas,70,11/22/2022,2.4,Cash,2022,11,Nov,22,Tuesday
+3995,Trousers,33,8/25/2023,2,Credit Card,2023,8,Aug,25,Friday
+4002,Scarf,123,1/31/2023,3.5,Credit Card,2023,1,Jan,31,Tuesday
+3968,Gloves,17,10/27/2022,3.8,Credit Card,2022,10,Oct,27,Thursday
+4122,Poncho,85,5/16/2023,3.9,Cash,2023,5,May,16,Tuesday
+4050,Sweater,120,6/7/2023,2.8,Cash,2023,6,Jun,7,Wednesday
+4010,Hat,154,5/26/2023,1.6,Credit Card,2023,5,May,26,Friday
+4068,Kimono,56,8/24/2023,3.6,Credit Card,2023,8,Aug,24,Thursday
+4114,Blazer,168,5/28/2023,4,Cash,2023,5,May,28,Sunday
+4073,Wallet,137,8/7/2023,1.1,Cash,2023,8,Aug,7,Monday
+3968,Coat,46,12/5/2022,2,Credit Card,2022,12,Dec,5,Monday
+3983,Jeans,173,4/11/2023,4.5,Cash,2023,4,Apr,11,Tuesday
+3970,Sun Hat,75,9/21/2023,2.7,Cash,2023,9,Sep,21,Thursday
+4094,Vest,129,2/7/2023,1.8,Credit Card,2023,2,Feb,7,Tuesday
+4002,Trousers,183,12/8/2022,2.2,Credit Card,2022,12,Dec,8,Thursday
+3997,Belt,28,12/19/2022,4.4,Credit Card,2022,12,Dec,19,Monday
+3964,Umbrella,98,11/18/2022,4.2,Cash,2022,11,Nov,18,Friday
+4081,Onesie,86,6/15/2023,2.9,Credit Card,2023,6,Jun,15,Thursday
+4088,Raincoat,118,7/8/2023,2.7,Credit Card,2023,7,Jul,8,Saturday
+3986,Tunic,126,1/30/2023,4.1,Cash,2023,1,Jan,30,Monday
+3975,Vest,60,9/29/2023,3.7,Credit Card,2023,9,Sep,29,Friday
+4017,Vest,133,2/9/2023,4.6,Cash,2023,2,Feb,9,Thursday
+4108,Flannel Shirt,101,9/12/2023,1.1,Cash,2023,9,Sep,12,Tuesday
+4105,Camisole,189,3/15/2023,1.5,Credit Card,2023,3,Mar,15,Wednesday
+4040,Cardigan,178,9/25/2023,3.4,Cash,2023,9,Sep,25,Monday
+4064,Cardigan,12,7/5/2023,2.3,Credit Card,2023,7,Jul,5,Wednesday
+4007,Tank Top,185,11/27/2022,1.1,Cash,2022,11,Nov,27,Sunday
+4040,Socks,22,7/31/2023,1.3,Credit Card,2023,7,Jul,31,Monday
+4015,Tank Top,200,1/2/2023,3.8,Cash,2023,1,Jan,2,Monday
+3985,Sun Hat,83,10/5/2022,3.4,Cash,2022,10,Oct,5,Wednesday
+4040,Vest,68,3/5/2023,2.3,Credit Card,2023,3,Mar,5,Sunday
+4015,Skirt,100,7/6/2023,4.7,Credit Card,2023,7,Jul,6,Thursday
+4017,Leggings,183,6/11/2023,2.4,Credit Card,2023,6,Jun,11,Sunday
+4062,Tunic,178,10/23/2022,2.8,Credit Card,2022,10,Oct,23,Sunday
+4008,Slippers,45,5/10/2023,1.8,Credit Card,2023,5,May,10,Wednesday
+4053,Sweater,170,6/11/2023,3.7,Cash,2023,6,Jun,11,Sunday
+4013,Romper,89,8/22/2023,1.1,Cash,2023,8,Aug,22,Tuesday
+3975,Blazer,18,4/15/2023,4.9,Credit Card,2023,4,Apr,15,Saturday
+4077,Overalls,197,7/23/2023,3.2,Credit Card,2023,7,Jul,23,Sunday
+4081,Coat,93,1/16/2023,2.5,Credit Card,2023,1,Jan,16,Monday
+3970,Sunglasses,54,1/30/2023,2.3,Credit Card,2023,1,Jan,30,Monday
+4068,Blouse,148,12/28/2022,1.1,Cash,2022,12,Dec,28,Wednesday
+3994,Bowtie,103,7/30/2023,1.7,Credit Card,2023,7,Jul,30,Sunday
+4012,Tank Top,79,7/30/2023,2.7,Cash,2023,7,Jul,30,Sunday
+4113,Onesie,75,7/14/2023,1.1,Credit Card,2023,7,Jul,14,Friday
+4073,Cardigan,133,5/10/2023,3.2,Credit Card,2023,5,May,10,Wednesday
+4002,Pants,85,4/1/2023,1.9,Cash,2023,4,Apr,1,Saturday
+4056,Scarf,96,11/19/2022,1.5,Cash,2022,11,Nov,19,Saturday
+4052,Scarf,129,4/3/2023,4.4,Credit Card,2023,4,Apr,3,Monday
+4074,Socks,67,10/31/2022,5,Credit Card,2022,10,Oct,31,Monday
+4006,Poncho,195,12/25/2022,1.7,Credit Card,2022,12,Dec,25,Sunday
+4118,Backpack,111,3/25/2023,4.1,Credit Card,2023,3,Mar,25,Saturday
+4048,T-shirt,152,5/29/2023,2.6,Cash,2023,5,May,29,Monday
+4026,Swimsuit,111,7/6/2023,4,Cash,2023,7,Jul,6,Thursday
+4042,Sunglasses,126,2/27/2023,2.5,Credit Card,2023,2,Feb,27,Monday
+3989,Skirt,182,5/11/2023,4.5,Credit Card,2023,5,May,11,Thursday
+3965,Umbrella,107,2/19/2023,4,Credit Card,2023,2,Feb,19,Sunday
+4102,Pants,105,10/31/2022,3.1,Cash,2022,10,Oct,31,Monday
+4028,Belt,16,3/21/2023,2.9,Cash,2023,3,Mar,21,Tuesday
+3991,Umbrella,153,8/23/2023,2.8,Cash,2023,8,Aug,23,Wednesday
+3985,Coat,166,6/16/2023,1.7,Cash,2023,6,Jun,16,Friday
+4076,Sweater,26,4/3/2023,3.1,Cash,2023,4,Apr,3,Monday
+4074,Skirt,128,6/28/2023,2.9,Credit Card,2023,6,Jun,28,Wednesday
+4064,Raincoat,87,6/30/2023,4.6,Credit Card,2023,6,Jun,30,Friday
+4000,Onesie,39,1/8/2023,3.6,Credit Card,2023,1,Jan,8,Sunday
+4013,Sweater,87,12/28/2022,3.5,Cash,2022,12,Dec,28,Wednesday
+4032,Shorts,39,3/15/2023,3.5,Credit Card,2023,3,Mar,15,Wednesday
+3997,Backpack,44,5/13/2023,4.8,Credit Card,2023,5,May,13,Saturday
+4120,Trousers,104,9/30/2023,2,Credit Card,2023,9,Sep,30,Saturday
+4113,Slippers,200,6/3/2023,2.9,Credit Card,2023,6,Jun,3,Saturday
+4104,Pants,200,4/27/2023,4,Credit Card,2023,4,Apr,27,Thursday
+4098,Handbag,116,12/29/2022,3.6,Credit Card,2022,12,Dec,29,Thursday
+4015,Camisole,135,10/11/2022,4.5,Credit Card,2022,10,Oct,11,Tuesday
+3979,Vest,81,6/19/2023,1.6,Cash,2023,6,Jun,19,Monday
+4090,Dress,123,4/23/2023,4.7,Cash,2023,4,Apr,23,Sunday
+4082,Shorts,70,6/5/2023,2.3,Credit Card,2023,6,Jun,5,Monday
+4012,Boots,35,12/5/2022,4.6,Credit Card,2022,12,Dec,5,Monday
+4108,Vest,104,9/4/2023,2.8,Cash,2023,9,Sep,4,Monday
+4078,Kimono,175,7/28/2023,3.4,Cash,2023,7,Jul,28,Friday
+4075,Blazer,111,12/27/2022,4.2,Cash,2022,12,Dec,27,Tuesday
+4028,Tank Top,41,4/5/2023,3,Credit Card,2023,4,Apr,5,Wednesday
+3960,Loafers,126,3/7/2023,3.4,Credit Card,2023,3,Mar,7,Tuesday
+4020,Backpack,173,8/24/2023,2.8,Cash,2023,8,Aug,24,Thursday
+4020,Poncho,15,3/14/2023,1,Credit Card,2023,3,Mar,14,Tuesday
+4068,Jumpsuit,42,11/12/2022,4.5,Cash,2022,11,Nov,12,Saturday
+4105,Tank Top,62,7/28/2023,4.4,Credit Card,2023,7,Jul,28,Friday
+4108,Wallet,63,12/27/2022,2,Credit Card,2022,12,Dec,27,Tuesday
+3995,Hoodie,69,7/13/2023,1.5,Credit Card,2023,7,Jul,13,Thursday
+4103,Jumpsuit,47,12/22/2022,3.6,Credit Card,2022,12,Dec,22,Thursday
+3958,Overalls,162,12/29/2022,1.1,Cash,2022,12,Dec,29,Thursday
+3968,Pajamas,47,3/30/2023,2.6,Credit Card,2023,3,Mar,30,Thursday
+3967,Sneakers,148,10/6/2022,4.1,Credit Card,2022,10,Oct,6,Thursday
+4077,Handbag,54,11/25/2022,3.9,Credit Card,2022,11,Nov,25,Friday
+3965,Bowtie,43,1/3/2023,1.5,Credit Card,2023,1,Jan,3,Tuesday
+4092,T-shirt,70,9/6/2023,4,Credit Card,2023,9,Sep,6,Wednesday
+4057,Shorts,14,8/23/2023,1.7,Cash,2023,8,Aug,23,Wednesday
+4072,Shorts,144,3/4/2023,1.4,Credit Card,2023,3,Mar,4,Saturday
+3978,Wallet,102,7/11/2023,2,Credit Card,2023,7,Jul,11,Tuesday
+4099,Trench Coat,37,4/30/2023,2.8,Cash,2023,4,Apr,30,Sunday
+3960,Gloves,66,1/6/2023,3.8,Cash,2023,1,Jan,6,Friday
+4061,Jeans,21,7/30/2023,3.4,Credit Card,2023,7,Jul,30,Sunday
+4012,Slippers,178,2/7/2023,1.6,Cash,2023,2,Feb,7,Tuesday
+3990,Sunglasses,127,1/2/2023,1.9,Cash,2023,1,Jan,2,Monday
+4048,Sunglasses,17,8/28/2023,2.5,Cash,2023,8,Aug,28,Monday
+4018,Sneakers,112,11/17/2022,3.5,Credit Card,2022,11,Nov,17,Thursday
+4122,Tank Top,37,12/27/2022,2.8,Cash,2022,12,Dec,27,Tuesday
+3980,Poncho,123,12/24/2022,4,Credit Card,2022,12,Dec,24,Saturday
+4035,Hat,26,11/15/2022,1.1,Credit Card,2022,11,Nov,15,Tuesday
+4074,Onesie,159,7/20/2023,2,Credit Card,2023,7,Jul,20,Thursday
+4103,Backpack,93,7/22/2023,4,Credit Card,2023,7,Jul,22,Saturday
+4106,Tank Top,162,12/30/2022,2.6,Cash,2022,12,Dec,30,Friday
+3963,Belt,126,8/2/2023,1.7,Credit Card,2023,8,Aug,2,Wednesday
+4073,Blazer,120,10/7/2022,1.6,Cash,2022,10,Oct,7,Friday
+3992,Blouse,177,8/8/2023,4.5,Cash,2023,8,Aug,8,Tuesday
+4060,Skirt,151,9/26/2023,1.7,Cash,2023,9,Sep,26,Tuesday
+4004,Leggings,65,9/2/2023,1.7,Cash,2023,9,Sep,2,Saturday
+4051,Jacket,68,5/3/2023,1.1,Credit Card,2023,5,May,3,Wednesday
+4117,Romper,126,4/21/2023,2.4,Credit Card,2023,4,Apr,21,Friday
+4075,Polo Shirt,196,12/28/2022,1.9,Credit Card,2022,12,Dec,28,Wednesday
+3957,Vest,180,5/17/2023,3.6,Cash,2023,5,May,17,Wednesday
+4117,Tank Top,49,10/22/2022,2.8,Credit Card,2022,10,Oct,22,Saturday
+3975,Jeans,131,12/9/2022,4.6,Credit Card,2022,12,Dec,9,Friday
+4042,Sun Hat,33,4/24/2023,3.1,Credit Card,2023,4,Apr,24,Monday
+4092,Polo Shirt,200,10/2/2022,1.8,Credit Card,2022,10,Oct,2,Sunday
+3965,Flannel Shirt,43,2/13/2023,2.6,Cash,2023,2,Feb,13,Monday
+4066,Jacket,153,10/28/2022,1.3,Credit Card,2022,10,Oct,28,Friday
+4026,Flannel Shirt,41,7/26/2023,3.1,Credit Card,2023,7,Jul,26,Wednesday
+4113,Slippers,180,4/4/2023,4.5,Credit Card,2023,4,Apr,4,Tuesday
+4095,Polo Shirt,118,5/10/2023,1.2,Credit Card,2023,5,May,10,Wednesday
+4104,Romper,194,1/9/2023,2,Cash,2023,1,Jan,9,Monday
+3977,Shorts,89,11/5/2022,3.6,Cash,2022,11,Nov,5,Saturday
+4115,Tunic,157,6/3/2023,3.8,Cash,2023,6,Jun,3,Saturday
+4042,Tunic,49,2/24/2023,1.2,Cash,2023,2,Feb,24,Friday
+3971,Scarf,67,8/29/2023,3.2,Cash,2023,8,Aug,29,Tuesday
+4050,Shorts,104,10/11/2022,4.3,Credit Card,2022,10,Oct,11,Tuesday
+3985,Loafers,67,8/12/2023,3.1,Credit Card,2023,8,Aug,12,Saturday
+4050,Hat,169,10/27/2022,3.3,Cash,2022,10,Oct,27,Thursday
+4076,T-shirt,174,11/14/2022,2.9,Credit Card,2022,11,Nov,14,Monday
+4115,Sun Hat,165,7/23/2023,4.1,Credit Card,2023,7,Jul,23,Sunday
+3967,Bowtie,187,1/22/2023,3.5,Credit Card,2023,1,Jan,22,Sunday
+4050,Leggings,56,2/4/2023,1.5,Credit Card,2023,2,Feb,4,Saturday
+4001,Dress,99,1/12/2023,3.2,Credit Card,2023,1,Jan,12,Thursday
+4100,Sunglasses,154,8/15/2023,3.3,Credit Card,2023,8,Aug,15,Tuesday
+3974,Scarf,27,12/31/2022,1.4,Cash,2022,12,Dec,31,Saturday
+4009,Coat,17,12/23/2022,4.2,Credit Card,2022,12,Dec,23,Friday
+4018,Sandals,97,11/18/2022,3.4,Cash,2022,11,Nov,18,Friday
+3986,Dress,93,8/1/2023,3.1,Cash,2023,8,Aug,1,Tuesday
+4079,Hoodie,155,1/23/2023,2.2,Credit Card,2023,1,Jan,23,Monday
+4105,Shorts,23,4/15/2023,2,Credit Card,2023,4,Apr,15,Saturday
+4014,Blazer,22,9/22/2023,2.8,Cash,2023,9,Sep,22,Friday
+4039,Swimsuit,79,10/25/2022,4.8,Credit Card,2022,10,Oct,25,Tuesday
+4047,Polo Shirt,118,5/4/2023,2.3,Credit Card,2023,5,May,4,Thursday
+4025,Coat,123,10/12/2022,2.9,Credit Card,2022,10,Oct,12,Wednesday
+4085,Belt,65,6/29/2023,1.3,Credit Card,2023,6,Jun,29,Thursday
+4065,Wallet,39,12/14/2022,2.2,Cash,2022,12,Dec,14,Wednesday
+4027,T-shirt,38,5/26/2023,2.8,Cash,2023,5,May,26,Friday
+3970,Boots,183,6/7/2023,3.2,Credit Card,2023,6,Jun,7,Wednesday
+3973,Blazer,144,9/4/2023,4.1,Cash,2023,9,Sep,4,Monday
+4052,Dress,21,10/21/2022,1.9,Cash,2022,10,Oct,21,Friday
+4045,Flannel Shirt,163,3/15/2023,2.3,Cash,2023,3,Mar,15,Wednesday
+4081,Wallet,64,2/22/2023,3.4,Credit Card,2023,2,Feb,22,Wednesday
+4085,Polo Shirt,75,4/24/2023,1.6,Credit Card,2023,4,Apr,24,Monday
+4091,Bowtie,40,11/27/2022,4.1,Cash,2022,11,Nov,27,Sunday
+4077,Sunglasses,54,5/4/2023,1.6,Cash,2023,5,May,4,Thursday
+4093,Tank Top,68,6/1/2023,4.2,Cash,2023,6,Jun,1,Thursday
+4031,Leggings,181,5/13/2023,2.1,Cash,2023,5,May,13,Saturday
+4072,Flannel Shirt,28,12/7/2022,2.9,Cash,2022,12,Dec,7,Wednesday
+4115,Raincoat,199,4/20/2023,2.2,Credit Card,2023,4,Apr,20,Thursday
+4005,Trench Coat,90,9/29/2023,2.7,Credit Card,2023,9,Sep,29,Friday
+4074,Scarf,156,6/28/2023,2.7,Credit Card,2023,6,Jun,28,Wednesday
+3979,Tank Top,173,4/1/2023,2.6,Credit Card,2023,4,Apr,1,Saturday
+3977,Skirt,39,10/7/2022,2.4,Credit Card,2022,10,Oct,7,Friday
+4057,Wallet,93,10/9/2022,4.9,Cash,2022,10,Oct,9,Sunday
+4030,Boots,127,3/17/2023,1.8,Cash,2023,3,Mar,17,Friday
+3976,Dress,102,1/26/2023,2.2,Cash,2023,1,Jan,26,Thursday
+3999,Pants,72,12/29/2022,2.3,Credit Card,2022,12,Dec,29,Thursday
+4027,Blazer,112,1/12/2023,1.8,Credit Card,2023,1,Jan,12,Thursday
+3985,Scarf,111,2/17/2023,3,Credit Card,2023,2,Feb,17,Friday
+3994,Blouse,200,5/6/2023,1.4,Credit Card,2023,5,May,6,Saturday
+4084,Loafers,95,11/17/2022,2.3,Credit Card,2022,11,Nov,17,Thursday
+3995,Sun Hat,29,5/17/2023,3.9,Cash,2023,5,May,17,Wednesday
+4009,Scarf,39,5/7/2023,4.9,Credit Card,2023,5,May,7,Sunday
+4117,Raincoat,99,12/16/2022,3.8,Credit Card,2022,12,Dec,16,Friday
+3962,Sneakers,175,1/24/2023,2.9,Cash,2023,1,Jan,24,Tuesday
+4032,Blouse,70,9/11/2023,3.4,Cash,2023,9,Sep,11,Monday
+4095,Flip-Flops,54,1/15/2023,2.1,Credit Card,2023,1,Jan,15,Sunday
+3990,Belt,177,1/11/2023,4.7,Credit Card,2023,1,Jan,11,Wednesday
+4045,Sun Hat,170,11/29/2022,2.3,Credit Card,2022,11,Nov,29,Tuesday
+4064,Sandals,154,10/8/2022,2.7,Cash,2022,10,Oct,8,Saturday
+4070,Sandals,124,8/27/2023,1.6,Cash,2023,8,Aug,27,Sunday
+4122,Pajamas,154,8/14/2023,1.8,Credit Card,2023,8,Aug,14,Monday
+4031,Coat,170,2/23/2023,3.3,Cash,2023,2,Feb,23,Thursday
+4005,Vest,122,10/1/2023,2,Cash,2023,10,Oct,1,Sunday
+4016,Sandals,161,3/4/2023,1.3,Cash,2023,3,Mar,4,Saturday
+4122,Belt,89,1/12/2023,4.4,Credit Card,2023,1,Jan,12,Thursday
+4042,Tank Top,19,11/21/2022,2.8,Cash,2022,11,Nov,21,Monday
+4105,Polo Shirt,29,3/29/2023,2.8,Cash,2023,3,Mar,29,Wednesday
+4044,Scarf,33,2/20/2023,3.7,Credit Card,2023,2,Feb,20,Monday
+4122,Jacket,139,2/26/2023,2,Credit Card,2023,2,Feb,26,Sunday
+4040,Handbag,158,11/30/2022,1.1,Cash,2022,11,Nov,30,Wednesday
+4081,Camisole,199,1/10/2023,2.6,Cash,2023,1,Jan,10,Tuesday
+4108,Sneakers,125,5/25/2023,2.9,Cash,2023,5,May,25,Thursday
+4097,Tank Top,92,5/27/2023,4.7,Cash,2023,5,May,27,Saturday
+4070,Backpack,138,5/30/2023,1.1,Cash,2023,5,May,30,Tuesday
+3990,Sunglasses,97,4/5/2023,3.5,Cash,2023,4,Apr,5,Wednesday
+4035,Wallet,31,6/3/2023,3.3,Cash,2023,6,Jun,3,Saturday
+4000,Backpack,54,5/5/2023,4.1,Cash,2023,5,May,5,Friday
+4015,Loafers,122,5/6/2023,1.4,Cash,2023,5,May,6,Saturday
+4080,Coat,166,9/21/2023,3.4,Credit Card,2023,9,Sep,21,Thursday
+4030,Pants,82,2/7/2023,2.7,Cash,2023,2,Feb,7,Tuesday
+3969,Leggings,96,8/7/2023,2.8,Cash,2023,8,Aug,7,Monday
+3994,Belt,23,2/28/2023,4,Credit Card,2023,2,Feb,28,Tuesday
+4047,Pajamas,175,1/2/2023,1.3,Cash,2023,1,Jan,2,Monday
+4029,Jeans,94,8/17/2023,2.4,Cash,2023,8,Aug,17,Thursday
+3999,Boots,82,2/21/2023,2.7,Cash,2023,2,Feb,21,Tuesday
+3998,Sneakers,164,11/6/2022,1,Credit Card,2022,11,Nov,6,Sunday
+4094,Shorts,95,6/1/2023,1.1,Credit Card,2023,6,Jun,1,Thursday
+4003,Shorts,99,3/25/2023,1.9,Credit Card,2023,3,Mar,25,Saturday
+4001,Umbrella,177,11/22/2022,2.3,Cash,2022,11,Nov,22,Tuesday
+3996,Sun Hat,110,6/20/2023,3.7,Credit Card,2023,6,Jun,20,Tuesday
+4017,Jacket,31,5/15/2023,4.5,Cash,2023,5,May,15,Monday
+3986,Trousers,106,10/12/2022,1.6,Credit Card,2022,10,Oct,12,Wednesday
+3967,Handbag,94,11/15/2022,1.8,Cash,2022,11,Nov,15,Tuesday
+4038,Hoodie,181,6/12/2023,1.1,Credit Card,2023,6,Jun,12,Monday
+4104,Swimsuit,199,8/15/2023,4.4,Cash,2023,8,Aug,15,Tuesday
+3989,Trousers,144,8/13/2023,3.2,Credit Card,2023,8,Aug,13,Sunday
+4023,Sneakers,140,1/6/2023,1.9,Cash,2023,1,Jan,6,Friday
+4051,Pants,102,12/29/2022,2.2,Cash,2022,12,Dec,29,Thursday
+4004,Gloves,64,3/4/2023,2.1,Credit Card,2023,3,Mar,4,Saturday
+4009,Sneakers,134,9/24/2023,1.9,Credit Card,2023,9,Sep,24,Sunday
+3965,Skirt,49,10/23/2022,2.8,Cash,2022,10,Oct,23,Sunday
+4045,Gloves,35,2/25/2023,4,Cash,2023,2,Feb,25,Saturday
+3994,Pajamas,148,7/15/2023,2.5,Credit Card,2023,7,Jul,15,Saturday
+4052,Skirt,144,1/22/2023,2.6,Credit Card,2023,1,Jan,22,Sunday
+4095,Hat,168,3/8/2023,1.4,Credit Card,2023,3,Mar,8,Wednesday
+4093,Camisole,51,2/15/2023,1.5,Cash,2023,2,Feb,15,Wednesday
+3988,Slippers,169,6/13/2023,3.4,Credit Card,2023,6,Jun,13,Tuesday
+3963,Kimono,52,12/27/2022,2.3,Cash,2022,12,Dec,27,Tuesday
+4060,Skirt,21,1/22/2023,4.9,Credit Card,2023,1,Jan,22,Sunday
+4084,Flannel Shirt,183,2/16/2023,2.4,Credit Card,2023,2,Feb,16,Thursday
+3994,Raincoat,123,3/27/2023,1.4,Cash,2023,3,Mar,27,Monday
+4074,Tank Top,124,5/9/2023,1,Cash,2023,5,May,9,Tuesday
+4038,Sunglasses,71,3/22/2023,2.6,Credit Card,2023,3,Mar,22,Wednesday
+3996,Cardigan,130,1/10/2023,2.4,Cash,2023,1,Jan,10,Tuesday
+3958,Sun Hat,59,6/15/2023,4.3,Credit Card,2023,6,Jun,15,Thursday
+4096,Sneakers,156,4/19/2023,4.4,Cash,2023,4,Apr,19,Wednesday
+4086,Loafers,128,7/22/2023,5,Credit Card,2023,7,Jul,22,Saturday
+4122,Sweater,117,5/19/2023,2.6,Credit Card,2023,5,May,19,Friday
+4032,Coat,61,7/20/2023,4.8,Cash,2023,7,Jul,20,Thursday
+4078,Leggings,45,10/7/2022,3.6,Credit Card,2022,10,Oct,7,Friday
+4031,Tunic,23,12/25/2022,1.6,Credit Card,2022,12,Dec,25,Sunday
+4103,Pajamas,105,4/3/2023,3.3,Credit Card,2023,4,Apr,3,Monday
+3994,Hat,36,3/1/2023,1.6,Credit Card,2023,3,Mar,1,Wednesday
+4101,Raincoat,142,7/3/2023,4,Credit Card,2023,7,Jul,3,Monday
+4079,Sun Hat,141,12/11/2022,1.6,Credit Card,2022,12,Dec,11,Sunday
+3992,Vest,66,7/15/2023,4,Cash,2023,7,Jul,15,Saturday
+4098,Onesie,99,7/19/2023,1.7,Cash,2023,7,Jul,19,Wednesday
+3986,Slippers,116,10/23/2022,1.4,Cash,2022,10,Oct,23,Sunday
+3963,Sandals,70,9/19/2023,3.5,Cash,2023,9,Sep,19,Tuesday
+4059,T-shirt,30,5/29/2023,2.1,Cash,2023,5,May,29,Monday
+4115,Umbrella,17,12/29/2022,4.1,Cash,2022,12,Dec,29,Thursday
+4013,Trench Coat,35,1/11/2023,4.6,Cash,2023,1,Jan,11,Wednesday
+4048,Pants,47,5/12/2023,4.7,Cash,2023,5,May,12,Friday
+4040,Blouse,130,2/15/2023,3.4,Credit Card,2023,2,Feb,15,Wednesday
+3971,Pants,45,11/3/2022,1.6,Cash,2022,11,Nov,3,Thursday
+4121,Sunglasses,11,10/8/2022,1.4,Cash,2022,10,Oct,8,Saturday
+4006,Poncho,14,10/3/2022,1.4,Cash,2022,10,Oct,3,Monday
+4106,Sneakers,48,8/2/2023,4.9,Cash,2023,8,Aug,2,Wednesday
+4091,Sweater,196,3/24/2023,3.1,Cash,2023,3,Mar,24,Friday
+4013,Camisole,118,1/26/2023,3.4,Cash,2023,1,Jan,26,Thursday
+4007,Swimsuit,87,3/23/2023,4.6,Cash,2023,3,Mar,23,Thursday
+3978,Jumpsuit,173,3/11/2023,3.5,Cash,2023,3,Mar,11,Saturday
+4094,Boots,127,6/5/2023,2.9,Credit Card,2023,6,Jun,5,Monday
+3979,Loafers,137,12/30/2022,1.9,Credit Card,2022,12,Dec,30,Friday
+4088,Tie,14,11/17/2022,4.8,Credit Card,2022,11,Nov,17,Thursday
+4057,Romper,157,4/20/2023,1.3,Credit Card,2023,4,Apr,20,Thursday
+4082,Hat,10,1/30/2023,4.5,Cash,2023,1,Jan,30,Monday
+4038,Bowtie,71,3/15/2023,1.9,Cash,2023,3,Mar,15,Wednesday
+4111,Raincoat,57,7/31/2023,3.6,Credit Card,2023,7,Jul,31,Monday
+4111,Overalls,31,8/6/2023,4.9,Credit Card,2023,8,Aug,6,Sunday
+4087,Trench Coat,102,10/10/2022,3.1,Cash,2022,10,Oct,10,Monday
+4049,Sneakers,139,7/26/2023,1.5,Credit Card,2023,7,Jul,26,Wednesday
+4058,Belt,139,1/22/2023,3.6,Cash,2023,1,Jan,22,Sunday
+3994,Flannel Shirt,109,6/3/2023,4.7,Credit Card,2023,6,Jun,3,Saturday
+4051,Gloves,105,11/10/2022,2.5,Credit Card,2022,11,Nov,10,Thursday
+4052,Handbag,27,9/11/2023,1.7,Cash,2023,9,Sep,11,Monday
+3960,Hoodie,197,5/8/2023,1.1,Cash,2023,5,May,8,Monday
+4029,Blazer,36,10/27/2022,1.6,Cash,2022,10,Oct,27,Thursday
+4045,Tie,198,3/7/2023,3.3,Cash,2023,3,Mar,7,Tuesday
+4046,Jumpsuit,44,6/9/2023,2.4,Cash,2023,6,Jun,9,Friday
+4071,Hoodie,174,8/23/2023,2.8,Credit Card,2023,8,Aug,23,Wednesday
+3979,Hoodie,128,11/19/2022,1.5,Credit Card,2022,11,Nov,19,Saturday
+4012,Jacket,132,3/1/2023,4.1,Cash,2023,3,Mar,1,Wednesday
+4070,Camisole,44,1/23/2023,2.3,Cash,2023,1,Jan,23,Monday
+4070,Hoodie,127,6/17/2023,2.9,Credit Card,2023,6,Jun,17,Saturday
+3998,Sunglasses,61,2/13/2023,2.4,Credit Card,2023,2,Feb,13,Monday
+4065,Sweater,90,2/20/2023,1.3,Cash,2023,2,Feb,20,Monday
+4063,Hoodie,141,1/18/2023,3.6,Credit Card,2023,1,Jan,18,Wednesday
+3992,Poncho,149,5/24/2023,1.5,Cash,2023,5,May,24,Wednesday
+4107,Cardigan,19,10/28/2022,2.8,Credit Card,2022,10,Oct,28,Friday
+4110,Sun Hat,58,4/22/2023,3.2,Cash,2023,4,Apr,22,Saturday
+3979,Kimono,22,4/12/2023,4.5,Credit Card,2023,4,Apr,12,Wednesday
+3993,T-shirt,94,11/13/2022,2.7,Cash,2022,11,Nov,13,Sunday
+4010,Belt,104,7/6/2023,1.3,Credit Card,2023,7,Jul,6,Thursday
+4034,Umbrella,112,5/21/2023,3,Credit Card,2023,5,May,21,Sunday
+4078,Trench Coat,108,8/31/2023,4.8,Credit Card,2023,8,Aug,31,Thursday
+4091,Camisole,57,3/30/2023,1.8,Cash,2023,3,Mar,30,Thursday
+4042,Blouse,137,5/2/2023,1.9,Credit Card,2023,5,May,2,Tuesday
+4108,Kimono,31,5/2/2023,2.4,Cash,2023,5,May,2,Tuesday
+4053,Trench Coat,30,5/29/2023,1.6,Cash,2023,5,May,29,Monday
+3979,Umbrella,56,12/8/2022,3.1,Credit Card,2022,12,Dec,8,Thursday
+3958,Umbrella,92,9/14/2023,2.5,Credit Card,2023,9,Sep,14,Thursday
+4120,Tank Top,85,1/29/2023,2.5,Cash,2023,1,Jan,29,Sunday
+4026,Shorts,164,4/26/2023,1.7,Credit Card,2023,4,Apr,26,Wednesday
+4063,Vest,52,7/12/2023,3.5,Cash,2023,7,Jul,12,Wednesday
+4001,T-shirt,99,11/5/2022,4,Credit Card,2022,11,Nov,5,Saturday
+4099,Flip-Flops,196,4/8/2023,4.8,Credit Card,2023,4,Apr,8,Saturday
+4075,Socks,100,9/4/2023,4.4,Credit Card,2023,9,Sep,4,Monday
+4102,Poncho,121,3/3/2023,4.8,Credit Card,2023,3,Mar,3,Friday
+3992,T-shirt,24,9/22/2023,2.2,Credit Card,2023,9,Sep,22,Friday
+4004,Belt,103,6/24/2023,2.9,Cash,2023,6,Jun,24,Saturday
+4054,Tank Top,183,4/10/2023,4.8,Credit Card,2023,4,Apr,10,Monday
+4082,Raincoat,183,7/21/2023,4.7,Credit Card,2023,7,Jul,21,Friday
+3967,Boots,18,10/19/2022,4.8,Cash,2022,10,Oct,19,Wednesday
+4106,Wallet,175,12/17/2022,1.6,Credit Card,2022,12,Dec,17,Saturday
+4034,Flannel Shirt,108,5/21/2023,4.1,Cash,2023,5,May,21,Sunday
+4083,Umbrella,18,6/2/2023,4.8,Cash,2023,6,Jun,2,Friday
+4100,Loafers,183,9/23/2023,4.1,Credit Card,2023,9,Sep,23,Saturday
+4075,Dress,104,12/26/2022,2.6,Credit Card,2022,12,Dec,26,Monday
+4014,Loafers,29,7/24/2023,4.3,Cash,2023,7,Jul,24,Monday
+3957,Coat,90,10/7/2022,2.1,Credit Card,2022,10,Oct,7,Friday
+3996,Umbrella,73,6/23/2023,1.5,Cash,2023,6,Jun,23,Friday
+4024,Tunic,16,3/8/2023,4.8,Cash,2023,3,Mar,8,Wednesday
+4033,Flannel Shirt,137,3/22/2023,2.8,Cash,2023,3,Mar,22,Wednesday
+4120,Gloves,153,10/22/2022,4,Cash,2022,10,Oct,22,Saturday
+4077,Jacket,190,5/22/2023,2.2,Credit Card,2023,5,May,22,Monday
+3988,Swimsuit,166,8/30/2023,3.5,Credit Card,2023,8,Aug,30,Wednesday
+4030,Blouse,135,7/16/2023,3.6,Cash,2023,7,Jul,16,Sunday
+4063,Trench Coat,44,4/17/2023,1.5,Credit Card,2023,4,Apr,17,Monday
+4002,Raincoat,125,10/12/2022,2.8,Credit Card,2022,10,Oct,12,Wednesday
+4122,Belt,32,1/30/2023,4.6,Cash,2023,1,Jan,30,Monday
+4019,Kimono,91,4/6/2023,2.1,Cash,2023,4,Apr,6,Thursday
+3964,Pajamas,191,4/30/2023,2.5,Credit Card,2023,4,Apr,30,Sunday
+4027,Swimsuit,86,10/19/2022,3.3,Cash,2022,10,Oct,19,Wednesday
+4083,Shorts,192,3/23/2023,3.8,Cash,2023,3,Mar,23,Thursday
+3974,Trousers,189,10/20/2022,4,Cash,2022,10,Oct,20,Thursday
+4110,Umbrella,102,1/26/2023,1.4,Credit Card,2023,1,Jan,26,Thursday
+4049,Boots,41,9/28/2023,3.4,Cash,2023,9,Sep,28,Thursday
+4105,Polo Shirt,45,2/5/2023,2.5,Cash,2023,2,Feb,5,Sunday
+4080,Jumpsuit,136,5/17/2023,3.7,Cash,2023,5,May,17,Wednesday
+4068,Cardigan,104,5/7/2023,3.6,Credit Card,2023,5,May,7,Sunday
+4023,Blazer,151,8/1/2023,2.1,Credit Card,2023,8,Aug,1,Tuesday
+4078,Cardigan,26,2/4/2023,3,Credit Card,2023,2,Feb,4,Saturday
+3987,Sandals,193,1/18/2023,4.3,Credit Card,2023,1,Jan,18,Wednesday
+4052,Scarf,144,10/15/2022,1.3,Cash,2022,10,Oct,15,Saturday
+4088,T-shirt,114,4/22/2023,4.2,Credit Card,2023,4,Apr,22,Saturday
+4104,Poncho,28,6/6/2023,3,Credit Card,2023,6,Jun,6,Tuesday
+4023,Sunglasses,28,5/15/2023,4.1,Credit Card,2023,5,May,15,Monday
+3998,Vest,184,9/7/2023,3.2,Cash,2023,9,Sep,7,Thursday
+4105,Scarf,42,1/18/2023,2.5,Credit Card,2023,1,Jan,18,Wednesday
+3971,Blazer,151,10/13/2022,4.7,Credit Card,2022,10,Oct,13,Thursday
+3994,Backpack,56,4/27/2023,3.4,Cash,2023,4,Apr,27,Thursday
+4038,Trench Coat,43,5/31/2023,4.2,Cash,2023,5,May,31,Wednesday
+4075,Dress,24,9/25/2023,3.3,Credit Card,2023,9,Sep,25,Monday
+3991,Overalls,142,12/2/2022,4.1,Credit Card,2022,12,Dec,2,Friday
+3970,Sweater,191,1/3/2023,4,Cash,2023,1,Jan,3,Tuesday
+4026,Raincoat,142,1/3/2023,4.2,Credit Card,2023,1,Jan,3,Tuesday
+4049,T-shirt,30,5/5/2023,3.3,Credit Card,2023,5,May,5,Friday
+4064,Flip-Flops,172,4/30/2023,4.8,Credit Card,2023,4,Apr,30,Sunday
+4119,Overalls,80,6/2/2023,3.5,Cash,2023,6,Jun,2,Friday
+4031,Skirt,161,11/12/2022,1.4,Credit Card,2022,11,Nov,12,Saturday
+4092,T-shirt,49,8/12/2023,4.2,Credit Card,2023,8,Aug,12,Saturday
+3976,Camisole,164,6/21/2023,4.3,Credit Card,2023,6,Jun,21,Wednesday
+4088,Hat,154,5/21/2023,4.9,Cash,2023,5,May,21,Sunday
+3981,Skirt,157,5/10/2023,4.2,Cash,2023,5,May,10,Wednesday
+4110,Belt,63,3/19/2023,4.1,Credit Card,2023,3,Mar,19,Sunday
+3999,Kimono,116,1/21/2023,2.3,Cash,2023,1,Jan,21,Saturday
+4096,Socks,17,6/16/2023,2.4,Credit Card,2023,6,Jun,16,Friday
+4039,Hoodie,170,3/19/2023,4.4,Credit Card,2023,3,Mar,19,Sunday
+4037,Flannel Shirt,174,9/13/2023,2.3,Credit Card,2023,9,Sep,13,Wednesday
+4034,Trench Coat,133,8/4/2023,4,Credit Card,2023,8,Aug,4,Friday
+4026,Pants,185,10/25/2022,1.9,Credit Card,2022,10,Oct,25,Tuesday
+4049,Tie,126,4/18/2023,1.4,Cash,2023,4,Apr,18,Tuesday
+4105,T-shirt,133,7/22/2023,2.5,Credit Card,2023,7,Jul,22,Saturday
+4047,Pants,97,5/2/2023,3.8,Cash,2023,5,May,2,Tuesday
+3993,Jumpsuit,90,1/14/2023,4.2,Credit Card,2023,1,Jan,14,Saturday
+3960,Wallet,91,3/6/2023,4,Credit Card,2023,3,Mar,6,Monday
+3992,Sandals,98,9/15/2023,2.3,Credit Card,2023,9,Sep,15,Friday
+4089,Gloves,43,12/27/2022,3.3,Cash,2022,12,Dec,27,Tuesday
+4029,Onesie,141,9/23/2023,3.8,Credit Card,2023,9,Sep,23,Saturday
+4052,Vest,91,6/22/2023,4,Cash,2023,6,Jun,22,Thursday
+4081,Swimsuit,41,9/22/2023,2.6,Credit Card,2023,9,Sep,22,Friday
+4062,Blazer,73,8/14/2023,1.8,Cash,2023,8,Aug,14,Monday
+3983,Hat,167,4/24/2023,2.1,Credit Card,2023,4,Apr,24,Monday
+4012,Polo Shirt,50,10/14/2022,3.1,Credit Card,2022,10,Oct,14,Friday
+3996,Sneakers,157,3/12/2023,4.7,Credit Card,2023,3,Mar,12,Sunday
+4085,Skirt,58,8/24/2023,4.8,Credit Card,2023,8,Aug,24,Thursday
+4013,Bowtie,137,3/16/2023,4.5,Cash,2023,3,Mar,16,Thursday
+4005,Wallet,129,10/13/2022,3.3,Credit Card,2022,10,Oct,13,Thursday
+4114,Coat,33,8/24/2023,2.8,Credit Card,2023,8,Aug,24,Thursday
+4093,Raincoat,71,7/21/2023,3.7,Cash,2023,7,Jul,21,Friday
+4098,Poncho,100,12/11/2022,3,Cash,2022,12,Dec,11,Sunday
+4063,T-shirt,162,12/1/2022,1.9,Credit Card,2022,12,Dec,1,Thursday
+4074,Raincoat,177,9/22/2023,1.9,Cash,2023,9,Sep,22,Friday
+3986,Socks,37,11/1/2022,1.1,Credit Card,2022,11,Nov,1,Tuesday
+3990,Shorts,77,2/13/2023,4.4,Credit Card,2023,2,Feb,13,Monday
+3961,Socks,113,8/29/2023,3.2,Cash,2023,8,Aug,29,Tuesday
+4079,Cardigan,112,7/16/2023,2.6,Cash,2023,7,Jul,16,Sunday
+4036,Blouse,102,9/25/2023,4.6,Cash,2023,9,Sep,25,Monday
+4049,Vest,28,11/10/2022,4,Credit Card,2022,11,Nov,10,Thursday
+3992,Tie,125,7/8/2023,4.9,Cash,2023,7,Jul,8,Saturday
+4070,Poncho,81,4/25/2023,2.1,Cash,2023,4,Apr,25,Tuesday
+4109,Trousers,169,9/16/2023,4.6,Credit Card,2023,9,Sep,16,Saturday
+4090,Dress,40,5/16/2023,2.3,Credit Card,2023,5,May,16,Tuesday
+4034,Socks,96,4/20/2023,2,Credit Card,2023,4,Apr,20,Thursday
+3964,Onesie,103,1/15/2023,1.5,Cash,2023,1,Jan,15,Sunday
+3987,Wallet,60,1/5/2023,4.1,Cash,2023,1,Jan,5,Thursday
+4013,Sneakers,112,11/2/2022,2.9,Credit Card,2022,11,Nov,2,Wednesday
+3989,Shorts,21,11/6/2022,4.2,Credit Card,2022,11,Nov,6,Sunday
+4015,Kimono,131,12/24/2022,3.6,Cash,2022,12,Dec,24,Saturday
+4035,Sun Hat,48,7/24/2023,4.9,Credit Card,2023,7,Jul,24,Monday
+3989,Kimono,141,9/13/2023,3.3,Credit Card,2023,9,Sep,13,Wednesday
+3990,Romper,91,6/1/2023,3,Cash,2023,6,Jun,1,Thursday
+4065,Leggings,199,7/26/2023,3.2,Credit Card,2023,7,Jul,26,Wednesday
+3985,Tunic,161,7/26/2023,1.2,Cash,2023,7,Jul,26,Wednesday
+3976,Tunic,140,12/31/2022,4.5,Credit Card,2022,12,Dec,31,Saturday
+3961,Jumpsuit,191,6/19/2023,3.7,Cash,2023,6,Jun,19,Monday
+4067,Trench Coat,104,11/12/2022,3.3,Credit Card,2022,11,Nov,12,Saturday
+3967,Camisole,38,9/11/2023,3.9,Credit Card,2023,9,Sep,11,Monday
+4007,Poncho,159,7/19/2023,3,Cash,2023,7,Jul,19,Wednesday
+3984,Pajamas,195,7/3/2023,4.8,Cash,2023,7,Jul,3,Monday
+3965,Blouse,171,12/22/2022,1.9,Cash,2022,12,Dec,22,Thursday
+4108,Skirt,177,12/2/2022,2.3,Cash,2022,12,Dec,2,Friday
+3972,Jeans,158,7/16/2023,4.5,Cash,2023,7,Jul,16,Sunday
+4077,Blouse,194,12/19/2022,1.6,Credit Card,2022,12,Dec,19,Monday
+4021,Raincoat,144,9/26/2023,1,Cash,2023,9,Sep,26,Tuesday
+3968,Trench Coat,168,3/16/2023,3.8,Cash,2023,3,Mar,16,Thursday
+3973,T-shirt,107,1/14/2023,1.5,Credit Card,2023,1,Jan,14,Saturday
+3959,Umbrella,18,5/27/2023,3.9,Credit Card,2023,5,May,27,Saturday
+3981,Boots,189,11/17/2022,2,Credit Card,2022,11,Nov,17,Thursday
+4009,Trousers,48,7/2/2023,3,Credit Card,2023,7,Jul,2,Sunday
+4107,Belt,62,5/6/2023,1.4,Credit Card,2023,5,May,6,Saturday
+4008,Loafers,166,3/8/2023,3.3,Credit Card,2023,3,Mar,8,Wednesday
+4004,Poncho,198,8/10/2023,2.5,Cash,2023,8,Aug,10,Thursday
+4046,T-shirt,190,2/13/2023,3.8,Cash,2023,2,Feb,13,Monday
+3994,Cardigan,132,7/29/2023,3.8,Credit Card,2023,7,Jul,29,Saturday
+4028,Cardigan,90,2/28/2023,3,Credit Card,2023,2,Feb,28,Tuesday
+4105,Kimono,127,12/21/2022,2.6,Credit Card,2022,12,Dec,21,Wednesday
+4046,Hoodie,97,10/17/2022,4.9,Cash,2022,10,Oct,17,Monday
+4047,Tunic,183,1/15/2023,2.4,Cash,2023,1,Jan,15,Sunday
+3998,Belt,194,9/23/2023,3.1,Credit Card,2023,9,Sep,23,Saturday
+4113,Flip-Flops,133,7/3/2023,4.9,Credit Card,2023,7,Jul,3,Monday
+4086,Camisole,152,9/7/2023,1.7,Credit Card,2023,9,Sep,7,Thursday
+4102,Trench Coat,86,1/30/2023,3.1,Cash,2023,1,Jan,30,Monday
+3982,Boots,190,9/12/2023,1.1,Cash,2023,9,Sep,12,Tuesday
+4105,Sneakers,132,1/31/2023,3.3,Credit Card,2023,1,Jan,31,Tuesday
+3960,Jumpsuit,194,3/18/2023,4.8,Cash,2023,3,Mar,18,Saturday
+4092,Shorts,41,3/5/2023,3.5,Credit Card,2023,3,Mar,5,Sunday
+4012,Sandals,149,9/18/2023,1.9,Credit Card,2023,9,Sep,18,Monday
+4006,Tank Top,111,8/25/2023,4.5,Credit Card,2023,8,Aug,25,Friday
+4029,Boots,47,8/5/2023,3.4,Credit Card,2023,8,Aug,5,Saturday
+4000,Wallet,83,9/21/2023,4.6,Cash,2023,9,Sep,21,Thursday
+4094,Belt,30,10/11/2022,4.5,Cash,2022,10,Oct,11,Tuesday
+3958,Socks,123,11/28/2022,1.6,Cash,2022,11,Nov,28,Monday
+3982,Onesie,132,2/23/2023,1.1,Cash,2023,2,Feb,23,Thursday
+4086,Skirt,153,7/18/2023,4.8,Credit Card,2023,7,Jul,18,Tuesday
+4078,Tank Top,45,8/10/2023,4.2,Credit Card,2023,8,Aug,10,Thursday
+4107,Trench Coat,71,5/20/2023,1.7,Cash,2023,5,May,20,Saturday
+4004,Flip-Flops,181,10/15/2022,4.6,Credit Card,2022,10,Oct,15,Saturday
+4069,Hat,67,4/14/2023,3.4,Cash,2023,4,Apr,14,Friday
+3984,Socks,23,8/4/2023,4.7,Credit Card,2023,8,Aug,4,Friday
+4047,Handbag,130,11/3/2022,2.6,Credit Card,2022,11,Nov,3,Thursday
+4065,Pants,11,3/25/2023,2.4,Credit Card,2023,3,Mar,25,Saturday
+4011,Gloves,50,7/4/2023,2,Credit Card,2023,7,Jul,4,Tuesday
+4088,Shorts,131,5/14/2023,1.8,Cash,2023,5,May,14,Sunday
+4015,Blouse,61,1/7/2023,2.4,Credit Card,2023,1,Jan,7,Saturday
+4061,Vest,83,10/3/2022,4.7,Cash,2022,10,Oct,3,Monday
+3985,Dress,175,4/8/2023,4.6,Credit Card,2023,4,Apr,8,Saturday
+4076,Pants,146,6/30/2023,3.7,Credit Card,2023,6,Jun,30,Friday
+3985,Belt,19,12/24/2022,3.1,Cash,2022,12,Dec,24,Saturday
+4090,Jeans,54,2/18/2023,3.1,Cash,2023,2,Feb,18,Saturday
+3991,Flip-Flops,55,1/28/2023,3.2,Cash,2023,1,Jan,28,Saturday
+4083,Socks,19,7/16/2023,2.3,Credit Card,2023,7,Jul,16,Sunday
+4049,Hoodie,111,6/21/2023,1.8,Cash,2023,6,Jun,21,Wednesday
+4030,Sweater,57,2/21/2023,2.7,Cash,2023,2,Feb,21,Tuesday
+4099,Pajamas,84,9/4/2023,1.3,Cash,2023,9,Sep,4,Monday
+3978,Flannel Shirt,164,10/29/2022,3.2,Cash,2022,10,Oct,29,Saturday
+4083,Tank Top,82,12/16/2022,4.1,Cash,2022,12,Dec,16,Friday
+3986,Handbag,174,9/22/2023,3.8,Credit Card,2023,9,Sep,22,Friday
+4055,Gloves,136,9/14/2023,1.2,Credit Card,2023,9,Sep,14,Thursday
+4029,Gloves,44,11/9/2022,2.2,Credit Card,2022,11,Nov,9,Wednesday
+4073,Trousers,129,5/28/2023,4.6,Cash,2023,5,May,28,Sunday
+4110,Belt,38,7/4/2023,3.6,Credit Card,2023,7,Jul,4,Tuesday
+4036,Onesie,197,11/28/2022,3.1,Cash,2022,11,Nov,28,Monday
+4014,Trench Coat,13,5/31/2023,1.8,Credit Card,2023,5,May,31,Wednesday
+4098,Belt,85,6/16/2023,1.2,Credit Card,2023,6,Jun,16,Friday
+4061,Backpack,59,10/4/2022,4.5,Cash,2022,10,Oct,4,Tuesday
+4066,Blazer,113,8/22/2023,2.5,Cash,2023,8,Aug,22,Tuesday
+4005,Shorts,141,4/12/2023,4.6,Cash,2023,4,Apr,12,Wednesday
+4078,Swimsuit,57,2/17/2023,4.6,Credit Card,2023,2,Feb,17,Friday
+4051,Sneakers,132,9/6/2023,1.3,Cash,2023,9,Sep,6,Wednesday
+4002,Raincoat,73,1/23/2023,1.8,Credit Card,2023,1,Jan,23,Monday
+4082,Tie,124,11/29/2022,1.8,Cash,2022,11,Nov,29,Tuesday
+3983,Boots,94,3/26/2023,4.7,Cash,2023,3,Mar,26,Sunday
+4069,Sweater,76,6/29/2023,4.3,Credit Card,2023,6,Jun,29,Thursday
+4090,Hat,187,7/25/2023,4.9,Credit Card,2023,7,Jul,25,Tuesday
+3978,Dress,180,10/28/2022,4.3,Cash,2022,10,Oct,28,Friday
+4058,Wallet,190,8/31/2023,2,Credit Card,2023,8,Aug,31,Thursday
+4059,Poncho,186,2/8/2023,4.5,Cash,2023,2,Feb,8,Wednesday
+3983,Scarf,85,9/3/2023,3.5,Cash,2023,9,Sep,3,Sunday
+4000,Cardigan,66,12/13/2022,4.5,Credit Card,2022,12,Dec,13,Tuesday
+3973,Onesie,44,9/1/2023,2.1,Credit Card,2023,9,Sep,1,Friday
+4050,Sneakers,126,6/20/2023,2.7,Credit Card,2023,6,Jun,20,Tuesday
+4007,Loafers,165,11/18/2022,2.1,Cash,2022,11,Nov,18,Friday
+4043,Skirt,189,3/19/2023,4.3,Credit Card,2023,3,Mar,19,Sunday
+4008,Belt,130,10/2/2022,3.4,Credit Card,2022,10,Oct,2,Sunday
+4109,Hat,180,1/12/2023,2.6,Credit Card,2023,1,Jan,12,Thursday
+4060,Sandals,73,5/19/2023,2.8,Credit Card,2023,5,May,19,Friday
+3988,Kimono,162,10/25/2022,1.9,Cash,2022,10,Oct,25,Tuesday
+4016,Swimsuit,30,11/29/2022,1.5,Credit Card,2022,11,Nov,29,Tuesday
+4065,Trousers,145,6/2/2023,3,Credit Card,2023,6,Jun,2,Friday
+4084,Blazer,29,10/29/2022,2.3,Credit Card,2022,10,Oct,29,Saturday
+4028,Shorts,38,8/4/2023,2,Cash,2023,8,Aug,4,Friday
+4108,Wallet,139,5/1/2023,3.1,Cash,2023,5,May,1,Monday
+4026,T-shirt,147,8/20/2023,3.3,Cash,2023,8,Aug,20,Sunday
+4059,Sun Hat,143,10/23/2022,4.5,Credit Card,2022,10,Oct,23,Sunday
+4048,Jumpsuit,184,5/18/2023,3.2,Cash,2023,5,May,18,Thursday
+4078,Blouse,159,10/26/2022,1.5,Credit Card,2022,10,Oct,26,Wednesday
+4111,Trousers,140,1/14/2023,2.9,Credit Card,2023,1,Jan,14,Saturday
+4060,Swimsuit,24,10/17/2022,1.9,Credit Card,2022,10,Oct,17,Monday
+4081,Poncho,141,6/21/2023,1.7,Cash,2023,6,Jun,21,Wednesday
+4087,Swimsuit,154,8/20/2023,4.2,Cash,2023,8,Aug,20,Sunday
+3994,Jumpsuit,88,10/18/2022,1.6,Credit Card,2022,10,Oct,18,Tuesday
+4073,Slippers,111,6/24/2023,1.2,Credit Card,2023,6,Jun,24,Saturday
+3984,Flannel Shirt,10,8/25/2023,4.1,Credit Card,2023,8,Aug,25,Friday
+3988,Loafers,158,11/4/2022,1.8,Credit Card,2022,11,Nov,4,Friday
+4082,Boots,189,12/22/2022,2.4,Cash,2022,12,Dec,22,Thursday
+4016,Sneakers,27,12/17/2022,1.8,Cash,2022,12,Dec,17,Saturday
+4117,Scarf,130,6/29/2023,2.6,Cash,2023,6,Jun,29,Thursday
+3982,Hoodie,196,5/2/2023,1.8,Cash,2023,5,May,2,Tuesday
+3970,Skirt,117,7/10/2023,2.8,Credit Card,2023,7,Jul,10,Monday
+3974,Blouse,107,12/30/2022,1.3,Credit Card,2022,12,Dec,30,Friday
+4084,Handbag,106,8/31/2023,3.1,Cash,2023,8,Aug,31,Thursday
+3963,Poncho,184,3/2/2023,1.6,Credit Card,2023,3,Mar,2,Thursday
+4002,Loafers,148,3/4/2023,1.2,Credit Card,2023,3,Mar,4,Saturday
+4111,Dress,40,3/18/2023,3.5,Cash,2023,3,Mar,18,Saturday
+3996,Backpack,145,9/5/2023,1.6,Cash,2023,9,Sep,5,Tuesday
+4116,Socks,10,5/24/2023,3.3,Credit Card,2023,5,May,24,Wednesday
+4116,Romper,86,12/16/2022,4.1,Cash,2022,12,Dec,16,Friday
+3981,Bowtie,194,6/23/2023,1.9,Credit Card,2023,6,Jun,23,Friday
+3976,Skirt,146,6/18/2023,3.3,Credit Card,2023,6,Jun,18,Sunday
+4083,Polo Shirt,98,7/25/2023,4.6,Credit Card,2023,7,Jul,25,Tuesday
+4032,Blazer,38,1/4/2023,4,Credit Card,2023,1,Jan,4,Wednesday
+4082,Onesie,167,8/29/2023,5,Cash,2023,8,Aug,29,Tuesday
+4086,Tunic,14,5/29/2023,4.7,Credit Card,2023,5,May,29,Monday
+4023,Socks,27,8/21/2023,3.1,Cash,2023,8,Aug,21,Monday
+4095,Pants,190,11/9/2022,5,Cash,2022,11,Nov,9,Wednesday
+4096,Dress,72,5/4/2023,2.5,Cash,2023,5,May,4,Thursday
+3965,Socks,148,10/3/2022,1.6,Cash,2022,10,Oct,3,Monday
+4067,Tie,24,5/6/2023,3.8,Cash,2023,5,May,6,Saturday
+4055,Romper,69,9/17/2023,4.4,Credit Card,2023,9,Sep,17,Sunday
+4072,Sandals,197,11/28/2022,4.8,Credit Card,2022,11,Nov,28,Monday
+4037,Tunic,157,8/5/2023,2.7,Credit Card,2023,8,Aug,5,Saturday
+4053,Sun Hat,182,4/17/2023,2.8,Cash,2023,4,Apr,17,Monday
+4070,Raincoat,70,11/27/2022,2.5,Cash,2022,11,Nov,27,Sunday
+4074,Swimsuit,46,12/28/2022,2.6,Cash,2022,12,Dec,28,Wednesday
+3966,Bowtie,143,5/31/2023,1.8,Cash,2023,5,May,31,Wednesday
+3965,Handbag,86,4/27/2023,1.8,Cash,2023,4,Apr,27,Thursday
+4002,Romper,152,4/20/2023,4.5,Cash,2023,4,Apr,20,Thursday
+4099,Shorts,198,12/8/2022,3.5,Cash,2022,12,Dec,8,Thursday
+4034,Belt,170,10/9/2022,3.2,Cash,2022,10,Oct,9,Sunday
+3999,Jacket,152,7/14/2023,2.6,Cash,2023,7,Jul,14,Friday
+4082,Onesie,98,10/18/2022,1.9,Cash,2022,10,Oct,18,Tuesday
+4067,Tie,181,6/30/2023,1.4,Cash,2023,6,Jun,30,Friday
+3991,Flannel Shirt,144,12/9/2022,2.2,Cash,2022,12,Dec,9,Friday
+4036,Trench Coat,116,10/10/2022,4.1,Credit Card,2022,10,Oct,10,Monday
+4056,Jeans,86,2/1/2023,1.2,Cash,2023,2,Feb,1,Wednesday
+4081,Coat,147,8/17/2023,3.2,Credit Card,2023,8,Aug,17,Thursday
+3985,Loafers,67,12/2/2022,2.5,Cash,2022,12,Dec,2,Friday
+4102,Sneakers,191,5/23/2023,1.7,Cash,2023,5,May,23,Tuesday
+4098,Blouse,24,8/23/2023,3.7,Credit Card,2023,8,Aug,23,Wednesday
+4095,Cardigan,116,12/30/2022,4,Cash,2022,12,Dec,30,Friday
+4103,Dress,44,5/5/2023,1.6,Cash,2023,5,May,5,Friday
+4077,Sunglasses,75,1/9/2023,4.1,Credit Card,2023,1,Jan,9,Monday
+4078,Sweater,175,9/11/2023,2.6,Credit Card,2023,9,Sep,11,Monday
+3997,Socks,104,2/22/2023,4.7,Credit Card,2023,2,Feb,22,Wednesday
+3971,Vest,58,1/21/2023,3.9,Cash,2023,1,Jan,21,Saturday
+4024,Umbrella,164,8/2/2023,1.3,Cash,2023,8,Aug,2,Wednesday
+4053,Jacket,195,8/31/2023,2.3,Cash,2023,8,Aug,31,Thursday
+4114,Coat,65,1/4/2023,1.8,Cash,2023,1,Jan,4,Wednesday
+4047,Bowtie,95,8/26/2023,1.9,Cash,2023,8,Aug,26,Saturday
+4029,Tunic,13,2/8/2023,2.5,Credit Card,2023,2,Feb,8,Wednesday
+4039,Trench Coat,58,3/22/2023,3.3,Cash,2023,3,Mar,22,Wednesday
+3972,Pajamas,40,6/26/2023,2.9,Cash,2023,6,Jun,26,Monday
+3964,Sun Hat,132,9/15/2023,2.2,Credit Card,2023,9,Sep,15,Friday
+4108,Jumpsuit,188,6/7/2023,3.2,Credit Card,2023,6,Jun,7,Wednesday
+3968,Pajamas,62,10/5/2022,1.6,Cash,2022,10,Oct,5,Wednesday
+3989,Vest,71,11/12/2022,3.1,Credit Card,2022,11,Nov,12,Saturday
+4050,Loafers,82,1/1/2023,1.6,Cash,2023,1,Jan,1,Sunday
+4046,Sneakers,146,10/7/2022,2.9,Credit Card,2022,10,Oct,7,Friday
+4106,Scarf,88,3/2/2023,3.8,Cash,2023,3,Mar,2,Thursday
+3963,Hat,141,9/5/2023,4.9,Credit Card,2023,9,Sep,5,Tuesday
+4117,T-shirt,129,9/3/2023,1.6,Credit Card,2023,9,Sep,3,Sunday
+4054,Sunglasses,130,3/3/2023,2.5,Cash,2023,3,Mar,3,Friday
+3981,Scarf,91,12/24/2022,1.7,Credit Card,2022,12,Dec,24,Saturday
+4045,Tank Top,21,4/11/2023,4.3,Cash,2023,4,Apr,11,Tuesday
+4048,T-shirt,66,1/20/2023,3.3,Cash,2023,1,Jan,20,Friday
+4062,Trench Coat,14,4/28/2023,4.6,Credit Card,2023,4,Apr,28,Friday
+4046,Overalls,159,8/3/2023,4.8,Credit Card,2023,8,Aug,3,Thursday
+3971,Trench Coat,116,10/11/2022,4.5,Credit Card,2022,10,Oct,11,Tuesday
+4019,Romper,60,7/28/2023,4.5,Cash,2023,7,Jul,28,Friday
+4017,Flannel Shirt,72,12/20/2022,2.2,Credit Card,2022,12,Dec,20,Tuesday
+4122,Sandals,177,1/24/2023,1.6,Cash,2023,1,Jan,24,Tuesday
+4036,Blazer,96,5/24/2023,4.2,Cash,2023,5,May,24,Wednesday
+4108,Gloves,135,4/6/2023,4.8,Credit Card,2023,4,Apr,6,Thursday
+3978,Cardigan,174,2/6/2023,3.8,Credit Card,2023,2,Feb,6,Monday
+3973,Romper,127,10/6/2022,1.3,Cash,2022,10,Oct,6,Thursday
+4000,Coat,57,7/20/2023,4.4,Cash,2023,7,Jul,20,Thursday
+3962,Gloves,148,5/21/2023,2.1,Cash,2023,5,May,21,Sunday
+4094,Dress,25,4/27/2023,4.7,Cash,2023,4,Apr,27,Thursday
+4040,Polo Shirt,29,9/27/2023,4.6,Cash,2023,9,Sep,27,Wednesday
+4088,Pants,27,8/30/2023,4,Cash,2023,8,Aug,30,Wednesday
+4064,Sneakers,12,5/19/2023,1.3,Credit Card,2023,5,May,19,Friday
+4025,Blouse,126,10/2/2022,1.5,Cash,2022,10,Oct,2,Sunday
+3962,Sneakers,168,12/8/2022,3.5,Cash,2022,12,Dec,8,Thursday
+4077,Sweater,167,3/1/2023,1.1,Credit Card,2023,3,Mar,1,Wednesday
+4107,Backpack,178,2/3/2023,4.6,Cash,2023,2,Feb,3,Friday
+3962,Boots,11,4/12/2023,1.1,Credit Card,2023,4,Apr,12,Wednesday
+4038,Scarf,115,3/13/2023,3.8,Cash,2023,3,Mar,13,Monday
+4103,Shorts,80,9/20/2023,4.1,Credit Card,2023,9,Sep,20,Wednesday
+4056,T-shirt,83,3/8/2023,2.4,Cash,2023,3,Mar,8,Wednesday
+4103,Raincoat,182,3/31/2023,3,Cash,2023,3,Mar,31,Friday
+3982,Handbag,55,4/1/2023,4.7,Cash,2023,4,Apr,1,Saturday
+4084,Romper,100,6/15/2023,1.3,Credit Card,2023,6,Jun,15,Thursday
+4085,Sun Hat,111,11/11/2022,1.6,Credit Card,2022,11,Nov,11,Friday
+3999,Camisole,127,7/1/2023,1,Credit Card,2023,7,Jul,1,Saturday
+4033,Tie,185,4/8/2023,4.5,Cash,2023,4,Apr,8,Saturday
+4050,Flip-Flops,30,2/21/2023,1.6,Cash,2023,2,Feb,21,Tuesday
+4068,Cardigan,176,9/14/2023,4.5,Credit Card,2023,9,Sep,14,Thursday
+4008,Leggings,33,10/10/2022,4.5,Cash,2022,10,Oct,10,Monday
+4084,Sweater,106,2/3/2023,1.4,Credit Card,2023,2,Feb,3,Friday
+4119,Handbag,24,4/24/2023,3.8,Cash,2023,4,Apr,24,Monday
+3976,T-shirt,189,9/26/2023,4,Credit Card,2023,9,Sep,26,Tuesday
+4030,Camisole,94,7/8/2023,1,Credit Card,2023,7,Jul,8,Saturday
+4024,Sneakers,34,12/16/2022,1.9,Credit Card,2022,12,Dec,16,Friday
+4103,Jeans,131,7/20/2023,3.1,Credit Card,2023,7,Jul,20,Thursday
+4059,Polo Shirt,29,5/21/2023,1.8,Credit Card,2023,5,May,21,Sunday
+4014,Wallet,81,6/14/2023,3.4,Credit Card,2023,6,Jun,14,Wednesday
+4116,Jumpsuit,154,2/6/2023,2.2,Cash,2023,2,Feb,6,Monday
+3980,Jumpsuit,55,6/24/2023,4.5,Credit Card,2023,6,Jun,24,Saturday
+4108,Camisole,46,10/1/2023,1.8,Cash,2023,10,Oct,1,Sunday
+4043,Poncho,192,4/24/2023,3.2,Cash,2023,4,Apr,24,Monday
+4026,Tank Top,29,4/30/2023,3.8,Credit Card,2023,4,Apr,30,Sunday
+3974,Pajamas,154,12/18/2022,1.3,Cash,2022,12,Dec,18,Sunday
+4102,Backpack,109,1/11/2023,2.3,Cash,2023,1,Jan,11,Wednesday
+4092,Sandals,148,12/6/2022,1.6,Cash,2022,12,Dec,6,Tuesday
+4078,Handbag,199,1/28/2023,3.4,Cash,2023,1,Jan,28,Saturday
+4010,Loafers,195,10/21/2022,2.7,Credit Card,2022,10,Oct,21,Friday
+3976,Scarf,98,4/26/2023,3.6,Credit Card,2023,4,Apr,26,Wednesday
+4086,Gloves,29,8/7/2023,1.3,Credit Card,2023,8,Aug,7,Monday
+4067,Sneakers,111,6/29/2023,3.9,Cash,2023,6,Jun,29,Thursday
+4095,Scarf,93,4/28/2023,4.3,Cash,2023,4,Apr,28,Friday
+4008,Handbag,125,7/28/2023,3.9,Cash,2023,7,Jul,28,Friday
+4059,Vest,106,12/7/2022,1.4,Credit Card,2022,12,Dec,7,Wednesday
+4021,Pants,184,4/10/2023,4.7,Credit Card,2023,4,Apr,10,Monday
+4116,Bowtie,107,7/26/2023,3.7,Credit Card,2023,7,Jul,26,Wednesday
+4073,Camisole,73,7/19/2023,4.4,Credit Card,2023,7,Jul,19,Wednesday
+4097,Camisole,31,6/7/2023,4,Credit Card,2023,6,Jun,7,Wednesday
+4003,Belt,107,9/8/2023,3,Cash,2023,9,Sep,8,Friday
+3961,Swimsuit,172,12/30/2022,2.3,Credit Card,2022,12,Dec,30,Friday
+4089,Onesie,102,10/27/2022,1.2,Credit Card,2022,10,Oct,27,Thursday
+4084,Hat,102,8/7/2023,4.9,Cash,2023,8,Aug,7,Monday
+4011,Overalls,36,6/27/2023,4.6,Cash,2023,6,Jun,27,Tuesday
+4093,Sunglasses,36,4/30/2023,2.3,Cash,2023,4,Apr,30,Sunday
+4068,Camisole,33,8/15/2023,1.1,Cash,2023,8,Aug,15,Tuesday
+4101,Hat,93,12/6/2022,3.6,Credit Card,2022,12,Dec,6,Tuesday
+4117,Backpack,13,10/7/2022,3.4,Cash,2022,10,Oct,7,Friday
+3972,Cardigan,109,4/16/2023,1.4,Credit Card,2023,4,Apr,16,Sunday
+4090,Jeans,195,5/3/2023,1.6,Credit Card,2023,5,May,3,Wednesday
+4008,Blazer,72,4/23/2023,1.1,Credit Card,2023,4,Apr,23,Sunday
+4050,Coat,53,11/8/2022,2.2,Cash,2022,11,Nov,8,Tuesday
+4075,Hat,53,5/22/2023,3.2,Cash,2023,5,May,22,Monday
+4018,Umbrella,136,7/27/2023,2.7,Credit Card,2023,7,Jul,27,Thursday
+4068,Jacket,86,1/6/2023,1.3,Cash,2023,1,Jan,6,Friday
+4062,Pants,29,3/27/2023,2.9,Cash,2023,3,Mar,27,Monday
+4038,Jacket,73,4/13/2023,1.9,Credit Card,2023,4,Apr,13,Thursday
+3973,Belt,136,8/10/2023,4.2,Credit Card,2023,8,Aug,10,Thursday
+4119,Boots,60,7/31/2023,1.1,Credit Card,2023,7,Jul,31,Monday
+4009,Overalls,44,8/5/2023,1.6,Credit Card,2023,8,Aug,5,Saturday
+4062,Backpack,111,9/3/2023,3.7,Cash,2023,9,Sep,3,Sunday
+4025,Vest,168,12/20/2022,1.5,Credit Card,2022,12,Dec,20,Tuesday
+4030,Skirt,94,7/30/2023,2.1,Credit Card,2023,7,Jul,30,Sunday
+4122,Camisole,120,8/6/2023,4.2,Cash,2023,8,Aug,6,Sunday
+3998,Flannel Shirt,176,7/9/2023,2.5,Credit Card,2023,7,Jul,9,Sunday
+4022,Blouse,44,2/5/2023,1.3,Credit Card,2023,2,Feb,5,Sunday
+4110,Camisole,164,1/20/2023,2.7,Cash,2023,1,Jan,20,Friday
+4017,Tunic,61,3/15/2023,2.3,Credit Card,2023,3,Mar,15,Wednesday
+4060,T-shirt,55,7/12/2023,4.5,Credit Card,2023,7,Jul,12,Wednesday
+4018,Loafers,91,6/3/2023,4.7,Credit Card,2023,6,Jun,3,Saturday
+3986,Skirt,187,4/24/2023,4.1,Credit Card,2023,4,Apr,24,Monday
+3995,Pajamas,157,7/13/2023,3.3,Credit Card,2023,7,Jul,13,Thursday
+4006,Pajamas,93,6/22/2023,1.8,Cash,2023,6,Jun,22,Thursday
+3964,Jeans,110,5/27/2023,2.3,Cash,2023,5,May,27,Saturday
+4019,Shorts,154,9/30/2023,4.9,Cash,2023,9,Sep,30,Saturday
+4075,Tunic,56,5/20/2023,4.3,Cash,2023,5,May,20,Saturday
+4081,Backpack,150,8/10/2023,2.9,Cash,2023,8,Aug,10,Thursday
+4068,Blouse,191,4/10/2023,1.4,Credit Card,2023,4,Apr,10,Monday
+4065,Boots,84,5/12/2023,3.5,Credit Card,2023,5,May,12,Friday
+3966,Hoodie,114,3/5/2023,3.4,Credit Card,2023,3,Mar,5,Sunday
+4008,Sneakers,45,12/3/2022,4.8,Cash,2022,12,Dec,3,Saturday
+3997,Pants,71,2/5/2023,2.8,Cash,2023,2,Feb,5,Sunday
+4026,Handbag,49,2/9/2023,4.2,Cash,2023,2,Feb,9,Thursday
+3991,Loafers,106,6/27/2023,1.6,Credit Card,2023,6,Jun,27,Tuesday
+4023,T-shirt,132,10/27/2022,3.5,Cash,2022,10,Oct,27,Thursday
+4028,Skirt,146,6/26/2023,4.3,Credit Card,2023,6,Jun,26,Monday
+4097,Polo Shirt,187,2/7/2023,1.6,Cash,2023,2,Feb,7,Tuesday
+4002,Poncho,19,8/9/2023,2.3,Cash,2023,8,Aug,9,Wednesday
+4121,Trousers,102,2/5/2023,3.4,Credit Card,2023,2,Feb,5,Sunday
+3967,Romper,147,11/19/2022,4.3,Credit Card,2022,11,Nov,19,Saturday
+4081,Hoodie,31,3/18/2023,4.8,Credit Card,2023,3,Mar,18,Saturday
+3971,Blouse,180,8/6/2023,3.9,Cash,2023,8,Aug,6,Sunday
+3978,Onesie,175,6/29/2023,4.2,Cash,2023,6,Jun,29,Thursday
+4037,Tunic,154,1/7/2023,4.2,Credit Card,2023,1,Jan,7,Saturday
+4111,Sunglasses,183,8/4/2023,4.3,Cash,2023,8,Aug,4,Friday
+3973,Coat,120,12/20/2022,1.6,Credit Card,2022,12,Dec,20,Tuesday
+4058,Pants,186,10/17/2022,4.6,Cash,2022,10,Oct,17,Monday
+3992,Boots,124,10/4/2022,3.5,Credit Card,2022,10,Oct,4,Tuesday
+4017,Sweater,128,11/5/2022,3.4,Credit Card,2022,11,Nov,5,Saturday
+3985,Polo Shirt,160,2/27/2023,1.4,Credit Card,2023,2,Feb,27,Monday
+4103,Tank Top,48,3/3/2023,2.1,Cash,2023,3,Mar,3,Friday
+4085,Sneakers,16,10/27/2022,2.8,Credit Card,2022,10,Oct,27,Thursday
+3987,Handbag,85,9/1/2023,1.5,Credit Card,2023,9,Sep,1,Friday
+4090,Polo Shirt,31,9/4/2023,1.5,Credit Card,2023,9,Sep,4,Monday
+4091,Jeans,46,5/28/2023,2.3,Cash,2023,5,May,28,Sunday
+4021,Dress,97,4/24/2023,3.2,Cash,2023,4,Apr,24,Monday
+4084,Skirt,62,12/16/2022,3.6,Cash,2022,12,Dec,16,Friday
+3980,Polo Shirt,99,8/13/2023,2.3,Credit Card,2023,8,Aug,13,Sunday
+4017,Cardigan,122,11/5/2022,1.1,Cash,2022,11,Nov,5,Saturday
+4110,Skirt,125,3/7/2023,3.3,Cash,2023,3,Mar,7,Tuesday
+3988,Trench Coat,86,8/31/2023,4.5,Credit Card,2023,8,Aug,31,Thursday
+4041,Pants,15,1/26/2023,1.5,Credit Card,2023,1,Jan,26,Thursday
+4017,Jeans,199,7/17/2023,3.1,Credit Card,2023,7,Jul,17,Monday
+4065,Gloves,54,11/7/2022,1.9,Credit Card,2022,11,Nov,7,Monday
+4012,Belt,94,1/21/2023,4.9,Credit Card,2023,1,Jan,21,Saturday
+3993,Pajamas,128,3/4/2023,2.7,Credit Card,2023,3,Mar,4,Saturday
+3984,Pants,113,12/1/2022,3,Credit Card,2022,12,Dec,1,Thursday
+4001,Raincoat,57,10/10/2022,3.1,Cash,2022,10,Oct,10,Monday
+4011,Backpack,120,1/14/2023,2.6,Cash,2023,1,Jan,14,Saturday
+4027,Cardigan,198,6/23/2023,4.3,Credit Card,2023,6,Jun,23,Friday
+4069,Gloves,60,7/23/2023,2.8,Credit Card,2023,7,Jul,23,Sunday
+4061,Umbrella,119,6/12/2023,4.6,Credit Card,2023,6,Jun,12,Monday
+4022,Pajamas,190,3/15/2023,2,Credit Card,2023,3,Mar,15,Wednesday
+4107,Umbrella,81,12/18/2022,3.2,Credit Card,2022,12,Dec,18,Sunday
+4082,Shorts,147,7/7/2023,1.9,Credit Card,2023,7,Jul,7,Friday
+4052,Coat,127,12/8/2022,1.9,Cash,2022,12,Dec,8,Thursday
+4038,Gloves,135,7/31/2023,2.3,Cash,2023,7,Jul,31,Monday
+4096,Skirt,173,8/11/2023,3.7,Cash,2023,8,Aug,11,Friday
+4078,Raincoat,160,5/12/2023,3,Credit Card,2023,5,May,12,Friday
+4028,Flip-Flops,127,3/18/2023,1.2,Cash,2023,3,Mar,18,Saturday
+3994,Trousers,182,9/10/2023,1.8,Cash,2023,9,Sep,10,Sunday
+4049,Shorts,86,4/16/2023,1,Credit Card,2023,4,Apr,16,Sunday
+4078,Swimsuit,161,3/3/2023,3.3,Cash,2023,3,Mar,3,Friday
+4122,Pants,56,12/10/2022,2.1,Cash,2022,12,Dec,10,Saturday
+4112,Hat,46,3/2/2023,3,Cash,2023,3,Mar,2,Thursday
+3965,Belt,117,10/7/2022,1.8,Credit Card,2022,10,Oct,7,Friday
+3970,Flannel Shirt,157,3/19/2023,2.3,Credit Card,2023,3,Mar,19,Sunday
+4018,Trousers,57,8/15/2023,2,Credit Card,2023,8,Aug,15,Tuesday
+4021,Loafers,147,9/30/2023,2.1,Cash,2023,9,Sep,30,Saturday
+4055,Umbrella,54,12/18/2022,3.6,Credit Card,2022,12,Dec,18,Sunday
+4036,Belt,135,10/30/2022,2.6,Credit Card,2022,10,Oct,30,Sunday
+4120,Pants,57,6/24/2023,1.2,Credit Card,2023,6,Jun,24,Saturday
+4049,Wallet,125,1/3/2023,4,Credit Card,2023,1,Jan,3,Tuesday
+3988,Umbrella,101,1/29/2023,1.8,Credit Card,2023,1,Jan,29,Sunday
+4093,Blazer,134,3/23/2023,4,Cash,2023,3,Mar,23,Thursday
+4070,Cardigan,153,10/17/2022,4.3,Credit Card,2022,10,Oct,17,Monday
+4056,Raincoat,136,7/20/2023,1.2,Credit Card,2023,7,Jul,20,Thursday
+3959,Skirt,135,6/7/2023,3.3,Credit Card,2023,6,Jun,7,Wednesday
+4057,Sneakers,123,5/8/2023,2,Credit Card,2023,5,May,8,Monday
+4022,Kimono,31,5/9/2023,2.2,Cash,2023,5,May,9,Tuesday
+4034,Wallet,66,8/9/2023,1.7,Credit Card,2023,8,Aug,9,Wednesday
+3980,Swimsuit,80,11/23/2022,3,Credit Card,2022,11,Nov,23,Wednesday
+4017,Sandals,83,8/16/2023,3.9,Credit Card,2023,8,Aug,16,Wednesday
+4010,Jacket,200,7/15/2023,4.7,Cash,2023,7,Jul,15,Saturday
+3998,T-shirt,136,8/15/2023,3.4,Credit Card,2023,8,Aug,15,Tuesday
+4069,Pants,38,4/25/2023,3.7,Credit Card,2023,4,Apr,25,Tuesday
+4118,Jumpsuit,78,12/5/2022,1.3,Credit Card,2022,12,Dec,5,Monday
+4038,Backpack,103,7/20/2023,1,Cash,2023,7,Jul,20,Thursday
+3977,Bowtie,73,4/25/2023,3.9,Credit Card,2023,4,Apr,25,Tuesday
+4082,Camisole,18,7/2/2023,1.4,Cash,2023,7,Jul,2,Sunday
+4077,Onesie,99,12/8/2022,3.6,Credit Card,2022,12,Dec,8,Thursday
+4062,Jacket,32,10/4/2022,4,Cash,2022,10,Oct,4,Tuesday
+4042,Shorts,40,11/14/2022,2.1,Cash,2022,11,Nov,14,Monday
+4065,Sunglasses,70,6/1/2023,2.2,Cash,2023,6,Jun,1,Thursday
+3998,Camisole,99,4/6/2023,1.6,Credit Card,2023,4,Apr,6,Thursday
+4023,Sneakers,166,2/4/2023,4.7,Cash,2023,2,Feb,4,Saturday
+4086,Pants,52,8/19/2023,4.7,Cash,2023,8,Aug,19,Saturday
+3973,Hoodie,62,10/3/2022,3.5,Cash,2022,10,Oct,3,Monday
+4047,Leggings,25,5/19/2023,4.2,Cash,2023,5,May,19,Friday
+4064,Blouse,146,8/13/2023,4.7,Cash,2023,8,Aug,13,Sunday
+4111,Hat,147,4/29/2023,1.5,Credit Card,2023,4,Apr,29,Saturday
+4040,Pajamas,84,11/22/2022,3.8,Cash,2022,11,Nov,22,Tuesday
+4073,Raincoat,78,6/28/2023,1.1,Credit Card,2023,6,Jun,28,Wednesday
+3964,Leggings,141,5/10/2023,1.3,Cash,2023,5,May,10,Wednesday
+3970,Kimono,183,7/21/2023,1.9,Cash,2023,7,Jul,21,Friday
+4121,Belt,44,3/21/2023,2.5,Credit Card,2023,3,Mar,21,Tuesday
+4004,Tank Top,80,12/19/2022,2.9,Credit Card,2022,12,Dec,19,Monday
+4118,Tie,42,8/31/2023,1.1,Cash,2023,8,Aug,31,Thursday
+4070,Loafers,43,8/26/2023,3.6,Credit Card,2023,8,Aug,26,Saturday
+4121,Handbag,192,2/27/2023,4.5,Cash,2023,2,Feb,27,Monday
+3991,Trousers,73,10/5/2022,3.9,Credit Card,2022,10,Oct,5,Wednesday
+3957,Blouse,183,3/9/2023,2.1,Credit Card,2023,3,Mar,9,Thursday
+4059,Backpack,46,2/5/2023,4.9,Credit Card,2023,2,Feb,5,Sunday
+4008,Boots,78,3/8/2023,3.8,Cash,2023,3,Mar,8,Wednesday
+4117,Pajamas,106,6/10/2023,5,Credit Card,2023,6,Jun,10,Saturday
+4037,Sun Hat,33,12/2/2022,4.4,Cash,2022,12,Dec,2,Friday
+4104,Kimono,81,9/30/2023,3.8,Cash,2023,9,Sep,30,Saturday
+3978,Polo Shirt,104,12/24/2022,3.9,Cash,2022,12,Dec,24,Saturday
+3985,Polo Shirt,134,3/13/2023,2.1,Cash,2023,3,Mar,13,Monday
+4020,Polo Shirt,197,11/8/2022,4.3,Credit Card,2022,11,Nov,8,Tuesday
+3990,Gloves,172,1/9/2023,3.9,Credit Card,2023,1,Jan,9,Monday
+4109,Pajamas,101,6/5/2023,2.3,Credit Card,2023,6,Jun,5,Monday
+4062,Hoodie,146,9/5/2023,2.6,Cash,2023,9,Sep,5,Tuesday
+4038,Slippers,119,8/14/2023,2.5,Credit Card,2023,8,Aug,14,Monday
+4072,Romper,136,3/12/2023,4.1,Credit Card,2023,3,Mar,12,Sunday
+4079,Tie,82,4/27/2023,3.7,Credit Card,2023,4,Apr,27,Thursday
+3991,Flannel Shirt,157,11/20/2022,3.7,Credit Card,2022,11,Nov,20,Sunday
+4108,Tank Top,22,6/13/2023,1.6,Credit Card,2023,6,Jun,13,Tuesday
+4029,Gloves,127,6/12/2023,3.2,Cash,2023,6,Jun,12,Monday
+3978,Hoodie,50,8/26/2023,4.7,Credit Card,2023,8,Aug,26,Saturday
+4063,Boots,10,12/27/2022,1.6,Cash,2022,12,Dec,27,Tuesday
+4051,Swimsuit,119,11/8/2022,3.5,Cash,2022,11,Nov,8,Tuesday
+4003,T-shirt,186,6/13/2023,4.4,Credit Card,2023,6,Jun,13,Tuesday
+4057,Scarf,176,3/30/2023,4.9,Credit Card,2023,3,Mar,30,Thursday
+4053,Jeans,80,11/2/2022,4.3,Cash,2022,11,Nov,2,Wednesday
+4014,Sun Hat,31,5/4/2023,5,Cash,2023,5,May,4,Thursday
+3962,Onesie,176,11/15/2022,3.1,Cash,2022,11,Nov,15,Tuesday
+4099,Shorts,88,9/6/2023,4.8,Credit Card,2023,9,Sep,6,Wednesday
+4122,Sweater,69,1/1/2023,3.7,Credit Card,2023,1,Jan,1,Sunday
+4113,Raincoat,33,10/25/2022,3,Cash,2022,10,Oct,25,Tuesday
+4117,Swimsuit,10,12/16/2022,4.3,Credit Card,2022,12,Dec,16,Friday
+4015,Jumpsuit,29,9/22/2023,4.7,Cash,2023,9,Sep,22,Friday
+4075,Cardigan,184,8/16/2023,2.4,Credit Card,2023,8,Aug,16,Wednesday
+4007,Overalls,12,7/27/2023,4,Cash,2023,7,Jul,27,Thursday
+4024,Pants,40,8/3/2023,3.6,Credit Card,2023,8,Aug,3,Thursday
+4000,Sun Hat,118,11/7/2022,4.3,Cash,2022,11,Nov,7,Monday
+3969,Tie,132,7/31/2023,1.8,Credit Card,2023,7,Jul,31,Monday
+4115,Scarf,197,6/23/2023,3,Credit Card,2023,6,Jun,23,Friday
+4066,Gloves,36,6/6/2023,1.6,Credit Card,2023,6,Jun,6,Tuesday
+3995,Blouse,44,5/25/2023,4.3,Cash,2023,5,May,25,Thursday
+3979,Shorts,183,10/22/2022,1.4,Credit Card,2022,10,Oct,22,Saturday
+4102,Pants,52,1/4/2023,1.7,Credit Card,2023,1,Jan,4,Wednesday
+3987,Pajamas,194,3/1/2023,1.3,Credit Card,2023,3,Mar,1,Wednesday
+3960,Camisole,48,3/9/2023,4.8,Credit Card,2023,3,Mar,9,Thursday
+4091,Jeans,167,2/19/2023,2.4,Cash,2023,2,Feb,19,Sunday
+4068,Tank Top,65,5/19/2023,3.8,Cash,2023,5,May,19,Friday
+3987,Sweater,160,8/9/2023,2.9,Credit Card,2023,8,Aug,9,Wednesday
+4014,Tank Top,99,10/2/2022,1.2,Cash,2022,10,Oct,2,Sunday
+4009,Skirt,90,2/17/2023,1.1,Credit Card,2023,2,Feb,17,Friday
+4005,Wallet,73,6/11/2023,1.1,Cash,2023,6,Jun,11,Sunday
+4025,Slippers,31,5/10/2023,4.4,Cash,2023,5,May,10,Wednesday
+4030,Jacket,163,10/15/2022,3.2,Cash,2022,10,Oct,15,Saturday
+4054,Loafers,186,7/2/2023,3.5,Credit Card,2023,7,Jul,2,Sunday
+4067,Jeans,87,12/6/2022,1.1,Credit Card,2022,12,Dec,6,Tuesday
+4110,Swimsuit,110,3/12/2023,4.6,Credit Card,2023,3,Mar,12,Sunday
+4012,Pants,23,11/4/2022,3.2,Cash,2022,11,Nov,4,Friday
+4005,Boots,38,9/21/2023,3.9,Cash,2023,9,Sep,21,Thursday
+4064,Jacket,173,5/30/2023,2.8,Cash,2023,5,May,30,Tuesday
+4003,T-shirt,145,5/1/2023,2,Credit Card,2023,5,May,1,Monday
+4061,Sunglasses,13,3/15/2023,1.1,Cash,2023,3,Mar,15,Wednesday
+3994,Tie,91,11/10/2022,4.1,Cash,2022,11,Nov,10,Thursday
+4031,Tunic,155,11/7/2022,1,Credit Card,2022,11,Nov,7,Monday
+4024,Hat,149,5/31/2023,4.5,Cash,2023,5,May,31,Wednesday
+4017,Onesie,130,8/20/2023,4.7,Cash,2023,8,Aug,20,Sunday
+4115,Poncho,28,10/19/2022,3,Credit Card,2022,10,Oct,19,Wednesday
+4051,Flannel Shirt,20,4/2/2023,1.2,Cash,2023,4,Apr,2,Sunday
+4106,Tank Top,111,11/16/2022,3.8,Cash,2022,11,Nov,16,Wednesday
+4122,Blazer,170,6/6/2023,4.6,Cash,2023,6,Jun,6,Tuesday
+4074,Onesie,116,9/22/2023,1.7,Credit Card,2023,9,Sep,22,Friday
+3978,Tie,112,2/1/2023,2.3,Cash,2023,2,Feb,1,Wednesday
+4077,Trousers,167,12/26/2022,1.8,Cash,2022,12,Dec,26,Monday
+4055,Cardigan,110,2/16/2023,2.4,Cash,2023,2,Feb,16,Thursday
+4065,Shorts,176,3/31/2023,4.4,Credit Card,2023,3,Mar,31,Friday
+4109,Pants,26,4/16/2023,2.8,Credit Card,2023,4,Apr,16,Sunday
+4022,Sweater,121,1/8/2023,4.6,Cash,2023,1,Jan,8,Sunday
+3975,Backpack,71,2/9/2023,1.6,Cash,2023,2,Feb,9,Thursday
+3972,Tunic,126,11/8/2022,3.8,Credit Card,2022,11,Nov,8,Tuesday
+4042,Trench Coat,199,4/1/2023,3.8,Cash,2023,4,Apr,1,Saturday
+4017,Coat,54,6/19/2023,1.4,Cash,2023,6,Jun,19,Monday
+4047,Vest,189,3/27/2023,2.7,Credit Card,2023,3,Mar,27,Monday
+4110,Umbrella,98,7/7/2023,4.8,Cash,2023,7,Jul,7,Friday
+3968,Overalls,194,11/11/2022,2.6,Credit Card,2022,11,Nov,11,Friday
+3958,Sun Hat,105,11/19/2022,4.6,Credit Card,2022,11,Nov,19,Saturday
+4086,Sandals,78,5/21/2023,3.3,Credit Card,2023,5,May,21,Sunday
+4115,Sunglasses,40,2/12/2023,2.8,Cash,2023,2,Feb,12,Sunday
+4054,Trench Coat,17,2/17/2023,2.5,Cash,2023,2,Feb,17,Friday
+4034,Blazer,119,8/15/2023,1.3,Credit Card,2023,8,Aug,15,Tuesday
+4058,Romper,26,4/20/2023,1.7,Credit Card,2023,4,Apr,20,Thursday
+4051,Gloves,157,9/9/2023,3.2,Credit Card,2023,9,Sep,9,Saturday
+3990,Belt,137,4/7/2023,1.6,Credit Card,2023,4,Apr,7,Friday
+4100,Coat,102,2/6/2023,3.8,Cash,2023,2,Feb,6,Monday
+4002,Flannel Shirt,75,11/30/2022,1.5,Cash,2022,11,Nov,30,Wednesday
+4023,Pajamas,156,4/23/2023,3.3,Credit Card,2023,4,Apr,23,Sunday
+4085,Poncho,140,8/29/2023,1.5,Cash,2023,8,Aug,29,Tuesday
+4043,Vest,13,6/1/2023,1.8,Credit Card,2023,6,Jun,1,Thursday
+4076,Flip-Flops,130,10/3/2022,2.9,Credit Card,2022,10,Oct,3,Monday
+4038,Vest,19,10/7/2022,4.2,Cash,2022,10,Oct,7,Friday
+4092,Hat,192,7/29/2023,1.5,Cash,2023,7,Jul,29,Saturday
+4067,Poncho,117,2/4/2023,4.4,Credit Card,2023,2,Feb,4,Saturday
+4023,Loafers,194,3/10/2023,4.9,Credit Card,2023,3,Mar,10,Friday
+3986,Jacket,29,3/14/2023,2,Cash,2023,3,Mar,14,Tuesday
+4037,Tank Top,40,3/10/2023,4.4,Credit Card,2023,3,Mar,10,Friday
+3968,Overalls,23,12/1/2022,1.9,Cash,2022,12,Dec,1,Thursday
+4084,Leggings,21,2/20/2023,4.5,Cash,2023,2,Feb,20,Monday
+4028,Backpack,27,10/11/2022,1.1,Credit Card,2022,10,Oct,11,Tuesday
+4049,Backpack,82,2/6/2023,4.7,Credit Card,2023,2,Feb,6,Monday
+4067,Vest,89,8/7/2023,3.4,Cash,2023,8,Aug,7,Monday
+4029,Pajamas,151,10/1/2023,4,Cash,2023,10,Oct,1,Sunday
+4024,Coat,104,7/8/2023,3.5,Credit Card,2023,7,Jul,8,Saturday
+4113,Sweater,154,12/17/2022,4.6,Cash,2022,12,Dec,17,Saturday
+4024,Swimsuit,199,1/1/2023,4,Cash,2023,1,Jan,1,Sunday
+4089,Backpack,128,11/12/2022,3.4,Credit Card,2022,11,Nov,12,Saturday
+4037,Belt,136,7/5/2023,4.1,Cash,2023,7,Jul,5,Wednesday
+4068,Socks,60,10/14/2022,1.1,Credit Card,2022,10,Oct,14,Friday
+3995,Jacket,16,4/15/2023,2.5,Credit Card,2023,4,Apr,15,Saturday
+4099,Swimsuit,98,4/21/2023,2.9,Credit Card,2023,4,Apr,21,Friday
+4119,Loafers,187,12/23/2022,4.7,Credit Card,2022,12,Dec,23,Friday
+4069,Jumpsuit,95,10/22/2022,3.1,Cash,2022,10,Oct,22,Saturday
+4005,Jeans,198,6/22/2023,3,Credit Card,2023,6,Jun,22,Thursday
+3995,Boots,36,4/10/2023,4.5,Credit Card,2023,4,Apr,10,Monday
+3970,Cardigan,70,7/7/2023,3.8,Credit Card,2023,7,Jul,7,Friday
+4015,Coat,25,7/12/2023,3.4,Credit Card,2023,7,Jul,12,Wednesday
+4003,Polo Shirt,46,4/24/2023,3.3,Credit Card,2023,4,Apr,24,Monday
+3966,Skirt,33,9/17/2023,1.4,Credit Card,2023,9,Sep,17,Sunday
+4023,Scarf,143,8/19/2023,3.5,Credit Card,2023,8,Aug,19,Saturday
+3998,Loafers,105,9/22/2023,2.1,Cash,2023,9,Sep,22,Friday
+4076,T-shirt,31,10/12/2022,2.2,Cash,2022,10,Oct,12,Wednesday
+4068,Tunic,139,9/4/2023,2.3,Credit Card,2023,9,Sep,4,Monday
+4083,Socks,29,7/2/2023,2.4,Credit Card,2023,7,Jul,2,Sunday
+3967,Sun Hat,25,7/5/2023,4.3,Cash,2023,7,Jul,5,Wednesday
+4070,Socks,43,10/8/2022,2.6,Cash,2022,10,Oct,8,Saturday
+4048,Handbag,76,12/18/2022,2.7,Cash,2022,12,Dec,18,Sunday
+4100,Dress,110,4/20/2023,4.1,Cash,2023,4,Apr,20,Thursday
+4081,Boots,198,3/15/2023,1.6,Cash,2023,3,Mar,15,Wednesday
+4074,Sneakers,125,12/21/2022,2.2,Credit Card,2022,12,Dec,21,Wednesday
+4083,Hoodie,29,8/9/2023,2.4,Credit Card,2023,8,Aug,9,Wednesday
+3985,Sunglasses,44,9/24/2023,2.3,Credit Card,2023,9,Sep,24,Sunday
+3994,Sunglasses,159,3/24/2023,3.3,Cash,2023,3,Mar,24,Friday
+3980,Onesie,90,2/23/2023,4.2,Cash,2023,2,Feb,23,Thursday
+4009,Dress,147,9/21/2023,1.7,Cash,2023,9,Sep,21,Thursday
+4029,Sweater,63,5/13/2023,3,Cash,2023,5,May,13,Saturday
+4003,Leggings,128,9/30/2023,2.9,Credit Card,2023,9,Sep,30,Saturday
+4000,Hoodie,40,8/5/2023,3.3,Credit Card,2023,8,Aug,5,Saturday
+4026,T-shirt,87,1/14/2023,2,Cash,2023,1,Jan,14,Saturday
+4101,Raincoat,188,1/31/2023,4.3,Credit Card,2023,1,Jan,31,Tuesday
+4106,Tunic,65,3/26/2023,1,Cash,2023,3,Mar,26,Sunday
+4011,Cardigan,93,5/3/2023,4.7,Cash,2023,5,May,3,Wednesday
+3958,Trench Coat,101,1/12/2023,3.3,Credit Card,2023,1,Jan,12,Thursday
+4091,Socks,22,10/30/2022,3.3,Cash,2022,10,Oct,30,Sunday
+4103,Leggings,76,1/7/2023,1.2,Cash,2023,1,Jan,7,Saturday
+4003,Tunic,54,8/7/2023,4.9,Cash,2023,8,Aug,7,Monday
+3976,Camisole,125,3/4/2023,1.5,Cash,2023,3,Mar,4,Saturday
+4020,Raincoat,150,2/13/2023,2.4,Cash,2023,2,Feb,13,Monday
+4084,Blouse,128,10/12/2022,1.2,Cash,2022,10,Oct,12,Wednesday
+4041,Umbrella,41,6/18/2023,2.1,Cash,2023,6,Jun,18,Sunday
+4029,Trousers,66,5/11/2023,1.8,Credit Card,2023,5,May,11,Thursday
+4052,Trench Coat,175,6/17/2023,3.5,Credit Card,2023,6,Jun,17,Saturday
+3984,Trench Coat,29,7/14/2023,3.5,Cash,2023,7,Jul,14,Friday
+3964,Jeans,123,8/3/2023,3.2,Credit Card,2023,8,Aug,3,Thursday
+3977,Slippers,33,12/27/2022,1.9,Credit Card,2022,12,Dec,27,Tuesday
+4074,Pajamas,94,10/23/2022,4.3,Credit Card,2022,10,Oct,23,Sunday
+4073,Slippers,22,12/1/2022,1.4,Cash,2022,12,Dec,1,Thursday
+4025,Cardigan,195,9/25/2023,2.9,Credit Card,2023,9,Sep,25,Monday
+3958,Pants,119,11/18/2022,1.9,Credit Card,2022,11,Nov,18,Friday
+3968,Overalls,57,9/21/2023,1.9,Credit Card,2023,9,Sep,21,Thursday
+4116,Hoodie,124,8/20/2023,2,Credit Card,2023,8,Aug,20,Sunday
+4072,Handbag,18,2/23/2023,3.3,Cash,2023,2,Feb,23,Thursday
+4040,Hoodie,167,1/23/2023,2.5,Cash,2023,1,Jan,23,Monday
+4102,Romper,85,11/11/2022,1.4,Credit Card,2022,11,Nov,11,Friday
+4011,Scarf,32,1/12/2023,2.8,Cash,2023,1,Jan,12,Thursday
+3969,Umbrella,45,9/15/2023,2.5,Cash,2023,9,Sep,15,Friday
+4121,Backpack,174,12/15/2022,2.5,Credit Card,2022,12,Dec,15,Thursday
+4029,Pants,144,4/19/2023,2.1,Cash,2023,4,Apr,19,Wednesday
+4039,Jumpsuit,149,4/13/2023,3,Cash,2023,4,Apr,13,Thursday
+3971,Romper,107,11/22/2022,3.1,Credit Card,2022,11,Nov,22,Tuesday
+3975,Coat,101,11/20/2022,3,Credit Card,2022,11,Nov,20,Sunday
+4097,Trench Coat,134,3/22/2023,4.4,Credit Card,2023,3,Mar,22,Wednesday
+4111,Flannel Shirt,154,7/4/2023,2.5,Credit Card,2023,7,Jul,4,Tuesday
+4054,Camisole,109,2/20/2023,3.4,Credit Card,2023,2,Feb,20,Monday
+3980,Loafers,16,7/12/2023,2.5,Credit Card,2023,7,Jul,12,Wednesday
+4059,Backpack,66,3/24/2023,1.8,Credit Card,2023,3,Mar,24,Friday
+4002,Jumpsuit,81,10/26/2022,2.2,Cash,2022,10,Oct,26,Wednesday
+4059,Bowtie,145,12/24/2022,1.1,Credit Card,2022,12,Dec,24,Saturday
+3979,Blouse,159,4/24/2023,2,Credit Card,2023,4,Apr,24,Monday
+3962,Trousers,50,2/2/2023,2.8,Credit Card,2023,2,Feb,2,Thursday
+3998,Swimsuit,78,9/3/2023,2.5,Credit Card,2023,9,Sep,3,Sunday
+4056,Flip-Flops,198,12/2/2022,3.9,Cash,2022,12,Dec,2,Friday
+4029,Dress,66,8/2/2023,1.9,Credit Card,2023,8,Aug,2,Wednesday
+4122,Romper,109,9/2/2023,5,Cash,2023,9,Sep,2,Saturday
+3996,Jumpsuit,54,4/26/2023,1.7,Credit Card,2023,4,Apr,26,Wednesday
+4033,Pajamas,198,3/2/2023,4.2,Credit Card,2023,3,Mar,2,Thursday
+4082,Boots,161,5/22/2023,4.9,Credit Card,2023,5,May,22,Monday
+4111,Loafers,154,12/22/2022,1.4,Credit Card,2022,12,Dec,22,Thursday
+3990,Jacket,136,12/16/2022,1.2,Cash,2022,12,Dec,16,Friday
+3981,Sunglasses,33,3/11/2023,2.8,Cash,2023,3,Mar,11,Saturday
+4088,Kimono,15,8/5/2023,4.7,Credit Card,2023,8,Aug,5,Saturday
+4008,Skirt,10,5/30/2023,2.2,Credit Card,2023,5,May,30,Tuesday
+4082,T-shirt,167,9/14/2023,1.9,Cash,2023,9,Sep,14,Thursday
+4078,Blazer,92,6/3/2023,4.1,Credit Card,2023,6,Jun,3,Saturday
+4110,Kimono,46,10/1/2023,4.6,Cash,2023,10,Oct,1,Sunday
+4065,Skirt,144,2/21/2023,4.2,Cash,2023,2,Feb,21,Tuesday
+3980,Overalls,28,3/2/2023,3.9,Cash,2023,3,Mar,2,Thursday
+4051,Coat,35,9/24/2023,4.3,Cash,2023,9,Sep,24,Sunday
+4114,Cardigan,92,10/31/2022,1.5,Cash,2022,10,Oct,31,Monday
+4118,Sneakers,173,9/14/2023,2,Credit Card,2023,9,Sep,14,Thursday
+3980,Swimsuit,191,8/25/2023,4.1,Cash,2023,8,Aug,25,Friday
+3967,Raincoat,187,1/10/2023,1.1,Credit Card,2023,1,Jan,10,Tuesday
+4088,Hoodie,167,11/11/2022,1.2,Credit Card,2022,11,Nov,11,Friday
+4044,Jacket,67,5/17/2023,1.2,Cash,2023,5,May,17,Wednesday
+4075,Hat,54,11/3/2022,1.5,Cash,2022,11,Nov,3,Thursday
+4014,Romper,197,2/27/2023,4.3,Credit Card,2023,2,Feb,27,Monday
+4122,Jumpsuit,42,4/19/2023,2.1,Cash,2023,4,Apr,19,Wednesday
+4091,Onesie,156,7/22/2023,4,Credit Card,2023,7,Jul,22,Saturday
+4091,Bowtie,166,7/24/2023,4.2,Credit Card,2023,7,Jul,24,Monday
+3978,Backpack,154,2/18/2023,2.6,Credit Card,2023,2,Feb,18,Saturday
+4076,Shorts,94,6/7/2023,4.8,Cash,2023,6,Jun,7,Wednesday
+4068,Sunglasses,70,4/18/2023,2.4,Credit Card,2023,4,Apr,18,Tuesday
+3977,Kimono,91,4/28/2023,3.9,Credit Card,2023,4,Apr,28,Friday
+4033,Swimsuit,32,4/28/2023,2.6,Credit Card,2023,4,Apr,28,Friday
+3995,Cardigan,181,1/2/2023,3,Credit Card,2023,1,Jan,2,Monday
+3989,Vest,95,2/6/2023,1.8,Credit Card,2023,2,Feb,6,Monday
+4033,Tie,77,3/18/2023,2.5,Credit Card,2023,3,Mar,18,Saturday
+4020,Flip-Flops,187,9/26/2023,3.4,Credit Card,2023,9,Sep,26,Tuesday
+4066,Blouse,37,4/12/2023,2.3,Credit Card,2023,4,Apr,12,Wednesday
+4032,Bowtie,22,10/3/2022,1.1,Credit Card,2022,10,Oct,3,Monday
+4102,Swimsuit,197,4/6/2023,3.6,Cash,2023,4,Apr,6,Thursday
+3969,Trench Coat,52,1/28/2023,4.5,Credit Card,2023,1,Jan,28,Saturday
+4098,Flip-Flops,136,10/8/2022,4,Cash,2022,10,Oct,8,Saturday
+3976,Leggings,99,12/11/2022,2.2,Credit Card,2022,12,Dec,11,Sunday
+3968,Swimsuit,35,4/16/2023,1.1,Cash,2023,4,Apr,16,Sunday
+4088,Hoodie,157,11/8/2022,2.8,Cash,2022,11,Nov,8,Tuesday
+3984,Umbrella,185,7/2/2023,2.9,Credit Card,2023,7,Jul,2,Sunday
+4087,Tie,125,3/5/2023,4.5,Cash,2023,3,Mar,5,Sunday
+4075,Umbrella,36,6/7/2023,2.2,Credit Card,2023,6,Jun,7,Wednesday
+4047,Backpack,197,10/5/2022,2.7,Cash,2022,10,Oct,5,Wednesday
+4106,Poncho,33,4/18/2023,2.9,Credit Card,2023,4,Apr,18,Tuesday
+3977,Boots,167,6/23/2023,4.5,Credit Card,2023,6,Jun,23,Friday
+4085,Tank Top,190,4/25/2023,2.4,Cash,2023,4,Apr,25,Tuesday
+3986,T-shirt,52,3/20/2023,5,Credit Card,2023,3,Mar,20,Monday
+4075,Pants,121,10/28/2022,3.8,Credit Card,2022,10,Oct,28,Friday
+3968,Coat,151,4/22/2023,4.2,Credit Card,2023,4,Apr,22,Saturday
+3978,Sunglasses,196,4/22/2023,3.5,Cash,2023,4,Apr,22,Saturday
+4063,Vest,179,2/1/2023,1.2,Credit Card,2023,2,Feb,1,Wednesday
+4033,Jacket,70,5/12/2023,1.5,Cash,2023,5,May,12,Friday
+4107,Pajamas,150,4/9/2023,1.1,Credit Card,2023,4,Apr,9,Sunday
+4073,Overalls,49,10/24/2022,3.9,Cash,2022,10,Oct,24,Monday
+4044,Overalls,170,11/15/2022,3.9,Credit Card,2022,11,Nov,15,Tuesday
+4004,Overalls,61,8/29/2023,1.6,Credit Card,2023,8,Aug,29,Tuesday
+4004,Polo Shirt,173,5/9/2023,2.6,Cash,2023,5,May,9,Tuesday
+4111,Skirt,39,10/6/2022,4.8,Cash,2022,10,Oct,6,Thursday
+4023,Hoodie,111,8/17/2023,3.3,Cash,2023,8,Aug,17,Thursday
+3984,Hat,179,7/8/2023,4.3,Credit Card,2023,7,Jul,8,Saturday
+4068,Camisole,174,7/29/2023,3.2,Cash,2023,7,Jul,29,Saturday
+4093,Skirt,57,12/2/2022,4.7,Credit Card,2022,12,Dec,2,Friday
+3986,Socks,77,10/24/2022,1.3,Credit Card,2022,10,Oct,24,Monday
+3960,Vest,78,8/1/2023,4.9,Cash,2023,8,Aug,1,Tuesday
+4000,Trousers,48,12/1/2022,3,Credit Card,2022,12,Dec,1,Thursday
+4060,Trousers,148,1/31/2023,4.9,Credit Card,2023,1,Jan,31,Tuesday
+4111,Loafers,160,8/25/2023,4.8,Cash,2023,8,Aug,25,Friday
+4081,Kimono,25,10/16/2022,3.2,Cash,2022,10,Oct,16,Sunday
+4034,Scarf,143,12/14/2022,4.3,Credit Card,2022,12,Dec,14,Wednesday
+4115,Tank Top,147,4/6/2023,3.7,Cash,2023,4,Apr,6,Thursday
+4114,Poncho,131,12/10/2022,3.7,Cash,2022,12,Dec,10,Saturday
+4049,Onesie,70,10/13/2022,3.4,Credit Card,2022,10,Oct,13,Thursday
+4058,Shorts,30,8/9/2023,4.2,Credit Card,2023,8,Aug,9,Wednesday
+4034,Sneakers,192,2/13/2023,2,Cash,2023,2,Feb,13,Monday
+3989,Dress,142,12/21/2022,4.8,Cash,2022,12,Dec,21,Wednesday
+3991,Polo Shirt,183,9/19/2023,4.9,Credit Card,2023,9,Sep,19,Tuesday
+3960,Pants,47,1/12/2023,1.2,Cash,2023,1,Jan,12,Thursday
+3985,Pants,54,4/9/2023,4.3,Cash,2023,4,Apr,9,Sunday
+3961,Handbag,52,7/20/2023,4.4,Credit Card,2023,7,Jul,20,Thursday
+4005,Scarf,59,5/29/2023,4.8,Cash,2023,5,May,29,Monday
+4080,Dress,170,4/7/2023,2.5,Credit Card,2023,4,Apr,7,Friday
+4018,Jumpsuit,91,11/28/2022,1.3,Cash,2022,11,Nov,28,Monday
+4068,Pajamas,27,7/23/2023,2.9,Cash,2023,7,Jul,23,Sunday
+4094,Swimsuit,151,1/5/2023,4.6,Cash,2023,1,Jan,5,Thursday
+4005,Belt,80,4/20/2023,4.3,Cash,2023,4,Apr,20,Thursday
+3979,Onesie,13,10/23/2022,2.9,Cash,2022,10,Oct,23,Sunday
+4075,Sweater,117,8/17/2023,1.5,Cash,2023,8,Aug,17,Thursday
+4065,Tunic,159,10/24/2022,2.6,Cash,2022,10,Oct,24,Monday
+3962,Umbrella,35,12/9/2022,2.1,Credit Card,2022,12,Dec,9,Friday
+3986,Belt,154,5/27/2023,1.7,Cash,2023,5,May,27,Saturday
+3999,Sneakers,83,3/29/2023,2.3,Cash,2023,3,Mar,29,Wednesday
+3996,Sandals,98,6/11/2023,1.3,Credit Card,2023,6,Jun,11,Sunday
+4081,Hat,134,9/5/2023,1,Cash,2023,9,Sep,5,Tuesday
+4077,Hoodie,131,3/15/2023,3,Cash,2023,3,Mar,15,Wednesday
+4072,Jacket,46,2/18/2023,4.2,Cash,2023,2,Feb,18,Saturday
+4106,Sneakers,184,8/20/2023,5,Credit Card,2023,8,Aug,20,Sunday
+4008,Hoodie,94,12/11/2022,1.5,Cash,2022,12,Dec,11,Sunday
+4032,Blazer,22,10/24/2022,2.5,Credit Card,2022,10,Oct,24,Monday
+4102,Romper,78,3/14/2023,4.3,Cash,2023,3,Mar,14,Tuesday
+4057,Bowtie,15,2/25/2023,3.3,Cash,2023,2,Feb,25,Saturday
+4042,Flannel Shirt,135,8/7/2023,2.3,Credit Card,2023,8,Aug,7,Monday
+4118,Sandals,44,2/25/2023,4.3,Credit Card,2023,2,Feb,25,Saturday
+4067,Hat,200,3/19/2023,1.7,Cash,2023,3,Mar,19,Sunday
+4063,Sweater,92,1/25/2023,5,Credit Card,2023,1,Jan,25,Wednesday
+4083,Hoodie,116,6/22/2023,3.4,Credit Card,2023,6,Jun,22,Thursday
+4105,Belt,32,11/17/2022,3.1,Credit Card,2022,11,Nov,17,Thursday
+4031,Blazer,142,10/10/2022,2,Credit Card,2022,10,Oct,10,Monday
+3966,Coat,24,8/20/2023,3.8,Cash,2023,8,Aug,20,Sunday
+4108,Onesie,155,4/19/2023,4.2,Credit Card,2023,4,Apr,19,Wednesday
+4016,Coat,24,3/30/2023,4.2,Cash,2023,3,Mar,30,Thursday
+3972,Tank Top,126,6/30/2023,4.9,Cash,2023,6,Jun,30,Friday
+3961,Raincoat,60,2/24/2023,1.6,Credit Card,2023,2,Feb,24,Friday
+4065,Tank Top,128,2/23/2023,1.3,Credit Card,2023,2,Feb,23,Thursday
+4104,Sunglasses,172,3/20/2023,1.5,Credit Card,2023,3,Mar,20,Monday
+4037,Pajamas,184,4/23/2023,2.8,Credit Card,2023,4,Apr,23,Sunday
+3973,Sun Hat,162,12/21/2022,3.8,Cash,2022,12,Dec,21,Wednesday
+4025,Loafers,131,12/26/2022,3.9,Cash,2022,12,Dec,26,Monday
+4122,Socks,99,8/3/2023,1.5,Cash,2023,8,Aug,3,Thursday
+4063,Jacket,76,9/18/2023,4.8,Credit Card,2023,9,Sep,18,Monday
+4078,Camisole,186,4/9/2023,3.4,Cash,2023,4,Apr,9,Sunday
+4071,Wallet,62,10/28/2022,2,Credit Card,2022,10,Oct,28,Friday
+4068,Camisole,114,3/12/2023,3,Credit Card,2023,3,Mar,12,Sunday
+3962,Poncho,184,9/25/2023,2.6,Cash,2023,9,Sep,25,Monday
+4030,Camisole,175,4/14/2023,2.3,Credit Card,2023,4,Apr,14,Friday
+4077,T-shirt,67,1/30/2023,4.7,Credit Card,2023,1,Jan,30,Monday
+4045,Pants,88,4/29/2023,3.8,Credit Card,2023,4,Apr,29,Saturday
+4016,Pants,118,5/5/2023,4.8,Cash,2023,5,May,5,Friday
+4086,Kimono,99,12/12/2022,2.9,Cash,2022,12,Dec,12,Monday
+4013,Leggings,65,3/9/2023,1.6,Cash,2023,3,Mar,9,Thursday
+4107,Shorts,183,7/6/2023,2,Credit Card,2023,7,Jul,6,Thursday
+4043,Umbrella,169,5/6/2023,4.8,Cash,2023,5,May,6,Saturday
+4111,Tie,36,10/17/2022,3.9,Credit Card,2022,10,Oct,17,Monday
+3990,Flannel Shirt,105,10/7/2022,3.8,Cash,2022,10,Oct,7,Friday
+4032,Camisole,162,3/2/2023,2.5,Cash,2023,3,Mar,2,Thursday
+4063,Bowtie,133,8/25/2023,4.3,Credit Card,2023,8,Aug,25,Friday
+4077,Handbag,173,5/5/2023,3.6,Credit Card,2023,5,May,5,Friday
+3998,Bowtie,80,4/27/2023,3,Cash,2023,4,Apr,27,Thursday
+4116,Handbag,192,10/10/2022,4.6,Cash,2022,10,Oct,10,Monday
+4010,Slippers,176,12/8/2022,3.4,Cash,2022,12,Dec,8,Thursday
+4029,Skirt,48,1/10/2023,2.7,Cash,2023,1,Jan,10,Tuesday
+3979,Dress,71,3/31/2023,4.2,Credit Card,2023,3,Mar,31,Friday
+4080,Scarf,163,11/3/2022,3.9,Cash,2022,11,Nov,3,Thursday
+3990,Poncho,91,4/7/2023,3.2,Credit Card,2023,4,Apr,7,Friday
+4001,Socks,194,6/17/2023,1.2,Credit Card,2023,6,Jun,17,Saturday
+3997,Tank Top,85,10/15/2022,4.2,Credit Card,2022,10,Oct,15,Saturday
+4112,Polo Shirt,117,11/7/2022,4.5,Cash,2022,11,Nov,7,Monday
+4082,Jumpsuit,198,4/11/2023,4.7,Credit Card,2023,4,Apr,11,Tuesday
+4063,Loafers,156,9/15/2023,3.4,Credit Card,2023,9,Sep,15,Friday
+4083,Pajamas,97,10/4/2022,2.2,Credit Card,2022,10,Oct,4,Tuesday
+4034,Scarf,66,11/5/2022,1.2,Cash,2022,11,Nov,5,Saturday
+4017,Raincoat,173,5/15/2023,4.6,Cash,2023,5,May,15,Monday
+4010,Scarf,181,1/27/2023,2.1,Credit Card,2023,1,Jan,27,Friday
+4099,Socks,86,9/14/2023,1.2,Credit Card,2023,9,Sep,14,Thursday
+3969,Umbrella,178,8/23/2023,2.8,Credit Card,2023,8,Aug,23,Wednesday
+3961,Sunglasses,56,11/17/2022,2.7,Cash,2022,11,Nov,17,Thursday
+4048,T-shirt,130,5/6/2023,4.2,Cash,2023,5,May,6,Saturday
+4048,Swimsuit,153,11/19/2022,2.7,Cash,2022,11,Nov,19,Saturday
+3997,Jeans,56,3/12/2023,4.8,Credit Card,2023,3,Mar,12,Sunday
+4001,Blazer,95,5/6/2023,3.6,Credit Card,2023,5,May,6,Saturday
+4085,Blazer,66,10/29/2022,3.4,Cash,2022,10,Oct,29,Saturday
+3973,Shorts,117,6/28/2023,1.9,Cash,2023,6,Jun,28,Wednesday
+4043,Tank Top,94,5/15/2023,2.2,Cash,2023,5,May,15,Monday
+4067,Kimono,159,7/21/2023,1.9,Cash,2023,7,Jul,21,Friday
+3986,Backpack,40,11/2/2022,3.2,Cash,2022,11,Nov,2,Wednesday
+4115,Overalls,172,4/11/2023,3.2,Cash,2023,4,Apr,11,Tuesday
+4015,Tie,168,12/7/2022,3.7,Credit Card,2022,12,Dec,7,Wednesday
+4100,Raincoat,138,2/9/2023,4.8,Credit Card,2023,2,Feb,9,Thursday
+4081,Polo Shirt,145,11/9/2022,4,Credit Card,2022,11,Nov,9,Wednesday
+4023,Belt,23,1/17/2023,3.6,Credit Card,2023,1,Jan,17,Tuesday
+4044,Flannel Shirt,48,2/4/2023,2.7,Credit Card,2023,2,Feb,4,Saturday
+3968,Trousers,114,3/18/2023,1.4,Cash,2023,3,Mar,18,Saturday
+4099,Shorts,127,3/8/2023,2.2,Cash,2023,3,Mar,8,Wednesday
+4088,Belt,134,2/14/2023,4.5,Cash,2023,2,Feb,14,Tuesday
+4111,Swimsuit,55,10/30/2022,1,Cash,2022,10,Oct,30,Sunday
+3983,Hat,24,9/30/2023,4.1,Credit Card,2023,9,Sep,30,Saturday
+4069,Loafers,53,2/14/2023,1.5,Credit Card,2023,2,Feb,14,Tuesday
+4074,Coat,50,4/7/2023,1.5,Credit Card,2023,4,Apr,7,Friday
+3985,Polo Shirt,32,1/19/2023,4.1,Credit Card,2023,1,Jan,19,Thursday
+4113,Pajamas,119,9/15/2023,2.1,Credit Card,2023,9,Sep,15,Friday
+3983,Wallet,19,9/22/2023,2.4,Cash,2023,9,Sep,22,Friday
+4100,Tank Top,197,5/29/2023,1.8,Cash,2023,5,May,29,Monday
+3967,Umbrella,13,7/27/2023,3.9,Credit Card,2023,7,Jul,27,Thursday
+4086,Belt,145,10/29/2022,3.5,Cash,2022,10,Oct,29,Saturday
+3999,Cardigan,170,5/25/2023,1.6,Cash,2023,5,May,25,Thursday
+4118,Tank Top,67,12/4/2022,3.1,Cash,2022,12,Dec,4,Sunday
+3987,Flip-Flops,98,7/22/2023,1.8,Cash,2023,7,Jul,22,Saturday
+4009,Skirt,36,11/11/2022,4,Cash,2022,11,Nov,11,Friday
+4049,Hoodie,160,8/27/2023,2.4,Cash,2023,8,Aug,27,Sunday
+3997,Skirt,26,6/27/2023,4,Cash,2023,6,Jun,27,Tuesday
+4031,Hoodie,86,8/24/2023,3,Cash,2023,8,Aug,24,Thursday
+4070,Backpack,126,7/23/2023,1.8,Credit Card,2023,7,Jul,23,Sunday
+4086,Jeans,162,7/1/2023,3.5,Cash,2023,7,Jul,1,Saturday
+4084,Flip-Flops,121,4/23/2023,4,Cash,2023,4,Apr,23,Sunday
+3996,Skirt,135,3/4/2023,1.9,Credit Card,2023,3,Mar,4,Saturday
+4122,Kimono,58,4/27/2023,4.7,Credit Card,2023,4,Apr,27,Thursday
+4042,Tunic,113,1/19/2023,3.6,Cash,2023,1,Jan,19,Thursday
+3988,Polo Shirt,43,3/20/2023,1,Cash,2023,3,Mar,20,Monday
+4008,Skirt,15,4/18/2023,5,Credit Card,2023,4,Apr,18,Tuesday
+4069,Handbag,53,12/4/2022,3.6,Credit Card,2022,12,Dec,4,Sunday
+3958,Trench Coat,19,1/30/2023,4.4,Cash,2023,1,Jan,30,Monday
+4078,Dress,146,3/16/2023,3.4,Credit Card,2023,3,Mar,16,Thursday
+4044,Wallet,162,8/8/2023,1.5,Credit Card,2023,8,Aug,8,Tuesday
+4030,Cardigan,179,6/12/2023,3,Credit Card,2023,6,Jun,12,Monday
+4000,Scarf,22,8/19/2023,3.5,Credit Card,2023,8,Aug,19,Saturday
+4025,Jumpsuit,41,7/15/2023,2.3,Cash,2023,7,Jul,15,Saturday
+4052,Overalls,131,5/25/2023,4.3,Credit Card,2023,5,May,25,Thursday
+4063,Sun Hat,62,4/22/2023,4.4,Credit Card,2023,4,Apr,22,Saturday
+4019,Socks,35,4/11/2023,2,Cash,2023,4,Apr,11,Tuesday
+3995,Onesie,79,9/18/2023,1.6,Credit Card,2023,9,Sep,18,Monday
+4092,Shorts,189,5/29/2023,2.6,Credit Card,2023,5,May,29,Monday
+4015,Overalls,36,1/5/2023,1.3,Cash,2023,1,Jan,5,Thursday
+3992,Tie,168,2/3/2023,2.2,Credit Card,2023,2,Feb,3,Friday
+3964,Gloves,101,2/4/2023,2.3,Cash,2023,2,Feb,4,Saturday
+4070,Trench Coat,85,10/5/2022,1.7,Credit Card,2022,10,Oct,5,Wednesday
+3959,Sneakers,63,11/22/2022,2.1,Cash,2022,11,Nov,22,Tuesday
+4089,Wallet,133,7/17/2023,3.2,Credit Card,2023,7,Jul,17,Monday
+3974,Sandals,10,1/5/2023,4.4,Cash,2023,1,Jan,5,Thursday
+4059,Boots,136,4/4/2023,4.6,Cash,2023,4,Apr,4,Tuesday
+3972,Dress,195,2/2/2023,2.1,Cash,2023,2,Feb,2,Thursday
+4121,Pants,85,12/14/2022,3.4,Cash,2022,12,Dec,14,Wednesday
+3995,Swimsuit,22,9/20/2023,2.9,Credit Card,2023,9,Sep,20,Wednesday
+4090,Leggings,183,6/4/2023,1.3,Credit Card,2023,6,Jun,4,Sunday
+4032,Trousers,199,1/18/2023,3.6,Cash,2023,1,Jan,18,Wednesday
+4059,Sunglasses,21,12/9/2022,1.1,Credit Card,2022,12,Dec,9,Friday
+4037,Sun Hat,94,4/27/2023,3,Cash,2023,4,Apr,27,Thursday
+4045,Vest,122,2/27/2023,1,Cash,2023,2,Feb,27,Monday
+3959,Socks,78,2/11/2023,2.1,Cash,2023,2,Feb,11,Saturday
+4028,Flip-Flops,33,10/22/2022,4.1,Cash,2022,10,Oct,22,Saturday
+4092,Backpack,97,1/5/2023,3.2,Credit Card,2023,1,Jan,5,Thursday
+3994,Sweater,126,12/9/2022,3.7,Credit Card,2022,12,Dec,9,Friday
+4060,Sunglasses,108,3/15/2023,3.1,Cash,2023,3,Mar,15,Wednesday
+4071,Belt,132,2/1/2023,2.6,Credit Card,2023,2,Feb,1,Wednesday
+4121,Blouse,176,12/24/2022,4.6,Cash,2022,12,Dec,24,Saturday
+4009,Handbag,52,4/22/2023,2,Cash,2023,4,Apr,22,Saturday
+4116,Camisole,25,4/12/2023,3.6,Credit Card,2023,4,Apr,12,Wednesday
+4115,Hat,50,8/14/2023,4.9,Cash,2023,8,Aug,14,Monday
+4045,Leggings,133,9/1/2023,1.5,Cash,2023,9,Sep,1,Friday
+4060,Flannel Shirt,183,1/5/2023,3.6,Cash,2023,1,Jan,5,Thursday
+4007,Coat,166,2/11/2023,3.7,Cash,2023,2,Feb,11,Saturday
+4034,Belt,101,12/25/2022,1.2,Credit Card,2022,12,Dec,25,Sunday
+3978,Gloves,185,5/14/2023,4,Cash,2023,5,May,14,Sunday
+3966,Skirt,196,6/1/2023,3.7,Cash,2023,6,Jun,1,Thursday
+4094,Romper,43,1/31/2023,1.9,Credit Card,2023,1,Jan,31,Tuesday
+4042,Blouse,134,8/16/2023,3.3,Credit Card,2023,8,Aug,16,Wednesday
+3989,Shorts,21,12/22/2022,1.1,Credit Card,2022,12,Dec,22,Thursday
+4095,Sunglasses,13,7/2/2023,3.9,Credit Card,2023,7,Jul,2,Sunday
+4029,Vest,183,3/24/2023,4.5,Credit Card,2023,3,Mar,24,Friday
+4011,Tunic,200,8/31/2023,2.6,Credit Card,2023,8,Aug,31,Thursday
+3980,Handbag,154,12/13/2022,3.7,Credit Card,2022,12,Dec,13,Tuesday
+4087,Sandals,181,10/25/2022,1.8,Credit Card,2022,10,Oct,25,Tuesday
+4098,Sun Hat,142,12/10/2022,1.8,Cash,2022,12,Dec,10,Saturday
+4036,Coat,189,2/1/2023,4.5,Credit Card,2023,2,Feb,1,Wednesday
+4090,Leggings,120,9/18/2023,3.6,Credit Card,2023,9,Sep,18,Monday
+4044,Scarf,73,1/3/2023,4.8,Credit Card,2023,1,Jan,3,Tuesday
+4119,Hoodie,179,10/13/2022,2,Credit Card,2022,10,Oct,13,Thursday
+3997,Hoodie,108,7/23/2023,1.6,Credit Card,2023,7,Jul,23,Sunday
+3964,Belt,166,2/7/2023,3.1,Credit Card,2023,2,Feb,7,Tuesday
+4108,Handbag,50,10/2/2022,2.1,Credit Card,2022,10,Oct,2,Sunday
+4023,Jumpsuit,130,11/4/2022,4.1,Credit Card,2022,11,Nov,4,Friday
+4018,Slippers,52,5/6/2023,4.1,Cash,2023,5,May,6,Saturday
+4065,Jeans,71,1/6/2023,2.2,Cash,2023,1,Jan,6,Friday
+4086,Flip-Flops,81,1/26/2023,1.8,Cash,2023,1,Jan,26,Thursday
+3972,Polo Shirt,174,6/23/2023,2.1,Credit Card,2023,6,Jun,23,Friday
+4052,Hoodie,70,2/21/2023,2.8,Cash,2023,2,Feb,21,Tuesday
+4117,Pajamas,156,12/11/2022,2.5,Credit Card,2022,12,Dec,11,Sunday
+4086,Jeans,137,1/18/2023,3.2,Cash,2023,1,Jan,18,Wednesday
+4047,Poncho,40,3/3/2023,1.6,Credit Card,2023,3,Mar,3,Friday
+3988,Camisole,200,6/12/2023,2.5,Cash,2023,6,Jun,12,Monday
+3969,Blouse,36,9/4/2023,1.4,Credit Card,2023,9,Sep,4,Monday
+3988,Overalls,19,11/7/2022,3.1,Credit Card,2022,11,Nov,7,Monday
+4071,Handbag,10,8/7/2023,2.6,Cash,2023,8,Aug,7,Monday
+4103,Jumpsuit,173,6/27/2023,1.4,Cash,2023,6,Jun,27,Tuesday
+3958,Raincoat,140,12/17/2022,2,Cash,2022,12,Dec,17,Saturday
+4073,Hat,177,8/9/2023,4.8,Credit Card,2023,8,Aug,9,Wednesday
+4043,Boots,97,10/6/2022,4.4,Cash,2022,10,Oct,6,Thursday
+4017,Backpack,23,9/11/2023,4.7,Credit Card,2023,9,Sep,11,Monday
+4105,Gloves,126,6/6/2023,3.5,Cash,2023,6,Jun,6,Tuesday
+4101,Blazer,168,3/20/2023,1,Credit Card,2023,3,Mar,20,Monday
+4117,Socks,193,3/15/2023,2.3,Credit Card,2023,3,Mar,15,Wednesday
+4093,Polo Shirt,193,11/14/2022,3.2,Credit Card,2022,11,Nov,14,Monday
+4109,Boots,34,3/19/2023,1,Cash,2023,3,Mar,19,Sunday
+4016,Camisole,66,2/16/2023,1.4,Cash,2023,2,Feb,16,Thursday
+4033,Pajamas,172,3/26/2023,4.2,Credit Card,2023,3,Mar,26,Sunday
+4029,Jumpsuit,84,12/5/2022,3.5,Cash,2022,12,Dec,5,Monday
+4103,Sandals,105,4/19/2023,4.8,Cash,2023,4,Apr,19,Wednesday
+3992,Wallet,21,10/31/2022,2.4,Cash,2022,10,Oct,31,Monday
+4053,Sweater,136,5/16/2023,3.5,Cash,2023,5,May,16,Tuesday
+4020,Hoodie,194,5/13/2023,2.4,Cash,2023,5,May,13,Saturday
+3983,Pants,75,7/20/2023,3.1,Cash,2023,7,Jul,20,Thursday
+4040,Handbag,58,9/20/2023,2.7,Cash,2023,9,Sep,20,Wednesday
+4106,Handbag,65,8/16/2023,4.6,Cash,2023,8,Aug,16,Wednesday
+4006,Slippers,58,11/6/2022,4.5,Credit Card,2022,11,Nov,6,Sunday
+4049,Skirt,37,1/13/2023,2.6,Cash,2023,1,Jan,13,Friday
+4073,Shorts,21,7/11/2023,1.3,Credit Card,2023,7,Jul,11,Tuesday
+3982,Overalls,182,1/23/2023,4.9,Credit Card,2023,1,Jan,23,Monday
+3994,Loafers,125,12/4/2022,1.5,Cash,2022,12,Dec,4,Sunday
+4065,Shorts,160,10/17/2022,1.9,Credit Card,2022,10,Oct,17,Monday
+3977,Pants,11,4/21/2023,4.7,Cash,2023,4,Apr,21,Friday
+3980,Cardigan,22,2/24/2023,5,Cash,2023,2,Feb,24,Friday
+3972,Sandals,120,2/4/2023,4.6,Cash,2023,2,Feb,4,Saturday
+4065,Hat,133,1/19/2023,1.4,Cash,2023,1,Jan,19,Thursday
+3990,Hoodie,55,9/11/2023,3.4,Credit Card,2023,9,Sep,11,Monday
+4011,Kimono,42,1/4/2023,3.4,Credit Card,2023,1,Jan,4,Wednesday
+3976,Scarf,165,8/18/2023,2.9,Credit Card,2023,8,Aug,18,Friday
+4051,Vest,139,12/18/2022,1.7,Cash,2022,12,Dec,18,Sunday
+4091,Skirt,117,12/6/2022,3.9,Cash,2022,12,Dec,6,Tuesday
+4060,Kimono,187,6/11/2023,3,Credit Card,2023,6,Jun,11,Sunday
+4107,Jeans,80,5/20/2023,4.2,Credit Card,2023,5,May,20,Saturday
+4100,Tie,97,5/29/2023,1.4,Credit Card,2023,5,May,29,Monday
+4089,Jacket,125,5/29/2023,1.9,Cash,2023,5,May,29,Monday
+4058,Kimono,45,1/21/2023,1,Credit Card,2023,1,Jan,21,Saturday
+4024,Handbag,189,1/14/2023,4.7,Credit Card,2023,1,Jan,14,Saturday
+4106,Jacket,141,11/9/2022,3.2,Credit Card,2022,11,Nov,9,Wednesday
+4084,Scarf,189,5/2/2023,4,Cash,2023,5,May,2,Tuesday
+4119,Umbrella,90,6/18/2023,3.3,Cash,2023,6,Jun,18,Sunday
+4065,Tie,151,9/25/2023,1.8,Cash,2023,9,Sep,25,Monday
+4069,Pajamas,61,10/19/2022,1.9,Credit Card,2022,10,Oct,19,Wednesday
+4063,Handbag,98,4/25/2023,4.3,Cash,2023,4,Apr,25,Tuesday
+3998,Bowtie,43,3/3/2023,2.2,Cash,2023,3,Mar,3,Friday
+4086,Hat,55,10/16/2022,3.5,Cash,2022,10,Oct,16,Sunday
+4081,T-shirt,191,10/3/2022,3.9,Cash,2022,10,Oct,3,Monday
+3990,Wallet,132,7/14/2023,4.3,Cash,2023,7,Jul,14,Friday
+4088,Sunglasses,180,4/5/2023,3.8,Cash,2023,4,Apr,5,Wednesday
+4092,Handbag,182,10/28/2022,1.6,Cash,2022,10,Oct,28,Friday
+3987,Loafers,146,1/31/2023,1.7,Cash,2023,1,Jan,31,Tuesday
+4073,Shorts,143,10/19/2022,4.4,Credit Card,2022,10,Oct,19,Wednesday
+3965,Raincoat,23,8/12/2023,1.3,Credit Card,2023,8,Aug,12,Saturday
+3997,Onesie,61,3/11/2023,2.7,Credit Card,2023,3,Mar,11,Saturday
+4100,Flip-Flops,51,12/27/2022,1.7,Credit Card,2022,12,Dec,27,Tuesday
+4051,Loafers,184,8/17/2023,3.9,Cash,2023,8,Aug,17,Thursday
+3987,Polo Shirt,25,6/16/2023,3.1,Cash,2023,6,Jun,16,Friday
+4111,T-shirt,85,3/6/2023,3.4,Credit Card,2023,3,Mar,6,Monday
+4061,Coat,148,12/10/2022,3.3,Credit Card,2022,12,Dec,10,Saturday
+3987,Poncho,36,2/26/2023,3.4,Credit Card,2023,2,Feb,26,Sunday
+4051,Sandals,182,11/14/2022,1.9,Cash,2022,11,Nov,14,Monday
+4103,Shorts,67,10/21/2022,1.7,Credit Card,2022,10,Oct,21,Friday
+4031,Socks,153,8/25/2023,2.8,Cash,2023,8,Aug,25,Friday
+3967,Loafers,140,6/1/2023,3.4,Credit Card,2023,6,Jun,1,Thursday
+4090,Jeans,188,9/29/2023,4.2,Cash,2023,9,Sep,29,Friday
+3996,Polo Shirt,180,3/3/2023,1.8,Cash,2023,3,Mar,3,Friday
+4052,Flannel Shirt,116,12/8/2022,1.4,Cash,2022,12,Dec,8,Thursday
+4035,Trench Coat,185,6/12/2023,4.2,Credit Card,2023,6,Jun,12,Monday
+4052,Tunic,151,2/17/2023,1.2,Cash,2023,2,Feb,17,Friday
+4032,Scarf,61,9/12/2023,3.2,Cash,2023,9,Sep,12,Tuesday
+4081,Swimsuit,123,8/29/2023,3.6,Cash,2023,8,Aug,29,Tuesday
+3964,Shorts,172,5/12/2023,4.3,Credit Card,2023,5,May,12,Friday
+3993,Jeans,160,4/7/2023,4.5,Credit Card,2023,4,Apr,7,Friday
+4107,Leggings,164,6/18/2023,2,Credit Card,2023,6,Jun,18,Sunday
+3969,Gloves,59,5/9/2023,3.2,Credit Card,2023,5,May,9,Tuesday
+4029,Camisole,29,5/5/2023,1.3,Credit Card,2023,5,May,5,Friday
+4082,Sneakers,106,7/20/2023,1.2,Credit Card,2023,7,Jul,20,Thursday
+3988,Onesie,77,5/10/2023,4.2,Credit Card,2023,5,May,10,Wednesday
+4046,Hoodie,75,10/9/2022,2.8,Credit Card,2022,10,Oct,9,Sunday
+4080,Backpack,162,4/27/2023,5,Credit Card,2023,4,Apr,27,Thursday
+4072,Kimono,156,4/2/2023,1.1,Cash,2023,4,Apr,2,Sunday
+4043,Belt,28,8/22/2023,1.1,Credit Card,2023,8,Aug,22,Tuesday
+4053,Trench Coat,91,4/26/2023,4,Cash,2023,4,Apr,26,Wednesday
+4078,Vest,57,2/13/2023,3.3,Cash,2023,2,Feb,13,Monday
+4119,Umbrella,64,5/19/2023,4.1,Credit Card,2023,5,May,19,Friday
+4074,Romper,94,2/15/2023,3.4,Cash,2023,2,Feb,15,Wednesday
+4072,Sneakers,65,3/12/2023,5,Credit Card,2023,3,Mar,12,Sunday
+4071,Vest,168,8/2/2023,3.7,Cash,2023,8,Aug,2,Wednesday
+3995,Skirt,153,6/7/2023,3,Credit Card,2023,6,Jun,7,Wednesday
+4040,Slippers,176,8/28/2023,2.2,Cash,2023,8,Aug,28,Monday
+4116,Slippers,124,1/16/2023,3.7,Cash,2023,1,Jan,16,Monday
+4116,Blazer,174,11/24/2022,2.1,Credit Card,2022,11,Nov,24,Thursday
+4061,Coat,169,6/26/2023,4.1,Credit Card,2023,6,Jun,26,Monday
+4056,Scarf,20,1/21/2023,4.3,Cash,2023,1,Jan,21,Saturday
+4016,Camisole,92,7/29/2023,3.5,Credit Card,2023,7,Jul,29,Saturday
+4043,Belt,148,7/21/2023,1.2,Credit Card,2023,7,Jul,21,Friday
+4095,Bowtie,16,9/14/2023,1.1,Credit Card,2023,9,Sep,14,Thursday
+3968,Belt,105,6/7/2023,1,Credit Card,2023,6,Jun,7,Wednesday
+4070,Loafers,140,7/23/2023,2,Credit Card,2023,7,Jul,23,Sunday
+4028,Poncho,21,7/6/2023,2.4,Credit Card,2023,7,Jul,6,Thursday
+4122,Sneakers,176,9/29/2023,3.1,Credit Card,2023,9,Sep,29,Friday
+3999,Flip-Flops,34,8/4/2023,1.9,Cash,2023,8,Aug,4,Friday
+4103,Loafers,147,2/10/2023,2.3,Cash,2023,2,Feb,10,Friday
+4118,Pajamas,170,8/4/2023,2.5,Cash,2023,8,Aug,4,Friday
+4100,Socks,64,6/18/2023,1.2,Credit Card,2023,6,Jun,18,Sunday
+4122,Sunglasses,118,5/8/2023,3.5,Cash,2023,5,May,8,Monday
+4121,Swimsuit,189,7/30/2023,2.6,Credit Card,2023,7,Jul,30,Sunday
+4100,Handbag,199,8/15/2023,3.2,Cash,2023,8,Aug,15,Tuesday
+3978,Jacket,175,3/12/2023,4.1,Credit Card,2023,3,Mar,12,Sunday
+4115,Coat,49,10/9/2022,3.5,Credit Card,2022,10,Oct,9,Sunday
+4104,Trench Coat,19,8/3/2023,1.3,Cash,2023,8,Aug,3,Thursday
+4090,Tie,152,1/16/2023,1.5,Cash,2023,1,Jan,16,Monday
+4085,Backpack,125,5/13/2023,2,Credit Card,2023,5,May,13,Saturday
+3961,Flannel Shirt,120,3/2/2023,1.7,Cash,2023,3,Mar,2,Thursday
+3987,Raincoat,109,1/20/2023,3,Credit Card,2023,1,Jan,20,Friday
+4093,Vest,146,12/6/2022,3.1,Cash,2022,12,Dec,6,Tuesday
+3961,Shorts,26,1/23/2023,1.3,Credit Card,2023,1,Jan,23,Monday
+4027,Hat,159,7/31/2023,1.6,Cash,2023,7,Jul,31,Monday
+4019,Belt,101,4/15/2023,3.5,Credit Card,2023,4,Apr,15,Saturday
+4105,Hat,37,11/22/2022,1.7,Cash,2022,11,Nov,22,Tuesday
+4070,Raincoat,185,12/7/2022,3.7,Credit Card,2022,12,Dec,7,Wednesday
+3978,Boots,32,11/22/2022,2.6,Credit Card,2022,11,Nov,22,Tuesday
+4093,Jacket,122,12/21/2022,2,Cash,2022,12,Dec,21,Wednesday
+4112,Scarf,179,7/9/2023,3.9,Cash,2023,7,Jul,9,Sunday
+4107,Swimsuit,110,7/2/2023,4.1,Cash,2023,7,Jul,2,Sunday
+4082,Jumpsuit,172,11/9/2022,4.3,Credit Card,2022,11,Nov,9,Wednesday
+4044,Shorts,196,11/24/2022,2.4,Cash,2022,11,Nov,24,Thursday
+4068,T-shirt,12,3/19/2023,4,Cash,2023,3,Mar,19,Sunday
+4003,Leggings,152,8/13/2023,1.2,Cash,2023,8,Aug,13,Sunday
+4092,Romper,110,3/24/2023,2.2,Cash,2023,3,Mar,24,Friday
+4038,Trousers,31,1/26/2023,4.6,Cash,2023,1,Jan,26,Thursday
+3980,Sunglasses,175,10/4/2022,2.6,Cash,2022,10,Oct,4,Tuesday
+3986,Leggings,46,9/25/2023,2.2,Cash,2023,9,Sep,25,Monday
+4095,Sun Hat,74,1/3/2023,4.7,Credit Card,2023,1,Jan,3,Tuesday
+3993,Cardigan,23,5/13/2023,1.7,Cash,2023,5,May,13,Saturday
+4003,Loafers,150,9/24/2023,2.3,Cash,2023,9,Sep,24,Sunday
+4022,Scarf,150,12/24/2022,2.9,Credit Card,2022,12,Dec,24,Saturday
+3996,Scarf,74,1/8/2023,1.2,Cash,2023,1,Jan,8,Sunday
+4061,Sun Hat,134,6/30/2023,2,Credit Card,2023,6,Jun,30,Friday
+4000,Sneakers,101,9/27/2023,1.8,Cash,2023,9,Sep,27,Wednesday
+4114,Loafers,35,6/13/2023,2,Credit Card,2023,6,Jun,13,Tuesday
+4040,Wallet,27,3/4/2023,3.8,Credit Card,2023,3,Mar,4,Saturday
+4003,Jacket,91,12/29/2022,1.9,Cash,2022,12,Dec,29,Thursday
+3963,Sunglasses,94,8/24/2023,1.4,Cash,2023,8,Aug,24,Thursday
+4033,Tie,49,3/25/2023,3.1,Cash,2023,3,Mar,25,Saturday
+4056,Umbrella,103,4/23/2023,4.1,Credit Card,2023,4,Apr,23,Sunday
+3982,Tunic,119,5/26/2023,3.4,Credit Card,2023,5,May,26,Friday
+3993,Leggings,66,9/23/2023,1.8,Cash,2023,9,Sep,23,Saturday
+4062,Leggings,174,6/10/2023,2.6,Cash,2023,6,Jun,10,Saturday
+4039,Socks,102,11/3/2022,1.9,Credit Card,2022,11,Nov,3,Thursday
+4053,Sweater,132,6/15/2023,4.8,Credit Card,2023,6,Jun,15,Thursday
+3987,Kimono,101,6/28/2023,3.4,Cash,2023,6,Jun,28,Wednesday
+3970,Kimono,134,12/13/2022,4,Credit Card,2022,12,Dec,13,Tuesday
+4008,Dress,54,12/6/2022,2.6,Credit Card,2022,12,Dec,6,Tuesday
+4018,Sneakers,30,1/14/2023,3,Cash,2023,1,Jan,14,Saturday
+4109,Tie,45,5/20/2023,3.2,Cash,2023,5,May,20,Saturday
+4107,Shorts,60,6/28/2023,4.6,Cash,2023,6,Jun,28,Wednesday
+4055,Leggings,17,10/31/2022,1.5,Credit Card,2022,10,Oct,31,Monday
+3986,Slippers,158,3/19/2023,4.7,Cash,2023,3,Mar,19,Sunday
+4025,Pajamas,161,9/3/2023,2.5,Cash,2023,9,Sep,3,Sunday
+3972,Boots,19,7/8/2023,3.8,Credit Card,2023,7,Jul,8,Saturday
+4038,Sunglasses,149,2/27/2023,2.1,Cash,2023,2,Feb,27,Monday
+4075,Jeans,148,11/5/2022,1.5,Cash,2022,11,Nov,5,Saturday
+4098,Cardigan,48,4/18/2023,2.7,Cash,2023,4,Apr,18,Tuesday
+3973,Backpack,160,10/27/2022,1.9,Credit Card,2022,10,Oct,27,Thursday
+4080,Sunglasses,84,4/16/2023,4.2,Cash,2023,4,Apr,16,Sunday
+4061,Overalls,33,11/10/2022,1.3,Credit Card,2022,11,Nov,10,Thursday
+4119,Cardigan,138,1/12/2023,3.1,Credit Card,2023,1,Jan,12,Thursday
+3961,Vest,167,2/9/2023,1.9,Credit Card,2023,2,Feb,9,Thursday
+4025,Dress,141,7/23/2023,2.9,Cash,2023,7,Jul,23,Sunday
+3982,Dress,154,4/25/2023,3.9,Cash,2023,4,Apr,25,Tuesday
+4020,Trousers,47,3/7/2023,3.4,Credit Card,2023,3,Mar,7,Tuesday
+4099,Backpack,133,5/29/2023,1.3,Cash,2023,5,May,29,Monday
+3989,Jeans,20,7/23/2023,2.3,Cash,2023,7,Jul,23,Sunday
+4034,Jacket,134,8/4/2023,1.4,Credit Card,2023,8,Aug,4,Friday
+4102,Onesie,77,7/3/2023,3.8,Cash,2023,7,Jul,3,Monday
+4061,Skirt,20,2/17/2023,2.2,Credit Card,2023,2,Feb,17,Friday
+4071,Tie,142,4/20/2023,2.6,Credit Card,2023,4,Apr,20,Thursday
+3978,Camisole,102,10/14/2022,4.3,Cash,2022,10,Oct,14,Friday
+4119,Blazer,126,9/14/2023,4.1,Cash,2023,9,Sep,14,Thursday
+4085,Sneakers,20,3/17/2023,3,Cash,2023,3,Mar,17,Friday
+4009,Leggings,92,6/22/2023,2.7,Cash,2023,6,Jun,22,Thursday
+4052,Raincoat,172,9/18/2023,1.5,Credit Card,2023,9,Sep,18,Monday
+4095,Vest,199,5/17/2023,4.1,Cash,2023,5,May,17,Wednesday
+4094,Jumpsuit,103,7/19/2023,5,Cash,2023,7,Jul,19,Wednesday
+4065,Leggings,29,4/18/2023,1.8,Credit Card,2023,4,Apr,18,Tuesday
+4099,Kimono,106,1/8/2023,4.5,Cash,2023,1,Jan,8,Sunday
+3967,Sweater,100,7/6/2023,1.1,Cash,2023,7,Jul,6,Thursday
+3957,Vest,98,2/2/2023,2.8,Cash,2023,2,Feb,2,Thursday
+4075,Blazer,133,10/3/2022,4,Credit Card,2022,10,Oct,3,Monday
+4031,Overalls,45,5/17/2023,1.9,Credit Card,2023,5,May,17,Wednesday
+3999,Kimono,68,12/19/2022,2.4,Cash,2022,12,Dec,19,Monday
+3972,Shorts,64,4/22/2023,3.3,Cash,2023,4,Apr,22,Saturday
+4110,Skirt,40,7/7/2023,3.5,Credit Card,2023,7,Jul,7,Friday
+4021,Jeans,116,11/1/2022,4.3,Credit Card,2022,11,Nov,1,Tuesday
+4054,Gloves,194,7/22/2023,4.9,Cash,2023,7,Jul,22,Saturday
+4118,T-shirt,132,5/3/2023,4.2,Credit Card,2023,5,May,3,Wednesday
+4011,Blouse,51,11/13/2022,4.1,Cash,2022,11,Nov,13,Sunday
+4106,Skirt,115,4/16/2023,1.9,Credit Card,2023,4,Apr,16,Sunday
+3968,Camisole,51,10/5/2022,1.8,Credit Card,2022,10,Oct,5,Wednesday
+4093,Gloves,156,5/4/2023,1.4,Cash,2023,5,May,4,Thursday
+4033,Socks,142,3/14/2023,3,Cash,2023,3,Mar,14,Tuesday
+3979,Camisole,163,5/20/2023,3.3,Cash,2023,5,May,20,Saturday
+3992,T-shirt,179,4/28/2023,3.9,Cash,2023,4,Apr,28,Friday
+4099,Tank Top,31,2/21/2023,2,Credit Card,2023,2,Feb,21,Tuesday
+4028,Sweater,165,3/20/2023,2.6,Credit Card,2023,3,Mar,20,Monday
+4067,Sandals,133,6/14/2023,3.3,Cash,2023,6,Jun,14,Wednesday
+4113,Shorts,163,6/26/2023,4.2,Cash,2023,6,Jun,26,Monday
+4038,Blazer,56,3/16/2023,3.6,Cash,2023,3,Mar,16,Thursday
+4044,Jacket,140,3/18/2023,4,Credit Card,2023,3,Mar,18,Saturday
+4119,Sandals,195,4/3/2023,4,Credit Card,2023,4,Apr,3,Monday
+4023,Trousers,126,6/11/2023,1.4,Credit Card,2023,6,Jun,11,Sunday
+4072,Tank Top,27,3/31/2023,1.6,Cash,2023,3,Mar,31,Friday
+4026,Flip-Flops,108,11/22/2022,3.3,Cash,2022,11,Nov,22,Tuesday
+4044,Tank Top,139,5/30/2023,4.1,Credit Card,2023,5,May,30,Tuesday
+4010,Coat,48,5/10/2023,3.3,Cash,2023,5,May,10,Wednesday
+4074,Blouse,55,2/19/2023,4.4,Credit Card,2023,2,Feb,19,Sunday
+4110,Slippers,167,10/4/2022,4.6,Credit Card,2022,10,Oct,4,Tuesday
+4041,Overalls,146,10/5/2022,4.4,Credit Card,2022,10,Oct,5,Wednesday
+3961,Shorts,40,10/28/2022,1.9,Credit Card,2022,10,Oct,28,Friday
+4122,Leggings,164,6/27/2023,3.3,Cash,2023,6,Jun,27,Tuesday
+3957,Pants,10,5/18/2023,1.2,Credit Card,2023,5,May,18,Thursday
+4112,Tunic,183,3/23/2023,1.1,Cash,2023,3,Mar,23,Thursday
+4078,Slippers,143,6/25/2023,1.6,Credit Card,2023,6,Jun,25,Sunday
+3958,Tie,21,5/2/2023,2.8,Credit Card,2023,5,May,2,Tuesday
+3959,Handbag,119,6/30/2023,4.6,Credit Card,2023,6,Jun,30,Friday
+4001,Bowtie,133,12/8/2022,1.7,Cash,2022,12,Dec,8,Thursday
+4062,Wallet,107,2/28/2023,3.2,Credit Card,2023,2,Feb,28,Tuesday
+4099,Shorts,199,9/16/2023,1.9,Cash,2023,9,Sep,16,Saturday
+4082,Flannel Shirt,188,10/31/2022,2.3,Cash,2022,10,Oct,31,Monday
+4057,Flannel Shirt,118,4/2/2023,4.6,Credit Card,2023,4,Apr,2,Sunday
+3977,Sunglasses,69,5/2/2023,3.6,Cash,2023,5,May,2,Tuesday
+3976,Onesie,31,4/15/2023,1.1,Credit Card,2023,4,Apr,15,Saturday
+4094,Wallet,149,3/31/2023,2.1,Credit Card,2023,3,Mar,31,Friday
+3988,Leggings,11,11/25/2022,4.9,Credit Card,2022,11,Nov,25,Friday
+4047,Jumpsuit,40,12/19/2022,3.3,Cash,2022,12,Dec,19,Monday
+4053,Camisole,106,12/30/2022,1.1,Cash,2022,12,Dec,30,Friday
+4110,Onesie,186,2/10/2023,4.1,Cash,2023,2,Feb,10,Friday
+4048,Gloves,114,3/5/2023,4.1,Credit Card,2023,3,Mar,5,Sunday
+4056,Hoodie,49,2/12/2023,1.6,Credit Card,2023,2,Feb,12,Sunday
+4002,Sandals,159,11/6/2022,1.4,Cash,2022,11,Nov,6,Sunday
+3959,Jumpsuit,147,6/21/2023,3.3,Cash,2023,6,Jun,21,Wednesday
+3988,Cardigan,103,7/30/2023,3.5,Credit Card,2023,7,Jul,30,Sunday
+4075,Romper,184,8/11/2023,1.9,Credit Card,2023,8,Aug,11,Friday
+4051,Hoodie,62,5/31/2023,4.2,Credit Card,2023,5,May,31,Wednesday
+4070,Sun Hat,104,10/4/2022,4.5,Cash,2022,10,Oct,4,Tuesday
+3959,Boots,133,12/14/2022,4.2,Credit Card,2022,12,Dec,14,Wednesday
+4013,Wallet,88,1/13/2023,2.3,Credit Card,2023,1,Jan,13,Friday
+3962,Backpack,190,1/13/2023,1.5,Credit Card,2023,1,Jan,13,Friday
+4028,Poncho,45,6/29/2023,4.1,Cash,2023,6,Jun,29,Thursday
+4048,Scarf,178,4/28/2023,1.6,Cash,2023,4,Apr,28,Friday
+3980,Jacket,189,5/8/2023,2.1,Credit Card,2023,5,May,8,Monday
+4114,Jacket,35,10/10/2022,4.4,Credit Card,2022,10,Oct,10,Monday
+4117,Kimono,112,6/21/2023,1.7,Cash,2023,6,Jun,21,Wednesday
+4034,Sweater,150,1/29/2023,1,Cash,2023,1,Jan,29,Sunday
+4013,Scarf,185,3/13/2023,3.1,Credit Card,2023,3,Mar,13,Monday
+4016,T-shirt,51,5/30/2023,4.6,Credit Card,2023,5,May,30,Tuesday
+4083,Wallet,172,10/23/2022,5,Credit Card,2022,10,Oct,23,Sunday
+4083,Socks,121,2/4/2023,3.4,Cash,2023,2,Feb,4,Saturday
+4120,Slippers,112,3/3/2023,1.3,Credit Card,2023,3,Mar,3,Friday
+4058,Tunic,143,2/16/2023,1.3,Credit Card,2023,2,Feb,16,Thursday
+3985,Flannel Shirt,162,12/19/2022,1.2,Credit Card,2022,12,Dec,19,Monday
+4102,Leggings,54,6/21/2023,1.8,Credit Card,2023,6,Jun,21,Wednesday
+4085,Tunic,122,8/27/2023,2.8,Cash,2023,8,Aug,27,Sunday
+4000,Romper,142,11/2/2022,1.9,Credit Card,2022,11,Nov,2,Wednesday
+4098,Overalls,18,12/29/2022,1.1,Credit Card,2022,12,Dec,29,Thursday
+4006,Backpack,140,10/25/2022,2.8,Cash,2022,10,Oct,25,Tuesday
+4101,Pants,69,9/22/2023,1.6,Credit Card,2023,9,Sep,22,Friday
+4111,Trench Coat,182,3/21/2023,2.8,Cash,2023,3,Mar,21,Tuesday
+4001,Blouse,10,7/5/2023,3.7,Credit Card,2023,7,Jul,5,Wednesday
+3973,Gloves,32,8/11/2023,2.4,Cash,2023,8,Aug,11,Friday
+4107,Swimsuit,112,7/2/2023,1.4,Credit Card,2023,7,Jul,2,Sunday
+3989,Pajamas,111,1/24/2023,3.9,Credit Card,2023,1,Jan,24,Tuesday
+3973,Bowtie,61,10/17/2022,4.7,Credit Card,2022,10,Oct,17,Monday
+3989,Flip-Flops,198,8/9/2023,4.9,Credit Card,2023,8,Aug,9,Wednesday
+4023,Trench Coat,33,2/21/2023,4.7,Credit Card,2023,2,Feb,21,Tuesday
+4015,Jumpsuit,159,1/18/2023,1.1,Cash,2023,1,Jan,18,Wednesday
+4090,Vest,80,2/16/2023,3.7,Cash,2023,2,Feb,16,Thursday
+4027,Socks,59,9/9/2023,4.9,Credit Card,2023,9,Sep,9,Saturday
+4006,Jacket,113,7/25/2023,2.8,Cash,2023,7,Jul,25,Tuesday
+4114,Coat,153,5/11/2023,4.7,Cash,2023,5,May,11,Thursday
+4100,Blazer,39,11/4/2022,2.9,Credit Card,2022,11,Nov,4,Friday
+4073,Sunglasses,75,8/8/2023,2.9,Cash,2023,8,Aug,8,Tuesday
+3957,Backpack,157,6/2/2023,5,Cash,2023,6,Jun,2,Friday
+4066,Skirt,123,8/3/2023,3.7,Credit Card,2023,8,Aug,3,Thursday
+3970,Overalls,72,7/23/2023,2.5,Credit Card,2023,7,Jul,23,Sunday
+4039,Skirt,127,6/8/2023,2.7,Credit Card,2023,6,Jun,8,Thursday
+4067,Poncho,160,12/10/2022,4.9,Credit Card,2022,12,Dec,10,Saturday
+4061,Shorts,133,2/18/2023,2.9,Cash,2023,2,Feb,18,Saturday
+4089,Overalls,66,7/13/2023,4.6,Cash,2023,7,Jul,13,Thursday
+4076,Hat,68,2/16/2023,2.2,Credit Card,2023,2,Feb,16,Thursday
+4083,Sneakers,115,11/27/2022,3.9,Credit Card,2022,11,Nov,27,Sunday
+4049,Jeans,142,1/17/2023,3.3,Cash,2023,1,Jan,17,Tuesday
+3968,Wallet,73,4/19/2023,2.2,Cash,2023,4,Apr,19,Wednesday
+3969,Bowtie,97,2/17/2023,2.7,Credit Card,2023,2,Feb,17,Friday
+4064,Sandals,131,10/8/2022,3.7,Cash,2022,10,Oct,8,Saturday
+4093,Shorts,65,3/3/2023,2.6,Cash,2023,3,Mar,3,Friday
+4071,Sun Hat,78,3/13/2023,4.7,Cash,2023,3,Mar,13,Monday
+3958,Raincoat,58,5/27/2023,3.1,Credit Card,2023,5,May,27,Saturday
+4057,Belt,61,1/14/2023,1.3,Credit Card,2023,1,Jan,14,Saturday
+4006,Scarf,71,4/1/2023,3.6,Cash,2023,4,Apr,1,Saturday
+4042,Pants,62,4/13/2023,4.6,Credit Card,2023,4,Apr,13,Thursday
+3977,Vest,73,9/20/2023,4.3,Credit Card,2023,9,Sep,20,Wednesday
+4103,Trench Coat,101,6/10/2023,1.8,Cash,2023,6,Jun,10,Saturday
+4065,Trousers,183,10/9/2022,3,Cash,2022,10,Oct,9,Sunday
+3976,Sweater,136,7/22/2023,3.4,Credit Card,2023,7,Jul,22,Saturday
+4020,Bowtie,148,3/15/2023,2.7,Cash,2023,3,Mar,15,Wednesday
+4007,Sneakers,133,6/14/2023,4.5,Credit Card,2023,6,Jun,14,Wednesday
+3999,Swimsuit,90,8/25/2023,4.5,Credit Card,2023,8,Aug,25,Friday
+4041,Skirt,157,8/25/2023,1.7,Credit Card,2023,8,Aug,25,Friday
+4036,Sweater,135,1/24/2023,2.3,Cash,2023,1,Jan,24,Tuesday
+4117,Pajamas,140,2/7/2023,4,Credit Card,2023,2,Feb,7,Tuesday
+4117,Camisole,66,9/13/2023,1.1,Credit Card,2023,9,Sep,13,Wednesday
+3981,Belt,42,10/11/2022,3.4,Credit Card,2022,10,Oct,11,Tuesday
+4079,Cardigan,132,7/28/2023,5,Cash,2023,7,Jul,28,Friday
+4067,Socks,18,8/19/2023,3.8,Credit Card,2023,8,Aug,19,Saturday
+3963,Vest,110,7/9/2023,4.8,Cash,2023,7,Jul,9,Sunday
+4108,Hat,54,10/25/2022,2.6,Credit Card,2022,10,Oct,25,Tuesday
+4117,Loafers,40,12/12/2022,1.6,Cash,2022,12,Dec,12,Monday
+4042,Sneakers,127,9/3/2023,2.5,Cash,2023,9,Sep,3,Sunday
+3984,Kimono,158,12/27/2022,1.7,Credit Card,2022,12,Dec,27,Tuesday
+4018,Belt,76,2/7/2023,5,Cash,2023,2,Feb,7,Tuesday
+4042,Sweater,166,8/31/2023,5,Cash,2023,8,Aug,31,Thursday
+4090,Backpack,57,10/24/2022,3.7,Credit Card,2022,10,Oct,24,Monday
+4017,Boots,63,1/29/2023,1.6,Cash,2023,1,Jan,29,Sunday
+4110,Gloves,112,4/1/2023,4.7,Credit Card,2023,4,Apr,1,Saturday
+4069,Sweater,157,8/5/2023,2.3,Cash,2023,8,Aug,5,Saturday
+3981,Dress,35,12/12/2022,2.8,Credit Card,2022,12,Dec,12,Monday
+4117,Sunglasses,70,3/21/2023,1.2,Cash,2023,3,Mar,21,Tuesday
+4071,Sneakers,107,6/25/2023,4.1,Cash,2023,6,Jun,25,Sunday
+3988,Jacket,199,8/10/2023,2.2,Credit Card,2023,8,Aug,10,Thursday
+3972,Skirt,55,5/29/2023,4.6,Credit Card,2023,5,May,29,Monday
+4053,Gloves,171,3/10/2023,1.1,Credit Card,2023,3,Mar,10,Friday
+4037,Flip-Flops,194,12/19/2022,3.9,Cash,2022,12,Dec,19,Monday
+3973,Tank Top,134,10/22/2022,3.2,Cash,2022,10,Oct,22,Saturday
+3989,Romper,153,1/26/2023,3.4,Credit Card,2023,1,Jan,26,Thursday
+3972,Vest,22,11/20/2022,3,Credit Card,2022,11,Nov,20,Sunday
+4070,Vest,186,7/17/2023,1.5,Cash,2023,7,Jul,17,Monday
+4034,Skirt,75,9/7/2023,3,Credit Card,2023,9,Sep,7,Thursday
+4113,Gloves,171,5/25/2023,3.6,Cash,2023,5,May,25,Thursday
+4067,Tank Top,76,2/25/2023,2.8,Credit Card,2023,2,Feb,25,Saturday
+3973,Sneakers,153,7/1/2023,4.7,Cash,2023,7,Jul,1,Saturday
+3983,Kimono,75,5/13/2023,2.8,Credit Card,2023,5,May,13,Saturday
+3971,Scarf,115,5/25/2023,1.7,Credit Card,2023,5,May,25,Thursday
+3970,Scarf,165,8/10/2023,1.8,Credit Card,2023,8,Aug,10,Thursday
+4059,Cardigan,82,9/3/2023,2.1,Cash,2023,9,Sep,3,Sunday
+3981,Romper,182,3/9/2023,4.9,Cash,2023,3,Mar,9,Thursday
+4062,Cardigan,30,6/21/2023,4.9,Cash,2023,6,Jun,21,Wednesday
+4016,Camisole,83,5/7/2023,3.1,Credit Card,2023,5,May,7,Sunday
+4110,T-shirt,47,2/15/2023,1.6,Cash,2023,2,Feb,15,Wednesday
+4116,Skirt,173,9/18/2023,4.7,Credit Card,2023,9,Sep,18,Monday
+3959,Hat,96,6/26/2023,3.9,Credit Card,2023,6,Jun,26,Monday
+4073,Trench Coat,166,12/22/2022,4.3,Credit Card,2022,12,Dec,22,Thursday
+4055,Tank Top,28,1/13/2023,3.3,Cash,2023,1,Jan,13,Friday
+4066,Onesie,90,6/15/2023,3.1,Cash,2023,6,Jun,15,Thursday
+4115,Poncho,84,6/26/2023,1,Credit Card,2023,6,Jun,26,Monday
+4115,Blazer,164,12/7/2022,3.7,Credit Card,2022,12,Dec,7,Wednesday
+3982,Tank Top,79,8/8/2023,2.5,Credit Card,2023,8,Aug,8,Tuesday
+4043,Boots,102,3/14/2023,4.5,Cash,2023,3,Mar,14,Tuesday
+3963,Coat,143,8/26/2023,4.5,Cash,2023,8,Aug,26,Saturday
+4073,Leggings,115,6/25/2023,2.6,Credit Card,2023,6,Jun,25,Sunday
+4041,Jacket,42,9/23/2023,1.2,Cash,2023,9,Sep,23,Saturday
+4107,Coat,179,6/22/2023,1.7,Credit Card,2023,6,Jun,22,Thursday
+4006,Hat,200,2/20/2023,1.7,Credit Card,2023,2,Feb,20,Monday
+3984,Trousers,30,11/25/2022,4.4,Cash,2022,11,Nov,25,Friday
+3983,Overalls,111,7/21/2023,1.7,Cash,2023,7,Jul,21,Friday
+3974,Wallet,150,2/4/2023,3.4,Credit Card,2023,2,Feb,4,Saturday
+4006,Belt,144,1/22/2023,3.7,Credit Card,2023,1,Jan,22,Sunday
+4103,Trousers,31,12/27/2022,4.4,Credit Card,2022,12,Dec,27,Tuesday
+4120,Hat,31,10/17/2022,4.8,Credit Card,2022,10,Oct,17,Monday
+4087,Sandals,109,8/27/2023,4.6,Credit Card,2023,8,Aug,27,Sunday
+4022,Jacket,73,4/4/2023,1.4,Cash,2023,4,Apr,4,Tuesday
+4047,Coat,123,7/9/2023,2,Credit Card,2023,7,Jul,9,Sunday
+4064,Umbrella,43,4/12/2023,4.7,Credit Card,2023,4,Apr,12,Wednesday
+4080,Tunic,53,8/16/2023,4,Cash,2023,8,Aug,16,Wednesday
+4070,Loafers,93,12/25/2022,4.8,Cash,2022,12,Dec,25,Sunday
+4004,Raincoat,129,5/25/2023,4.9,Cash,2023,5,May,25,Thursday
+4019,Onesie,148,5/5/2023,4.8,Cash,2023,5,May,5,Friday
+3992,Slippers,150,6/5/2023,3.8,Cash,2023,6,Jun,5,Monday
+3968,T-shirt,188,2/28/2023,3.4,Cash,2023,2,Feb,28,Tuesday
+3972,Kimono,161,6/23/2023,1.4,Cash,2023,6,Jun,23,Friday
+3989,Boots,171,1/17/2023,4.8,Credit Card,2023,1,Jan,17,Tuesday
+4036,Onesie,154,11/21/2022,3.8,Credit Card,2022,11,Nov,21,Monday
+4106,Shorts,173,5/17/2023,1.1,Cash,2023,5,May,17,Wednesday
+4068,Dress,89,1/8/2023,3.1,Cash,2023,1,Jan,8,Sunday
+4088,Jeans,133,9/25/2023,4.8,Credit Card,2023,9,Sep,25,Monday
+4048,Sunglasses,32,10/3/2022,1.1,Credit Card,2022,10,Oct,3,Monday
+4036,Umbrella,103,4/16/2023,3,Cash,2023,4,Apr,16,Sunday
+4106,Cardigan,49,4/26/2023,4.3,Cash,2023,4,Apr,26,Wednesday
+4095,Gloves,10,1/3/2023,1.8,Cash,2023,1,Jan,3,Tuesday
+3994,Flannel Shirt,44,7/31/2023,1.5,Cash,2023,7,Jul,31,Monday
+3994,Trench Coat,130,1/19/2023,3,Credit Card,2023,1,Jan,19,Thursday
+4077,Coat,186,9/3/2023,4.7,Credit Card,2023,9,Sep,3,Sunday
+4036,Tunic,132,8/26/2023,2.9,Cash,2023,8,Aug,26,Saturday
+4111,Pants,120,9/15/2023,1.2,Credit Card,2023,9,Sep,15,Friday
+4044,Jumpsuit,162,11/15/2022,3.8,Credit Card,2022,11,Nov,15,Tuesday
+4031,Skirt,11,4/10/2023,2.1,Credit Card,2023,4,Apr,10,Monday
+3959,Blazer,153,6/30/2023,1.8,Cash,2023,6,Jun,30,Friday
+4089,Poncho,73,11/17/2022,2.3,Credit Card,2022,11,Nov,17,Thursday
+3994,Bowtie,109,7/5/2023,1.4,Cash,2023,7,Jul,5,Wednesday
+3971,Kimono,66,6/15/2023,2.5,Cash,2023,6,Jun,15,Thursday
+4017,Poncho,118,12/17/2022,4.3,Credit Card,2022,12,Dec,17,Saturday
+4086,Raincoat,142,3/1/2023,4.4,Credit Card,2023,3,Mar,1,Wednesday
+4100,Polo Shirt,166,12/16/2022,2,Cash,2022,12,Dec,16,Friday
+3970,Sandals,185,4/15/2023,4.4,Credit Card,2023,4,Apr,15,Saturday
+4045,Kimono,78,3/25/2023,2.1,Credit Card,2023,3,Mar,25,Saturday
+4007,Sandals,27,7/17/2023,3.8,Credit Card,2023,7,Jul,17,Monday
+4120,Overalls,173,5/2/2023,4.2,Credit Card,2023,5,May,2,Tuesday
+3974,Raincoat,169,7/9/2023,2.8,Cash,2023,7,Jul,9,Sunday
+4044,Blazer,92,8/1/2023,4.8,Cash,2023,8,Aug,1,Tuesday
+4076,Flannel Shirt,57,12/19/2022,1.5,Credit Card,2022,12,Dec,19,Monday
+4110,Jumpsuit,82,1/30/2023,2.1,Credit Card,2023,1,Jan,30,Monday
+4041,Wallet,193,12/9/2022,4.4,Credit Card,2022,12,Dec,9,Friday
+4105,Loafers,12,5/25/2023,4.4,Credit Card,2023,5,May,25,Thursday
+4101,Onesie,48,12/14/2022,1.7,Cash,2022,12,Dec,14,Wednesday
+4114,Sneakers,117,9/1/2023,4.2,Cash,2023,9,Sep,1,Friday
+4033,Umbrella,137,6/1/2023,1.2,Cash,2023,6,Jun,1,Thursday
+4064,Flannel Shirt,128,12/1/2022,4.1,Credit Card,2022,12,Dec,1,Thursday
+4041,Camisole,18,5/20/2023,4.2,Credit Card,2023,5,May,20,Saturday
+3998,Handbag,47,8/17/2023,2.8,Credit Card,2023,8,Aug,17,Thursday
+4073,Pants,28,7/25/2023,2.4,Credit Card,2023,7,Jul,25,Tuesday
+3967,Tie,56,10/15/2022,4,Credit Card,2022,10,Oct,15,Saturday
+4013,Wallet,107,12/28/2022,3.4,Cash,2022,12,Dec,28,Wednesday
+3957,Pants,41,1/26/2023,4.2,Credit Card,2023,1,Jan,26,Thursday
+4120,Raincoat,192,5/31/2023,3.9,Credit Card,2023,5,May,31,Wednesday
+4014,Kimono,123,9/14/2023,1.7,Cash,2023,9,Sep,14,Thursday
+4015,Jeans,18,7/22/2023,4.8,Cash,2023,7,Jul,22,Saturday
+4116,Sunglasses,34,10/20/2022,2.7,Credit Card,2022,10,Oct,20,Thursday
+4011,Poncho,63,9/29/2023,1.5,Credit Card,2023,9,Sep,29,Friday
+4018,Tank Top,184,5/9/2023,4.5,Credit Card,2023,5,May,9,Tuesday
+4053,Scarf,200,7/6/2023,3.6,Credit Card,2023,7,Jul,6,Thursday
+4009,Poncho,143,8/19/2023,4.8,Cash,2023,8,Aug,19,Saturday
+4004,Socks,86,5/19/2023,4.3,Cash,2023,5,May,19,Friday
+3975,Sneakers,121,2/22/2023,1.1,Credit Card,2023,2,Feb,22,Wednesday
+4048,Handbag,52,5/28/2023,3.5,Credit Card,2023,5,May,28,Sunday
+3964,Umbrella,159,5/18/2023,1.7,Credit Card,2023,5,May,18,Thursday
+3986,Bowtie,12,3/16/2023,3.1,Credit Card,2023,3,Mar,16,Thursday
+3993,Flannel Shirt,158,9/27/2023,3.3,Cash,2023,9,Sep,27,Wednesday
+4031,Hat,131,2/11/2023,3,Credit Card,2023,2,Feb,11,Saturday
+4069,Sandals,49,11/7/2022,4.4,Cash,2022,11,Nov,7,Monday
+4006,Umbrella,32,8/19/2023,1.9,Credit Card,2023,8,Aug,19,Saturday
+4118,Raincoat,137,5/17/2023,3.5,Credit Card,2023,5,May,17,Wednesday
+4049,Vest,170,6/13/2023,1.6,Cash,2023,6,Jun,13,Tuesday
+3964,Tie,49,3/11/2023,3.1,Credit Card,2023,3,Mar,11,Saturday
+4007,Sneakers,37,1/13/2023,1.7,Credit Card,2023,1,Jan,13,Friday
+4029,Socks,152,6/27/2023,3.1,Credit Card,2023,6,Jun,27,Tuesday
+4001,Dress,98,11/10/2022,1.7,Cash,2022,11,Nov,10,Thursday
+4013,Slippers,122,7/7/2023,4.3,Cash,2023,7,Jul,7,Friday
+4024,Flannel Shirt,15,7/5/2023,1.8,Credit Card,2023,7,Jul,5,Wednesday
+4043,Trousers,74,9/17/2023,1.6,Credit Card,2023,9,Sep,17,Sunday
+4098,Flip-Flops,134,10/22/2022,1,Cash,2022,10,Oct,22,Saturday
+4019,Shorts,153,5/21/2023,1.4,Cash,2023,5,May,21,Sunday
+4002,Belt,188,1/17/2023,1,Credit Card,2023,1,Jan,17,Tuesday
+4002,Raincoat,197,11/4/2022,3.9,Cash,2022,11,Nov,4,Friday
+4024,Cardigan,163,3/31/2023,1.1,Cash,2023,3,Mar,31,Friday
+3982,Shorts,151,7/27/2023,2.9,Credit Card,2023,7,Jul,27,Thursday
+3992,Kimono,125,3/15/2023,4.1,Credit Card,2023,3,Mar,15,Wednesday
+4054,Umbrella,77,6/11/2023,2.9,Credit Card,2023,6,Jun,11,Sunday
+3985,Pants,126,8/6/2023,4,Cash,2023,8,Aug,6,Sunday
+4010,Umbrella,107,7/14/2023,2.5,Credit Card,2023,7,Jul,14,Friday
+4035,Pants,14,7/26/2023,4.8,Cash,2023,7,Jul,26,Wednesday
+4073,Flannel Shirt,103,3/5/2023,3.5,Credit Card,2023,3,Mar,5,Sunday
+4018,Cardigan,71,4/9/2023,4.1,Credit Card,2023,4,Apr,9,Sunday
+4051,Flip-Flops,26,6/20/2023,2.8,Credit Card,2023,6,Jun,20,Tuesday
+4052,Sun Hat,147,8/9/2023,3.2,Cash,2023,8,Aug,9,Wednesday
+4000,Wallet,58,10/1/2023,2.6,Credit Card,2023,10,Oct,1,Sunday
+4091,Coat,137,8/19/2023,1.7,Credit Card,2023,8,Aug,19,Saturday
+4116,Blazer,49,4/19/2023,1.5,Credit Card,2023,4,Apr,19,Wednesday
+4068,Kimono,92,12/26/2022,1.3,Cash,2022,12,Dec,26,Monday
+3973,Cardigan,92,4/27/2023,1.8,Credit Card,2023,4,Apr,27,Thursday
+3993,Cardigan,27,1/17/2023,3.6,Cash,2023,1,Jan,17,Tuesday
+4005,Overalls,55,2/13/2023,2.3,Credit Card,2023,2,Feb,13,Monday
+4006,Dress,61,7/10/2023,3.3,Cash,2023,7,Jul,10,Monday
+4038,Shorts,109,1/15/2023,3.6,Cash,2023,1,Jan,15,Sunday
+4110,Sweater,144,6/27/2023,3.6,Credit Card,2023,6,Jun,27,Tuesday
+4066,Kimono,161,10/13/2022,3.2,Credit Card,2022,10,Oct,13,Thursday
+4119,Blazer,103,12/20/2022,1.7,Cash,2022,12,Dec,20,Tuesday
+4019,T-shirt,193,10/10/2022,3.8,Credit Card,2022,10,Oct,10,Monday
+4114,Raincoat,63,6/4/2023,1.8,Credit Card,2023,6,Jun,4,Sunday
+4107,Wallet,30,4/24/2023,2.2,Cash,2023,4,Apr,24,Monday
+4005,T-shirt,173,11/11/2022,3,Cash,2022,11,Nov,11,Friday
+4032,Sandals,116,1/31/2023,1.9,Credit Card,2023,1,Jan,31,Tuesday
+3995,Blouse,191,8/1/2023,2.2,Cash,2023,8,Aug,1,Tuesday
+4020,Cardigan,145,9/15/2023,2,Cash,2023,9,Sep,15,Friday
+4028,Jumpsuit,65,11/29/2022,2.8,Cash,2022,11,Nov,29,Tuesday
+3989,Sun Hat,34,8/21/2023,4.4,Cash,2023,8,Aug,21,Monday
+4106,Hoodie,108,8/6/2023,1.3,Cash,2023,8,Aug,6,Sunday
+4010,Sneakers,73,8/21/2023,4.6,Credit Card,2023,8,Aug,21,Monday
+3977,Pants,55,3/21/2023,3.1,Credit Card,2023,3,Mar,21,Tuesday
+4077,Camisole,152,11/16/2022,1.5,Credit Card,2022,11,Nov,16,Wednesday
+4114,Socks,37,7/9/2023,4.6,Credit Card,2023,7,Jul,9,Sunday
+3973,Belt,157,7/8/2023,3.3,Cash,2023,7,Jul,8,Saturday
+3999,Slippers,127,11/22/2022,4.7,Credit Card,2022,11,Nov,22,Tuesday
+4087,Hoodie,119,12/20/2022,1.6,Credit Card,2022,12,Dec,20,Tuesday
+4056,Cardigan,52,7/19/2023,4,Credit Card,2023,7,Jul,19,Wednesday
+4087,Dress,96,7/5/2023,2.6,Credit Card,2023,7,Jul,5,Wednesday
+4052,Onesie,146,6/26/2023,4.5,Credit Card,2023,6,Jun,26,Monday
+4084,Raincoat,123,8/27/2023,1.7,Cash,2023,8,Aug,27,Sunday
+4089,Boots,90,4/18/2023,2.1,Cash,2023,4,Apr,18,Tuesday
+4075,Umbrella,93,9/2/2023,3.4,Credit Card,2023,9,Sep,2,Saturday
+4002,Handbag,115,11/21/2022,4.5,Credit Card,2022,11,Nov,21,Monday
+4039,Pajamas,120,6/20/2023,3,Cash,2023,6,Jun,20,Tuesday
+4052,Belt,92,12/9/2022,2.4,Credit Card,2022,12,Dec,9,Friday
+4091,Vest,154,10/15/2022,4,Credit Card,2022,10,Oct,15,Saturday
+4080,Skirt,106,8/30/2023,2.5,Cash,2023,8,Aug,30,Wednesday
+4083,Sandals,200,6/9/2023,1.7,Credit Card,2023,6,Jun,9,Friday
+4078,Blazer,125,10/5/2022,2.6,Cash,2022,10,Oct,5,Wednesday
+4120,Sunglasses,14,10/20/2022,2.1,Cash,2022,10,Oct,20,Thursday
+4106,Belt,87,12/1/2022,4.7,Credit Card,2022,12,Dec,1,Thursday
+4010,Leggings,64,5/22/2023,3.3,Credit Card,2023,5,May,22,Monday
+4013,Slippers,15,7/29/2023,1.3,Cash,2023,7,Jul,29,Saturday
+4008,Blouse,186,12/8/2022,1.7,Cash,2022,12,Dec,8,Thursday
+4072,Umbrella,151,1/22/2023,3.9,Credit Card,2023,1,Jan,22,Sunday
+4017,Jumpsuit,156,6/5/2023,4.5,Credit Card,2023,6,Jun,5,Monday
+4035,Blouse,49,7/13/2023,3.9,Credit Card,2023,7,Jul,13,Thursday
+4103,Socks,75,7/12/2023,2.9,Credit Card,2023,7,Jul,12,Wednesday
+3997,Blazer,33,8/8/2023,3.9,Credit Card,2023,8,Aug,8,Tuesday
+4052,Blazer,155,1/28/2023,3.4,Credit Card,2023,1,Jan,28,Saturday
+4022,Hoodie,197,1/24/2023,1,Credit Card,2023,1,Jan,24,Tuesday
+3978,Sunglasses,133,9/28/2023,3.4,Credit Card,2023,9,Sep,28,Thursday
+3978,Overalls,186,9/6/2023,1.6,Cash,2023,9,Sep,6,Wednesday
+4070,Hat,86,9/5/2023,1.6,Credit Card,2023,9,Sep,5,Tuesday
+4047,Belt,107,8/9/2023,3.8,Cash,2023,8,Aug,9,Wednesday
+3967,Flannel Shirt,99,2/3/2023,4,Cash,2023,2,Feb,3,Friday
+4088,Tank Top,40,10/24/2022,2.6,Credit Card,2022,10,Oct,24,Monday
+4116,Leggings,68,5/5/2023,1.7,Credit Card,2023,5,May,5,Friday
+4043,Trench Coat,164,6/10/2023,3.9,Cash,2023,6,Jun,10,Saturday
+4066,Umbrella,172,3/18/2023,3.9,Credit Card,2023,3,Mar,18,Saturday
+4072,Romper,107,5/25/2023,4.7,Credit Card,2023,5,May,25,Thursday
+4067,Overalls,91,8/12/2023,3.5,Cash,2023,8,Aug,12,Saturday
+4061,Raincoat,48,5/1/2023,1.1,Cash,2023,5,May,1,Monday
+4051,Belt,188,6/24/2023,2.7,Cash,2023,6,Jun,24,Saturday
+4084,Overalls,22,1/25/2023,3.1,Credit Card,2023,1,Jan,25,Wednesday
+4038,Tie,110,1/7/2023,2.8,Credit Card,2023,1,Jan,7,Saturday
+4026,Tie,162,3/24/2023,4.2,Credit Card,2023,3,Mar,24,Friday
+4054,Overalls,33,4/1/2023,1.4,Credit Card,2023,4,Apr,1,Saturday
+3963,Jeans,84,9/20/2023,2.1,Credit Card,2023,9,Sep,20,Wednesday
+4002,Sun Hat,47,5/18/2023,2.1,Credit Card,2023,5,May,18,Thursday
+4024,Tie,22,5/16/2023,1,Credit Card,2023,5,May,16,Tuesday
+4122,Hoodie,77,1/30/2023,4.9,Credit Card,2023,1,Jan,30,Monday
+4048,Blouse,188,12/28/2022,4.4,Credit Card,2022,12,Dec,28,Wednesday
+4085,Boots,134,11/22/2022,4.4,Credit Card,2022,11,Nov,22,Tuesday
+4121,Swimsuit,198,3/25/2023,1.9,Credit Card,2023,3,Mar,25,Saturday
+3977,Blouse,72,8/21/2023,3.4,Credit Card,2023,8,Aug,21,Monday
+4015,Polo Shirt,92,9/15/2023,1.1,Cash,2023,9,Sep,15,Friday
+3975,Sweater,118,9/13/2023,2.7,Cash,2023,9,Sep,13,Wednesday
+4049,Tunic,58,10/18/2022,2.3,Cash,2022,10,Oct,18,Tuesday
+3966,Vest,162,4/3/2023,2.2,Cash,2023,4,Apr,3,Monday
+4096,Blouse,88,12/6/2022,1.8,Credit Card,2022,12,Dec,6,Tuesday
+4042,Wallet,123,11/18/2022,4.6,Cash,2022,11,Nov,18,Friday
+4007,T-shirt,122,6/27/2023,1.1,Cash,2023,6,Jun,27,Tuesday
+4021,Tunic,61,8/14/2023,2.4,Cash,2023,8,Aug,14,Monday
+4034,Flannel Shirt,49,8/6/2023,1.9,Credit Card,2023,8,Aug,6,Sunday
+4027,Overalls,31,9/12/2023,1.2,Credit Card,2023,9,Sep,12,Tuesday
+3992,Sweater,47,2/19/2023,4.4,Credit Card,2023,2,Feb,19,Sunday
+3959,Skirt,38,2/13/2023,3.6,Credit Card,2023,2,Feb,13,Monday
+4033,Trousers,130,10/24/2022,2.4,Credit Card,2022,10,Oct,24,Monday
+4045,Skirt,147,4/8/2023,3.7,Cash,2023,4,Apr,8,Saturday
+4060,Cardigan,149,6/19/2023,1.9,Credit Card,2023,6,Jun,19,Monday
+4060,Sunglasses,76,7/4/2023,2.1,Credit Card,2023,7,Jul,4,Tuesday
+4105,Onesie,169,1/17/2023,1.5,Cash,2023,1,Jan,17,Tuesday
+3960,Tank Top,46,11/24/2022,4.6,Cash,2022,11,Nov,24,Thursday
+4077,Trousers,181,11/10/2022,3,Credit Card,2022,11,Nov,10,Thursday
+3995,Shorts,179,11/3/2022,4.6,Cash,2022,11,Nov,3,Thursday
+4058,Poncho,75,3/8/2023,1.3,Credit Card,2023,3,Mar,8,Wednesday
+4015,Umbrella,188,10/28/2022,2.5,Credit Card,2022,10,Oct,28,Friday
+4010,Trench Coat,23,8/31/2023,1.7,Cash,2023,8,Aug,31,Thursday
+4078,Poncho,12,9/26/2023,2.9,Cash,2023,9,Sep,26,Tuesday
+4089,Sweater,179,12/19/2022,2.7,Cash,2022,12,Dec,19,Monday
+4107,Tank Top,178,1/26/2023,3.2,Cash,2023,1,Jan,26,Thursday
+4098,Scarf,37,8/29/2023,4.2,Credit Card,2023,8,Aug,29,Tuesday
+4044,Sun Hat,107,1/11/2023,4.2,Credit Card,2023,1,Jan,11,Wednesday
+3978,Poncho,191,4/25/2023,1.4,Credit Card,2023,4,Apr,25,Tuesday
+4066,Gloves,57,11/29/2022,3.1,Cash,2022,11,Nov,29,Tuesday
+4010,Handbag,153,8/19/2023,3.7,Credit Card,2023,8,Aug,19,Saturday
+4069,Pants,15,4/21/2023,1.6,Cash,2023,4,Apr,21,Friday
+4099,Handbag,88,8/6/2023,4.9,Cash,2023,8,Aug,6,Sunday
+3964,Blazer,110,11/9/2022,2.9,Cash,2022,11,Nov,9,Wednesday
+4052,Camisole,14,10/21/2022,1.2,Cash,2022,10,Oct,21,Friday
+3992,T-shirt,100,7/27/2023,2,Credit Card,2023,7,Jul,27,Thursday
+4104,Kimono,87,8/25/2023,1.9,Credit Card,2023,8,Aug,25,Friday
+3959,Socks,109,8/14/2023,2.4,Cash,2023,8,Aug,14,Monday
+4084,Shorts,17,5/18/2023,2.1,Cash,2023,5,May,18,Thursday
+4047,Jacket,81,7/4/2023,4.2,Cash,2023,7,Jul,4,Tuesday
+4043,T-shirt,97,10/29/2022,3.8,Cash,2022,10,Oct,29,Saturday
+4065,Shorts,143,8/25/2023,3.1,Cash,2023,8,Aug,25,Friday
+4060,Flannel Shirt,166,3/5/2023,2.7,Credit Card,2023,3,Mar,5,Sunday
+4094,Skirt,185,8/19/2023,2,Credit Card,2023,8,Aug,19,Saturday
+4040,Scarf,119,4/2/2023,1,Credit Card,2023,4,Apr,2,Sunday
+4107,Skirt,164,5/8/2023,3.7,Cash,2023,5,May,8,Monday
+3962,Onesie,148,6/21/2023,1.8,Credit Card,2023,6,Jun,21,Wednesday
+3965,Trench Coat,158,2/13/2023,2.8,Cash,2023,2,Feb,13,Monday
+3992,Bowtie,61,4/30/2023,2.7,Credit Card,2023,4,Apr,30,Sunday
+3996,Vest,89,6/1/2023,4.3,Cash,2023,6,Jun,1,Thursday
+4102,Shorts,120,3/1/2023,3.1,Cash,2023,3,Mar,1,Wednesday
+4118,Blazer,47,10/14/2022,3.8,Credit Card,2022,10,Oct,14,Friday
+4111,Vest,154,1/28/2023,1.1,Credit Card,2023,1,Jan,28,Saturday
+4112,Onesie,91,5/6/2023,2.6,Credit Card,2023,5,May,6,Saturday
+4057,Boots,194,3/3/2023,3.4,Cash,2023,3,Mar,3,Friday
+4057,Flip-Flops,91,5/11/2023,3.7,Credit Card,2023,5,May,11,Thursday
+3973,Umbrella,115,1/21/2023,2,Cash,2023,1,Jan,21,Saturday
+4055,Wallet,173,8/11/2023,3.3,Cash,2023,8,Aug,11,Friday
+4005,Flip-Flops,80,3/14/2023,4.8,Credit Card,2023,3,Mar,14,Tuesday
+4072,Jeans,167,9/5/2023,5,Cash,2023,9,Sep,5,Tuesday
+4034,Pants,162,12/1/2022,1.2,Cash,2022,12,Dec,1,Thursday
+3980,Poncho,185,4/1/2023,3,Credit Card,2023,4,Apr,1,Saturday
+4098,Coat,44,4/7/2023,2.6,Credit Card,2023,4,Apr,7,Friday
+4002,Trench Coat,164,5/21/2023,5,Credit Card,2023,5,May,21,Sunday
+3965,Poncho,176,9/28/2023,3.6,Cash,2023,9,Sep,28,Thursday
+4111,Tank Top,109,12/23/2022,3.4,Cash,2022,12,Dec,23,Friday
+4082,Polo Shirt,45,8/5/2023,4.3,Cash,2023,8,Aug,5,Saturday
+4004,Onesie,114,9/9/2023,2.6,Credit Card,2023,9,Sep,9,Saturday
+4007,Onesie,13,12/16/2022,1.4,Credit Card,2022,12,Dec,16,Friday
+3974,Cardigan,115,9/6/2023,2.1,Cash,2023,9,Sep,6,Wednesday
+4029,Wallet,62,1/29/2023,2.1,Credit Card,2023,1,Jan,29,Sunday
+4016,Slippers,122,6/19/2023,1.7,Cash,2023,6,Jun,19,Monday
+4031,Kimono,135,4/21/2023,4.9,Credit Card,2023,4,Apr,21,Friday
+4091,Swimsuit,127,7/15/2023,3.4,Credit Card,2023,7,Jul,15,Saturday
+3974,Wallet,119,1/16/2023,4.6,Cash,2023,1,Jan,16,Monday
+4073,Sneakers,20,9/30/2023,2.8,Credit Card,2023,9,Sep,30,Saturday
+4051,Pajamas,110,12/10/2022,4.6,Credit Card,2022,12,Dec,10,Saturday
+4089,Tank Top,200,7/18/2023,2.7,Cash,2023,7,Jul,18,Tuesday
+3959,Skirt,147,11/16/2022,3.6,Cash,2022,11,Nov,16,Wednesday
+4040,Tie,143,7/15/2023,3.1,Credit Card,2023,7,Jul,15,Saturday
+4057,Pants,20,9/28/2023,1.4,Cash,2023,9,Sep,28,Thursday
+3985,Cardigan,111,3/6/2023,3.7,Cash,2023,3,Mar,6,Monday
+4094,Shorts,142,12/24/2022,3.5,Cash,2022,12,Dec,24,Saturday
+3974,T-shirt,87,12/30/2022,4.2,Credit Card,2022,12,Dec,30,Friday
+4056,Slippers,83,3/4/2023,3.7,Credit Card,2023,3,Mar,4,Saturday
+4009,Blazer,118,11/17/2022,3.3,Credit Card,2022,11,Nov,17,Thursday
+3990,Dress,23,4/12/2023,4.5,Credit Card,2023,4,Apr,12,Wednesday
+4009,Backpack,46,4/10/2023,2.8,Credit Card,2023,4,Apr,10,Monday
+4036,Backpack,175,11/6/2022,1.4,Credit Card,2022,11,Nov,6,Sunday
+4067,Wallet,194,7/10/2023,4.9,Cash,2023,7,Jul,10,Monday
+4078,Flip-Flops,56,3/28/2023,3.2,Cash,2023,3,Mar,28,Tuesday
+3997,Bowtie,188,8/18/2023,4.9,Credit Card,2023,8,Aug,18,Friday
+4111,Dress,110,2/9/2023,3,Cash,2023,2,Feb,9,Thursday
+4104,Raincoat,125,7/4/2023,4.4,Credit Card,2023,7,Jul,4,Tuesday
+4107,Overalls,192,7/27/2023,2.2,Credit Card,2023,7,Jul,27,Thursday
+4008,Camisole,126,5/11/2023,4,Credit Card,2023,5,May,11,Thursday
+4074,Sneakers,176,10/14/2022,3.1,Cash,2022,10,Oct,14,Friday
+4027,T-shirt,51,5/28/2023,3.3,Credit Card,2023,5,May,28,Sunday
+4008,Coat,41,1/16/2023,3,Cash,2023,1,Jan,16,Monday
+3993,Trench Coat,172,2/28/2023,4.2,Credit Card,2023,2,Feb,28,Tuesday
+4071,Trench Coat,144,4/16/2023,1.2,Credit Card,2023,4,Apr,16,Sunday
+3973,Scarf,196,5/31/2023,2.9,Cash,2023,5,May,31,Wednesday
+4111,Romper,50,2/9/2023,4.4,Credit Card,2023,2,Feb,9,Thursday
+4020,Flannel Shirt,107,4/19/2023,1.3,Cash,2023,4,Apr,19,Wednesday
+4102,Jacket,178,3/27/2023,4.6,Credit Card,2023,3,Mar,27,Monday
+4082,Hat,51,8/21/2023,3.4,Credit Card,2023,8,Aug,21,Monday
+4074,Backpack,55,7/22/2023,3.4,Credit Card,2023,7,Jul,22,Saturday
+4075,Pants,23,4/2/2023,4.6,Credit Card,2023,4,Apr,2,Sunday
+4104,Raincoat,89,7/7/2023,3.9,Credit Card,2023,7,Jul,7,Friday
+3967,Backpack,124,2/24/2023,4.8,Cash,2023,2,Feb,24,Friday
+3980,Camisole,56,8/30/2023,4.4,Credit Card,2023,8,Aug,30,Wednesday
+4073,Overalls,169,6/8/2023,3.9,Cash,2023,6,Jun,8,Thursday
+4045,Romper,13,2/16/2023,4.2,Credit Card,2023,2,Feb,16,Thursday
+4033,Blouse,137,8/10/2023,2.7,Credit Card,2023,8,Aug,10,Thursday
+4057,Sneakers,11,11/29/2022,1.2,Credit Card,2022,11,Nov,29,Tuesday
+4113,Tunic,136,5/7/2023,3.6,Cash,2023,5,May,7,Sunday
+4001,Wallet,160,11/3/2022,2.1,Cash,2022,11,Nov,3,Thursday
+4063,Blazer,126,5/16/2023,3.8,Credit Card,2023,5,May,16,Tuesday
+4020,Vest,30,10/3/2022,2.3,Credit Card,2022,10,Oct,3,Monday
+4002,Jacket,11,3/23/2023,1.4,Credit Card,2023,3,Mar,23,Thursday
+4115,Backpack,150,10/8/2022,3.3,Cash,2022,10,Oct,8,Saturday
+4067,Onesie,170,12/23/2022,3.6,Credit Card,2022,12,Dec,23,Friday
+4074,Pajamas,63,12/25/2022,1.7,Cash,2022,12,Dec,25,Sunday
+4102,Wallet,19,9/7/2023,3.4,Credit Card,2023,9,Sep,7,Thursday
+4018,Trench Coat,32,7/11/2023,2.2,Credit Card,2023,7,Jul,11,Tuesday
+4094,Sandals,179,11/21/2022,4.9,Cash,2022,11,Nov,21,Monday
+4031,Blouse,162,1/26/2023,4,Cash,2023,1,Jan,26,Thursday
+3974,Tank Top,153,3/4/2023,2.6,Cash,2023,3,Mar,4,Saturday
+4083,Slippers,158,9/8/2023,3.3,Credit Card,2023,9,Sep,8,Friday
+4062,Slippers,19,6/4/2023,1.9,Credit Card,2023,6,Jun,4,Sunday
+3988,Slippers,104,9/24/2023,3.5,Cash,2023,9,Sep,24,Sunday
+4051,Flip-Flops,27,10/31/2022,1.5,Cash,2022,10,Oct,31,Monday
+3976,Vest,150,9/28/2023,2.9,Credit Card,2023,9,Sep,28,Thursday
+4086,Dress,41,2/9/2023,3.3,Credit Card,2023,2,Feb,9,Thursday
+4040,Jeans,80,7/16/2023,3.5,Credit Card,2023,7,Jul,16,Sunday
+4072,Coat,188,9/22/2023,1.9,Cash,2023,9,Sep,22,Friday
+3999,Gloves,24,6/8/2023,3.3,Credit Card,2023,6,Jun,8,Thursday
+4010,Wallet,171,2/26/2023,4,Credit Card,2023,2,Feb,26,Sunday
+4086,Skirt,32,10/15/2022,4.3,Cash,2022,10,Oct,15,Saturday
+3968,Kimono,186,12/6/2022,4.5,Credit Card,2022,12,Dec,6,Tuesday
+4075,Umbrella,190,7/31/2023,1.4,Cash,2023,7,Jul,31,Monday
+3963,Onesie,165,12/5/2022,3.9,Credit Card,2022,12,Dec,5,Monday
+3975,Leggings,76,7/3/2023,2.4,Credit Card,2023,7,Jul,3,Monday
+4120,Tunic,169,4/27/2023,1.2,Cash,2023,4,Apr,27,Thursday
+4075,Gloves,43,2/26/2023,3.2,Credit Card,2023,2,Feb,26,Sunday
+4044,Camisole,171,8/24/2023,4.3,Credit Card,2023,8,Aug,24,Thursday
+4006,Skirt,69,1/13/2023,4.6,Credit Card,2023,1,Jan,13,Friday
+4058,Hat,59,10/16/2022,2.2,Credit Card,2022,10,Oct,16,Sunday
+4021,Tunic,40,8/22/2023,1.1,Credit Card,2023,8,Aug,22,Tuesday
+3986,Tie,63,3/29/2023,2.2,Credit Card,2023,3,Mar,29,Wednesday
+4040,Sweater,95,7/23/2023,2.6,Cash,2023,7,Jul,23,Sunday
+4081,Sandals,173,7/28/2023,2.9,Cash,2023,7,Jul,28,Friday
+4075,Shorts,82,4/16/2023,4,Credit Card,2023,4,Apr,16,Sunday
+3974,Dress,27,9/29/2023,1.5,Credit Card,2023,9,Sep,29,Friday
+3978,Poncho,139,1/5/2023,3.2,Cash,2023,1,Jan,5,Thursday
+4097,Jacket,11,11/30/2022,3.5,Cash,2022,11,Nov,30,Wednesday
+4069,Tunic,111,1/6/2023,4.5,Credit Card,2023,1,Jan,6,Friday
+3992,Swimsuit,167,5/2/2023,3.2,Cash,2023,5,May,2,Tuesday
+3998,Jeans,182,5/25/2023,3.1,Credit Card,2023,5,May,25,Thursday
+4000,Hat,131,12/4/2022,4.1,Credit Card,2022,12,Dec,4,Sunday
+3961,Leggings,175,8/5/2023,3.5,Cash,2023,8,Aug,5,Saturday
+4002,Bowtie,147,5/1/2023,3.2,Cash,2023,5,May,1,Monday
+4032,Pajamas,128,5/12/2023,2,Cash,2023,5,May,12,Friday
+3988,Blouse,115,11/10/2022,2.6,Credit Card,2022,11,Nov,10,Thursday
+4093,Handbag,24,10/2/2022,2.8,Credit Card,2022,10,Oct,2,Sunday
+4057,Sunglasses,86,12/12/2022,2.5,Credit Card,2022,12,Dec,12,Monday
+4000,Sun Hat,183,3/11/2023,4.6,Cash,2023,3,Mar,11,Saturday
+4026,Sandals,94,2/21/2023,3.6,Credit Card,2023,2,Feb,21,Tuesday
+3996,Kimono,100,12/30/2022,3.5,Credit Card,2022,12,Dec,30,Friday
+4002,Cardigan,96,12/6/2022,2.9,Credit Card,2022,12,Dec,6,Tuesday
+4012,Gloves,170,12/9/2022,3.8,Credit Card,2022,12,Dec,9,Friday
+3965,Socks,52,9/15/2023,3.8,Cash,2023,9,Sep,15,Friday
+4093,Poncho,109,9/24/2023,1.3,Credit Card,2023,9,Sep,24,Sunday
+3969,Flannel Shirt,88,8/12/2023,3.2,Cash,2023,8,Aug,12,Saturday
+4119,Socks,90,7/30/2023,4.2,Cash,2023,7,Jul,30,Sunday
+4090,Hoodie,79,7/7/2023,2.3,Cash,2023,7,Jul,7,Friday
+4121,Slippers,137,10/22/2022,3.8,Cash,2022,10,Oct,22,Saturday
+3983,Jeans,105,11/8/2022,3.1,Cash,2022,11,Nov,8,Tuesday
+4056,Handbag,87,1/16/2023,2.5,Credit Card,2023,1,Jan,16,Monday
+3970,Scarf,19,7/12/2023,3.6,Cash,2023,7,Jul,12,Wednesday
+4110,Dress,33,1/23/2023,1.5,Credit Card,2023,1,Jan,23,Monday
+3958,Blouse,16,5/5/2023,3.3,Cash,2023,5,May,5,Friday
+3969,T-shirt,138,6/8/2023,2.2,Credit Card,2023,6,Jun,8,Thursday
+4008,Jumpsuit,133,8/14/2023,4.1,Cash,2023,8,Aug,14,Monday
+4020,Tie,144,10/10/2022,3.2,Credit Card,2022,10,Oct,10,Monday
+4052,Sunglasses,93,11/19/2022,3,Credit Card,2022,11,Nov,19,Saturday
+4008,Jacket,142,5/21/2023,2,Credit Card,2023,5,May,21,Sunday
+3961,Hat,19,11/7/2022,2.2,Cash,2022,11,Nov,7,Monday
+4064,Umbrella,192,3/18/2023,2.5,Cash,2023,3,Mar,18,Saturday
+3964,Camisole,39,12/17/2022,2.4,Credit Card,2022,12,Dec,17,Saturday
+4043,Backpack,185,3/6/2023,2.2,Credit Card,2023,3,Mar,6,Monday
+4006,Flannel Shirt,32,2/20/2023,1.9,Credit Card,2023,2,Feb,20,Monday
+3973,Kimono,21,4/26/2023,4.2,Cash,2023,4,Apr,26,Wednesday
+3981,Scarf,200,2/19/2023,4.4,Credit Card,2023,2,Feb,19,Sunday
+3999,Sunglasses,157,3/1/2023,4.2,Credit Card,2023,3,Mar,1,Wednesday
+3999,Onesie,173,10/15/2022,4.1,Cash,2022,10,Oct,15,Saturday
+3968,Trench Coat,92,8/13/2023,1.7,Credit Card,2023,8,Aug,13,Sunday
+4063,Raincoat,83,12/25/2022,3.8,Cash,2022,12,Dec,25,Sunday
+3984,Flip-Flops,181,2/4/2023,2.3,Cash,2023,2,Feb,4,Saturday
+4100,Jacket,13,5/24/2023,3.7,Credit Card,2023,5,May,24,Wednesday
+4117,Bowtie,153,3/6/2023,1.7,Credit Card,2023,3,Mar,6,Monday
+4005,Belt,62,4/22/2023,2.2,Cash,2023,4,Apr,22,Saturday
+4116,Handbag,150,4/4/2023,4.2,Cash,2023,4,Apr,4,Tuesday
+4010,Pajamas,46,5/12/2023,4.5,Credit Card,2023,5,May,12,Friday
+4095,Jacket,82,3/8/2023,2.9,Credit Card,2023,3,Mar,8,Wednesday
+4058,Sunglasses,53,12/12/2022,4.1,Credit Card,2022,12,Dec,12,Monday
+3987,Blouse,96,10/28/2022,1.7,Cash,2022,10,Oct,28,Friday
+4016,Flannel Shirt,22,11/27/2022,1.4,Credit Card,2022,11,Nov,27,Sunday
+3984,Skirt,182,4/16/2023,4.8,Credit Card,2023,4,Apr,16,Sunday
+4039,Kimono,32,6/9/2023,1.2,Cash,2023,6,Jun,9,Friday
+4001,Gloves,55,12/6/2022,4.9,Credit Card,2022,12,Dec,6,Tuesday
+4059,Loafers,186,1/21/2023,3.1,Credit Card,2023,1,Jan,21,Saturday
+4037,Polo Shirt,167,11/5/2022,3.8,Credit Card,2022,11,Nov,5,Saturday
+3960,Trousers,95,7/19/2023,1.5,Cash,2023,7,Jul,19,Wednesday
+4056,Jeans,192,7/28/2023,1.7,Credit Card,2023,7,Jul,28,Friday
+4011,Gloves,146,4/2/2023,4.8,Cash,2023,4,Apr,2,Sunday
+3973,Pajamas,33,8/11/2023,2.8,Cash,2023,8,Aug,11,Friday
+4028,Romper,188,8/22/2023,2.6,Cash,2023,8,Aug,22,Tuesday
+4116,Raincoat,126,3/22/2023,1.7,Cash,2023,3,Mar,22,Wednesday
+4051,Jacket,174,4/2/2023,1.3,Credit Card,2023,4,Apr,2,Sunday
+3968,Coat,129,7/27/2023,4.7,Credit Card,2023,7,Jul,27,Thursday
+4062,Polo Shirt,76,1/3/2023,2.9,Cash,2023,1,Jan,3,Tuesday
+4034,Sunglasses,110,6/7/2023,2.4,Credit Card,2023,6,Jun,7,Wednesday
+4084,Flannel Shirt,94,5/14/2023,1.2,Credit Card,2023,5,May,14,Sunday
+3983,Flip-Flops,93,4/12/2023,4.9,Cash,2023,4,Apr,12,Wednesday
+4094,Trench Coat,17,2/13/2023,2.5,Credit Card,2023,2,Feb,13,Monday
+4021,Flip-Flops,53,8/9/2023,4,Cash,2023,8,Aug,9,Wednesday
+3981,Sweater,99,10/25/2022,4.5,Cash,2022,10,Oct,25,Tuesday
+4110,Polo Shirt,42,10/15/2022,4,Cash,2022,10,Oct,15,Saturday
+4040,Tank Top,113,1/20/2023,1.2,Credit Card,2023,1,Jan,20,Friday
+4118,Shorts,37,7/9/2023,2.7,Cash,2023,7,Jul,9,Sunday
+4056,Slippers,176,3/16/2023,2.5,Cash,2023,3,Mar,16,Thursday
+4042,Sandals,128,1/1/2023,1.8,Cash,2023,1,Jan,1,Sunday
+4001,Backpack,115,3/22/2023,1.4,Cash,2023,3,Mar,22,Wednesday
